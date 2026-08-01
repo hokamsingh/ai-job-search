@@ -1,0 +1,275 @@
+{
+  "seen": {
+    "https://linkedin.com/jobs/view/react-js-+-node-js-developer-remote-usa-at-fullstack-labs-2968221543": {
+      "title": "React JS + Node JS Developer - Remote (USA)",
+      "company": "FullStack Labs",
+      "location": "Remote, United States",
+      "url": "https://linkedin.com/jobs/view/react-js-+-node-js-developer-remote-usa-at-fullstack-labs-2968221543",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-defi-nestjs-at-spectrum-search-4357581230": {
+      "title": "Senior Backend Engineer (DeFi) - NestJS",
+      "company": "Spectrum Search",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-defi-nestjs-at-spectrum-search-4357581230",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942631546": {
+      "title": "Junior Backend Engineer (Support)",
+      "company": "Remote (remote.com)",
+      "location": "United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942631546",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-node-nest-js-at-micro1-4343526814": {
+      "title": "Backend Engineer (Node/Nest.js)",
+      "company": "micro1",
+      "location": "Latin America",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-node-nest-js-at-micro1-4343526814",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/back-end-software-engineer-remote-at-thriveworks-3351103908": {
+      "title": "Back End Software Engineer - Remote",
+      "company": "Thriveworks",
+      "location": "Atlanta, GA, United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/back-end-software-engineer-remote-at-thriveworks-3351103908",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-developer-node-js-reactjs-aws-remote-at-connecttel-inc-2746684156": {
+      "title": "Full Stack Developer (Node.js, ReactJS, AWS) - Remote",
+      "company": "ConnectTel, Inc.",
+      "location": "Austin, TX, United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-node-js-reactjs-aws-remote-at-connecttel-inc-2746684156",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://in.linkedin.com/jobs/view/full-stack-engineer-typescript-node-js-nest-js-at-vonage-4400838757": {
+      "title": "Full Stack Engineer (TypeScript, Node.js, Nest.js)",
+      "company": "Vonage",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-typescript-node-js-nest-js-at-vonage-4400838757",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/full-stack-engineer-react-js-nestjs-typescript-node-js-gcp-at-photon-4428749355": {
+      "title": "Full Stack Engineer (React.js / NestJS / TypeScript / Node.js / GCP)",
+      "company": "Photon",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-react-js-nestjs-typescript-node-js-gcp-at-photon-4428749355",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-node-+-nestjs-+-aws-100%-remote-ireland-portugal-only-at-allshore-talent-4361540461": {
+      "title": "Senior Full Stack Engineer (Node + NestJS + AWS) - Remote (Ireland/Portugal only)",
+      "company": "Allshore Talent",
+      "location": "Remote - restricted to Ireland/Portugal residents",
+      "url": "https://ie.linkedin.com/jobs/view/senior-full-stack-engineer-node-+-nestjs-+-aws-100%-remote-ireland-portugal-only-at-allshore-talent-4361540461",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-software-engineer-typescript-nestjs-node-js-react-at-w3global-4437322060": {
+      "title": "Senior Software Engineer (TypeScript, NestJS, Node.js, React)",
+      "company": "W3Global",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-typescript-nestjs-node-js-react-at-w3global-4437322060",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://hn.linkedin.com/jobs/view/staff-backend-engineer-node-js-%2B-typescript-remote-work-at-bairesdev-4389593102": {
+      "title": "Staff Backend Engineer (Node.js + TypeScript) - Remote Work (posted in 2+ countries)",
+      "company": "BairesDev",
+      "location": "Remote (multiple LinkedIn country domains: CL, HN)",
+      "url": "https://hn.linkedin.com/jobs/view/staff-backend-engineer-node-js-%2B-typescript-remote-work-at-bairesdev-4389593102",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "mass_posting_note": "Consolidated from 2 near-identical listings (Node.js/TypeScript, Staff level, 'Remote Work') on cl.linkedin.com and hn.linkedin.com; likely posted in additional country domains beyond these two."
+    },
+    "https://www.linkedin.com/jobs/view/senior-node-js-developer-remote-at-emtec-inc-3364398851": {
+      "title": "Senior Node.JS Developer - Remote",
+      "company": "Emtec Inc.",
+      "location": "United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-node-js-developer-remote-at-emtec-inc-3364398851",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+      "title": "Backend Engineer at Fintech Startup (ONRAMP)",
+      "company": "Onramp",
+      "location": "California, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/technical-lead-node-engineer-financial-100%25-remote-at-averity-3469596225": {
+      "title": "Senior Lead Backend Engineer (Financial) - Technical Lead, Node",
+      "company": "Averity (fintech client)",
+      "location": "United States (100% Remote)",
+      "url": "https://www.linkedin.com/jobs/view/technical-lead-node-engineer-financial-100%25-remote-at-averity-3469596225",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284314276": {
+      "title": "Senior Backend Engineer (Fintech)",
+      "company": "Recruiting from Scratch (fintech client)",
+      "location": "Germantown, KY, United States",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284314276",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/fintech-full-stack-developer-us-remote-at-token-metrics-3251382677": {
+      "title": "FinTech Full Stack Developer (US-Remote)",
+      "company": "Token Metrics",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/fintech-full-stack-developer-us-remote-at-token-metrics-3251382677",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-fintech-at-onepay-4124382466": {
+      "title": "Backend Engineer, Fintech",
+      "company": "OnePay",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-fintech-at-onepay-4124382466",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://es.linkedin.com/jobs/view/backend-engineer-the-uk-europe-remote-at-workfully-4034553761": {
+      "title": "Backend Engineer - the UK, Europe, remote",
+      "company": "Workfully",
+      "location": "UK/Europe (Remote)",
+      "url": "https://es.linkedin.com/jobs/view/backend-engineer-the-uk-europe-remote-at-workfully-4034553761",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-retention-sports-betting-igaming-at-leovegas-group-4145078554": {
+      "title": "Senior Backend Engineer - Retention/Sports Betting/iGaming",
+      "company": "LeoVegas Group",
+      "location": "Europe",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-retention-sports-betting-igaming-at-leovegas-group-4145078554",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/remote-backend-engineer-golang-blockchain-defi-at-cybercoders-2923855247": {
+      "title": "Remote Backend Engineer - Golang - Blockchain/DeFi",
+      "company": "CyberCoders (blockchain/DeFi client)",
+      "location": "Boston, MA, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/remote-backend-engineer-golang-blockchain-defi-at-cybercoders-2923855247",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-remote-at-polygon-labs-3496429679": {
+      "title": "Blockchain Engineer (Remote)",
+      "company": "Polygon Labs",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/blockchain-engineer-remote-at-polygon-labs-3496429679",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-usa-at-leolabs-inc-3318542585": {
+      "title": "Senior Backend Engineer (Remote, USA)",
+      "company": "LeoLabs, Inc.",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-usa-at-leolabs-inc-3318542585",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-remote-at-coderpad-2660972215": {
+      "title": "Backend Engineer (REMOTE)",
+      "company": "CoderPad",
+      "location": "San Francisco, CA, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-remote-at-coderpad-2660972215",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-remote-at-ifttt-3043181549": {
+      "title": "Backend Engineer (Remote)",
+      "company": "IFTTT",
+      "location": "San Francisco, CA, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-remote-at-ifttt-3043181549",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-back-end-software-engineer-remote-at-routable-3736332065": {
+      "title": "Senior Back End Software Engineer (Remote)",
+      "company": "Routable",
+      "location": "Seattle, WA, United States (Remote, US/Canada team)",
+      "url": "https://www.linkedin.com/jobs/view/senior-back-end-software-engineer-remote-at-routable-3736332065",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985": {
+      "title": "Remote Senior Backend Software Developer",
+      "company": "BitPay",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/senior-software-engineer-backend-developer-product-group/2660867": {
+      "title": "Senior Software Engineer, Backend (Onchain Payments)",
+      "company": "Coinbase",
+      "location": "United States",
+      "url": "https://builtin.com/job/senior-software-engineer-backend-developer-product-group/2660867",
+      "first_seen": "2026-08-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    }
+  }
+}
