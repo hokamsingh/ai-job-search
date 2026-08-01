@@ -8,6 +8,12 @@ Follow these steps **in order**. Do not skip a step because a prior step found n
 
 ---
 
+## Known limitation: cloud sandbox network restrictions
+
+When this command runs inside the scheduled cloud routine (CCR "Default" environment), direct outbound HTTP is restricted: portal CLIs (`bun run .../cli.ts`) and the `WebFetch` tool both fail, while `WebSearch` still works (routed through Anthropic's own infrastructure rather than a direct sandbox network call). Observed on the first live cloud run (2026-08-01): all portal CLIs failed, 27 postings were still found via the WebSearch fallback, and `/rank` correctly left them unranked rather than scoring from a title alone. This is expected, honest degraded behavior in that environment, not a bug to "fix" by relaxing the no-fabrication rule. Running `/daily-search` locally (outside the cloud sandbox) is unaffected and ranks normally.
+
+---
+
 ## Step 1: Scrape
 
 Invoke the `job-scraper` skill (equivalent to running `/scrape` with no arguments) to find and dedupe new postings across every installed portal CLI (`linkedin-search`, `remoteok-search`, `weworkremotely-search`, `freehire-search`, the Danish CLIs) plus the WebSearch fallback queries in `.claude/skills/job-scraper/search-queries.md`.
