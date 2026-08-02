@@ -270,6 +270,131 @@
       "fit": "high",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/remote-sr-backend-engineer-at-first-american-3518558686": {
+      "title": "REMOTE - Sr. Backend Engineer",
+      "company": "First American",
+      "location": "Santa Ana, CA, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/remote-sr-backend-engineer-at-first-american-3518558686",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/devops-engineer-remote-usa-at-fullstack-labs-2968214913": {
+      "title": "DevOps Engineer - Remote - USA",
+      "company": "FullStack Labs",
+      "location": "Columbus, OH, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/devops-engineer-remote-usa-at-fullstack-labs-2968214913",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://cl.linkedin.com/jobs/view/staff-distributed-systems-engineer-node-js-typescript-remote-work-at-bairesdev-4382886852": {
+      "title": "Staff Distributed Systems Engineer (Node.js / TypeScript) - Remote Work",
+      "company": "BairesDev",
+      "location": "Remote (Chile LinkedIn domain)",
+      "url": "https://cl.linkedin.com/jobs/view/staff-distributed-systems-engineer-node-js-typescript-remote-work-at-bairesdev-4382886852",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "BairesDev (staffing/outsourcing firm) already has a separate 'Staff Backend Engineer (Node.js + TypeScript) - Remote Work' listing seen 2026-08-01, plus a generic 'Node.js Developer - Remote Work' listing found this run - same company posting a high volume of similarly-worded Node.js/TypeScript remote roles across country domains. Distinct titles/seniority, not merged, but worth the caution flag."
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-100%25-remote-at-trustpoint-one-2902511437": {
+      "title": "Node.JS Developer - 100% Remote",
+      "company": "Trustpoint.One",
+      "location": "United States (100% Remote)",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-100%25-remote-at-trustpoint-one-2902511437",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-work-at-bairesdev-4434105962": {
+      "title": "Node.js Developer - Remote Work",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-work-at-bairesdev-4434105962",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "See mass-posting note on BairesDev's Staff Distributed Systems Engineer listing found this same run - same company, high volume of similar Node.js remote postings."
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4440397717": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Quik Hire Staffing",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4440397717",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4439570439": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Hire Feed",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4439570439",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://dk.linkedin.com/jobs/view/senior-backend-developer-node-js-remote-from-denmark-at-jobgether-4371243124": {
+      "title": "Senior Backend Developer - Node.js (Remote from Denmark)",
+      "company": "Jobgether",
+      "location": "Remote from Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/senior-backend-developer-node-js-remote-from-denmark-at-jobgether-4371243124",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.naukri.com/job-listings-backend-engineer-nestjs-brihat-infotech-private-limited-remote-2-to-5-years-290626502637": {
+      "title": "Backend Engineer (NestJS) - 2 to 5 years",
+      "company": "Brihat Infotech Private Limited",
+      "location": "India (Remote)",
+      "url": "https://www.naukri.com/job-listings-backend-engineer-nestjs-brihat-infotech-private-limited-remote-2-to-5-years-290626502637",
+      "first_seen": "2026-08-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.themuse.com/jobs/exadel/seniorlead-backend-engineer-nodejsnestjs": {
+      "title": "Senior/Lead Backend Engineer (Node.js/NestJS)",
+      "company": "Exadel",
+      "location": "Not stated",
+      "url": "https://www.themuse.com/jobs/exadel/seniorlead-backend-engineer-nodejsnestjs",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Exadel has a near-identical 'Senior/Lead Backend Engineer NestJS' listing under a different slug (seniorlead-backend-engineer-nestjs-9ec376) and a separate 'Senior Software Engineer Node.js/NestJS' listing found this same run - same company, multiple similarly-worded backend roles."
+    },
+    "https://www.themuse.com/jobs/exadel/senior-software-engineer-nodejs-nestjs": {
+      "title": "Senior Software Engineer (Node.js/NestJS)",
+      "company": "Exadel",
+      "location": "Not stated",
+      "url": "https://www.themuse.com/jobs/exadel/senior-software-engineer-nodejs-nestjs",
+      "first_seen": "2026-08-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "See mass-posting note on Exadel's Senior/Lead Backend Engineer listing found this same run - same company, multiple similarly-worded backend roles."
     }
   }
 }
