@@ -395,6 +395,94 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "mass_posting_note": "See mass-posting note on Exadel's Senior/Lead Backend Engineer listing found this same run - same company, multiple similarly-worded backend roles."
+    },
+    "https://weworkremotely.com/remote-jobs/binance-senior-solutions-engineer-api-python-node-js": {
+      "title": "Senior Solutions Engineer (API, Python, Node.JS)",
+      "company": "Binance",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/binance-senior-solutions-engineer-api-python-node-js",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/node-js-developer-fintech/7822563": {
+      "title": "Node.js Developer (fintech)",
+      "company": "GoMining",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/node-js-developer-fintech/7822563",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/backend-developer/7774467": {
+      "title": "Backend Developer",
+      "company": "Rapyd",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-developer/7774467",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-product-backend-remote-at-squarespace-3069433754": {
+      "title": "Senior Software Engineer, Product Backend (Remote)",
+      "company": "Squarespace",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-product-backend-remote-at-squarespace-3069433754",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/senior-software-engineer-nodejs/4076481": {
+      "title": "Senior Software Engineer (Node.js)",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/senior-software-engineer-nodejs/4076481",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://themuse.com/jobs/epamsystems/nodejs-engineer-f38482": {
+      "title": "Node.js Engineer",
+      "company": "EPAM Systems",
+      "location": "Not stated",
+      "url": "https://themuse.com/jobs/epamsystems/nodejs-engineer-f38482",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/3701526-senior-full-stack-engineer-node-js-nestjs-ai-first": {
+      "title": "Senior Full-Stack Engineer (Node.js / NestJS, AI-First)",
+      "company": "Flow",
+      "location": "Raleigh, NC, United States (Remote / Work from Home)",
+      "url": "https://wellfound.com/jobs/3701526-senior-full-stack-engineer-node-js-nestjs-ai-first",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/full-stack-node-js-nestjs-vue-js/7479858": {
+      "title": "Full Stack (Node.js / NestJS + Vue.js)",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/full-stack-node-js-nestjs-vue-js/7479858",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
     }
   }
 }
