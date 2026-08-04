@@ -483,6 +483,107 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058": {
+      "title": "Lead Backend Engineer - B2B SaaS (Remote Ukraine/EU, 3-Month Contract, up to $20,000/month with potential extension)",
+      "company": "Hire AI",
+      "location": "Remote (Ukraine/EU)",
+      "url": "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://uk.linkedin.com/jobs/view/node-js-nest-js-angular-js-full-stack-engineer-energytech-blockchain-%C2%A375-000-remote-once-a-month-to-london-at-virtuetech-recruitment-group-4046730727": {
+      "title": "Node.js, Nest.js, Angular.js Full Stack Engineer - EnergyTech Blockchain - £75,000 - Remote (once a month to London)",
+      "company": "VirtueTech Recruitment Group",
+      "location": "UK (Remote, ~monthly London visit)",
+      "url": "https://uk.linkedin.com/jobs/view/node-js-nest-js-angular-js-full-stack-engineer-energytech-blockchain-%C2%A375-000-remote-once-a-month-to-london-at-virtuetech-recruitment-group-4046730727",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-at-idr-inc-3328012112": {
+      "title": "Node.js Developer (6-month contract, 90% remote)",
+      "company": "IDR, Inc.",
+      "location": "Orlando, FL, United States (90% remote)",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-at-idr-inc-3328012112",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/automation-engineer-puppeteer-%2B-node-js-developer-remote-work-at-bairesdev-4115824231": {
+      "title": "Automation Engineer - Puppeteer + Node.js Developer - Remote Work",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/automation-engineer-puppeteer-%2B-node-js-developer-remote-work-at-bairesdev-4115824231",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "BairesDev already has multiple similarly-worded Node.js/TypeScript remote listings seen in prior runs (Staff Backend Engineer, Staff Distributed Systems Engineer, Node.js Developer) - same company, high volume of remote Node.js postings across roles."
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-ringcentral-bengaluru-5-to-8-years-081025041036": {
+      "title": "Senior Backend Engineer (Node.js) - 5 to 8 years",
+      "company": "RingCentral",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-ringcentral-bengaluru-5-to-8-years-081025041036",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-remote-node-js-graphql-aws-stack-profex-tech-hyderabad-delhi-ncr-mumbai-all-areas-7-to-10-years-070726032156": {
+      "title": "Senior Backend Engineer - Remote - Node.js, GraphQL, AWS Stack - 7 to 10 years",
+      "company": "Profex Tech",
+      "location": "Remote (India - Hyderabad/Delhi NCR/Mumbai/all areas)",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-remote-node-js-graphql-aws-stack-profex-tech-hyderabad-delhi-ncr-mumbai-all-areas-7-to-10-years-070726032156",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.naukri.com/job-listings-sr-node-js-backend-developer-mobileprogramming-remote-2-to-5-years-250522501636": {
+      "title": "Sr Node.js (Backend) Developer - 2 to 5 years",
+      "company": "Mobile Programming LLC",
+      "location": "Remote (India)",
+      "url": "https://www.naukri.com/job-listings-sr-node-js-backend-developer-mobileprogramming-remote-2-to-5-years-250522501636",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.naukri.com/job-listings-node-js-developer-globant-indore-madhya-pradesh-pune-maharashtra-ahmedabad-gujarat-bangalore-bengaluru-karnataka-2-to-7-years-070723005841": {
+      "title": "Node.js Developer - 2 to 7 years (posted across Indore, Pune, Ahmedabad, Bengaluru)",
+      "company": "Globant",
+      "location": "Indore, Madhya Pradesh (+ Pune, Ahmedabad, Bengaluru)",
+      "url": "https://www.naukri.com/job-listings-node-js-developer-globant-indore-madhya-pradesh-pune-maharashtra-ahmedabad-gujarat-bangalore-bengaluru-karnataka-2-to-7-years-070723005841",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Single listing posted identically across 4 cities (Indore, Pune, Ahmedabad, Bengaluru) per the naukri.com URL/title."
+    },
+    "https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-NodeJS-Backend-Bengaluru-Engineering/52155044": {
+      "title": "Senior Consultant | NodeJS Backend | Engineering",
+      "company": "Deloitte",
+      "location": "Bengaluru, India",
+      "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Senior-Consultant-NodeJS-Backend-Bengaluru-Engineering/52155044",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
     }
   }
 }
