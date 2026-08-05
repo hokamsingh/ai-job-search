@@ -483,6 +483,39 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://builtin.com/job/backend-engineer/4559589": {
+      "title": "Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer/4559589",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-jobs-ai-4448147043": {
+      "title": "Senior Frontend Software Engineer (TypeScript) (Remote)",
+      "company": "Jobs Ai",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-jobs-ai-4448147043",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/igaming-consultant-at-bettingjobs-4421963843": {
+      "title": "iGaming Consultant",
+      "company": "BettingJobs",
+      "location": "European Union",
+      "url": "https://www.linkedin.com/jobs/view/igaming-consultant-at-bettingjobs-4421963843",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
     }
   }
 }
