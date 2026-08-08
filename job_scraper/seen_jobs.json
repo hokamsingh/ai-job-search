@@ -516,6 +516,176 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://ng.linkedin.com/jobs/view/nest-js-backend-engineer-volunteer-role-at-sellticket-4110340270": {
+      "title": "Nest.js Backend Engineer (Volunteer Role)",
+      "company": "SellTicket",
+      "location": "Lagos, Nigeria (unpaid/volunteer)",
+      "url": "https://ng.linkedin.com/jobs/view/nest-js-backend-engineer-volunteer-role-at-sellticket-4110340270",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://linkedin.com/jobs/view/frontend-developer-react-js-typescript-100%-remote!-at-insight-global-3393662480": {
+      "title": "Frontend Developer (React.js, TypeScript) - 100% Remote",
+      "company": "Insight Global",
+      "location": "United States (Remote)",
+      "url": "https://linkedin.com/jobs/view/frontend-developer-react-js-typescript-100%-remote!-at-insight-global-3393662480",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-angular-node-js-nestjs-graphql-at-fidelity-investments-3011146271": {
+      "title": "Senior Full Stack Engineer (Angular, Node.js, NestJS, GraphQL)",
+      "company": "Fidelity Investments",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-angular-node-js-nestjs-graphql-at-fidelity-investments-3011146271",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614": {
+      "title": "Next.js, NestJS & Strapi Developer (Remote)",
+      "company": "NextKoder",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/backend-developer-engineer-remote-at-joblet-ai-4392075329": {
+      "title": "Backend Developer / Engineer (Remote)",
+      "company": "Joblet-AI",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-developer-engineer-remote-at-joblet-ai-4392075329",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/backend-software-engineer-remote-at-sundayy-4429248968": {
+      "title": "Backend Software Engineer - Remote",
+      "company": "Sundayy",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-software-engineer-remote-at-sundayy-4429248968",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-$42-hr-remote-at-crossing-hurdles-4444325295": {
+      "title": "Backend Engineer - $42/hr (Remote, Contract)",
+      "company": "Crossing Hurdles",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-$42-hr-remote-at-crossing-hurdles-4444325295",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-at-hire-feed-4439791195": {
+      "title": "Senior Backend Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-at-hire-feed-4439791195",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Hire Feed also posted a near-identical 'Senior Backend Engineer (Remote)' listing under a different job ID (4437148413) found this same run - same company, same title, different ID."
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-ai-agents-remote-at-level-ai-4447414115": {
+      "title": "Senior Backend Engineer - AI Agents (Remote)",
+      "company": "Level AI",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-ai-agents-remote-at-level-ai-4447414115",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-at-hire-feed-4437148413": {
+      "title": "Senior Backend Engineer (Remote)",
+      "company": "Hire Feed",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-at-hire-feed-4437148413",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "See mass-posting note on Hire Feed's other 'Senior Backend Engineer (Remote)' listing (job ID 4439791195) found this same run."
+    },
+    "https://gr.linkedin.com/jobs/view/senior-software-backend-engineer-at-light-wonder-igaming-4364652621": {
+      "title": "Senior Software Backend Engineer - iGaming",
+      "company": "Light & Wonder",
+      "location": "Greece (LinkedIn domain)",
+      "url": "https://gr.linkedin.com/jobs/view/senior-software-backend-engineer-at-light-wonder-igaming-4364652621",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-remote-within-the-us-or-in-office-ca-pa-ut-at-nav-technologies-inc-3241185863": {
+      "title": "Staff Backend Engineer - Remote within the US or in office (CA, PA, UT)",
+      "company": "Nav Technologies, Inc.",
+      "location": "United States (Remote or CA/PA/UT office)",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-remote-within-the-us-or-in-office-ca-pa-ut-at-nav-technologies-inc-3241185863",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-retention-sports-igaming-at-leovegas-group-4145077690": {
+      "title": "Staff Backend Engineer - Retention/Sports/iGaming",
+      "company": "LeoVegas Group",
+      "location": "Europe",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-retention-sports-igaming-at-leovegas-group-4145077690",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "LeoVegas Group already has a separate 'Senior Backend Engineer - Retention/Sports Betting/iGaming' listing seen 2026-08-01 - same company, same team focus, different seniority level (Staff vs Senior). Not merged (distinct level), but worth the caution flag."
+    },
+    "https://www.linkedin.com/jobs/view/junior-backend-engineer-at-remote-2942327626": {
+      "title": "Junior Backend Engineer (Support)",
+      "company": "Remote (remote.com)",
+      "location": "South Asia",
+      "url": "https://www.linkedin.com/jobs/view/junior-backend-engineer-at-remote-2942327626",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Same 'Junior Backend Engineer (Support)' role as the listing seen 2026-08-01 (job ID 2942631546, United States) and job ID 2942633339 found this same run - Remote (remote.com) posting this role identically across multiple country/region job IDs."
+    },
+    "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942633339": {
+      "title": "Junior Backend Engineer (Support)",
+      "company": "Remote (remote.com)",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942633339",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "See mass-posting note on job ID 2942327626 found this same run - same role, same company, multiple IDs."
     }
   }
 }
