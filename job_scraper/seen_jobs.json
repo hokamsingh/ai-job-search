@@ -516,6 +516,26 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058": {
+      "title": "Lead Backend Engineer - B2B SaaS (Remote Ukraine/EU, 3-month contract)",
+      "company": "Hire AI (recruiting for undisclosed SaaS client)",
+      "location": "Remote (Ukraine/EU only)",
+      "url": "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "(Senior) Backend Developer - Remote (EMEA)",
+      "company": "Mentor Talent Acquisition (recruiting for a SaaS tech company)",
+      "location": "Remote (EMEA)",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054",
+      "first_seen": "2026-08-09",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
