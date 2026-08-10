@@ -516,6 +516,66 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://builtin.com/job/sde-ii-backend-nodejs/7409878": {
+      "title": "SDE II - Backend (Node.js)",
+      "company": "Nium",
+      "location": "Remote (unspecified region)",
+      "url": "https://builtin.com/job/sde-ii-backend-nodejs/7409878",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/senior-software-developer-backend/7426746": {
+      "title": "Senior Software Developer (Backend)",
+      "company": "BitPay",
+      "location": "Remote (unspecified region)",
+      "url": "https://builtin.com/job/senior-software-developer-backend/7426746",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury": {
+      "title": "Software Engineer, Treasury",
+      "company": "Lithic",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://in.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-+-ai-agents-at-eazybe-4429656151": {
+      "title": "Backend Engineer (Node.js/NestJS + AI Agents)",
+      "company": "Eazybe",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-+-ai-agents-at-eazybe-4429656151",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://my.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-at-seel-electronic-engineering-sdn-bhd-4270984013": {
+      "title": "Backend Engineer (Node.js/NestJS)",
+      "company": "Seel Electronic Engineering Sdn Bhd",
+      "location": "Malaysia",
+      "url": "https://my.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-at-seel-electronic-engineering-sdn-bhd-4270984013",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://de.linkedin.com/jobs/view/senior-backend-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4418935239": {
+      "title": "Senior Backend Engineer (TypeScript, NestJS/Node.js)",
+      "company": "Atolls",
+      "location": "Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-backend-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4418935239",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
