@@ -516,6 +516,61 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://web3.career/backend-developer-latoken/23710": {
+      "title": "Web3 Backend Developer (Blockchain Integration, Payments)",
+      "company": "LATOKEN",
+      "location": "Remote (worldwide)",
+      "url": "https://web3.career/backend-developer-latoken/23710",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.remoterocketship.com/company/outlive-in/jobs/backend-engineer-node-js-nestjs-united-states-remote/": {
+      "title": "Backend Engineer (Node.js, NestJS)",
+      "company": "Outlive",
+      "location": "United States (Remote)",
+      "url": "https://www.remoterocketship.com/company/outlive-in/jobs/backend-engineer-node-js-nestjs-united-states-remote/",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-%E2%80%93-remote-at-hired-4418131264": {
+      "title": "Node.js Developer - Remote",
+      "company": "Hired",
+      "location": "Latin America (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-%E2%80%93-remote-at-hired-4418131264",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-at-idr-inc-3328012112": {
+      "title": "Node.js Developer (Contract)",
+      "company": "IDR, Inc.",
+      "location": "Orlando, FL, United States (90% Remote)",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-at-idr-inc-3328012112",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury": {
+      "title": "Software Engineer, Treasury",
+      "company": "Lithic",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-software-engineer-treasury",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
     }
   }
 }
