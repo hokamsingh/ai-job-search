@@ -571,6 +571,119 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/principal-backend-engineer-typescript-node-js-platform-at-elastic-4362455625": {
+      "title": "Principal Backend Engineer (TypeScript/Node.js) - Platform",
+      "company": "Elastic",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/principal-backend-engineer-typescript-node-js-platform-at-elastic-4362455625",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://in.linkedin.com/jobs/view/principal-engineer-%E2%80%93-node-js-typescript-aws-at-applicantz-4433037378": {
+      "title": "Principal Engineer - Node.js / TypeScript / AWS",
+      "company": "Applicantz",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/principal-engineer-%E2%80%93-node-js-typescript-aws-at-applicantz-4433037378",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/100%25-remote-staff-backend-engineer-python-typescript-node-js-go-react-full-time-at-js-consulting-4342812764": {
+      "title": "Staff Backend Engineer (Python, TypeScript/Node.js, Go, React) - 100% Remote",
+      "company": "JS Consulting",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/100%25-remote-staff-backend-engineer-python-typescript-node-js-go-react-full-time-at-js-consulting-4342812764",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112": {
+      "title": "Senior Back-End Engineer (NestJS)",
+      "company": "Apply Digital",
+      "location": "Canada (Remote)",
+      "url": "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672": {
+      "title": "Software Engineer - SaaS (Remote - US)",
+      "company": "Firstup",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "(Senior) Backend Developer - Remote (EMEA)",
+      "company": "Mentor Talent Acquisition (SaaS client)",
+      "location": "EMEA (Remote)",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614": {
+      "title": "Next.js, NestJS & Strapi Developer (Remote)",
+      "company": "NextKoder",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/3697378-backend-engineer-nestjs-remote-starting-at-50k": {
+      "title": "Backend Engineer (NestJS) - Remote, Starting at $50K",
+      "company": "YMT",
+      "location": "San Jose / Remote (Work from Home)",
+      "url": "https://wellfound.com/jobs/3697378-backend-engineer-nestjs-remote-starting-at-50k",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Posted comp floor ($50K) is well below a senior-level US/remote backend rate - likely junior-band or LatAm-rate role despite the generic 'Remote' framing; verify comp before investing time."
+    },
+    "https://gt.linkedin.com/jobs/view/staff-backend-engineer-node-js-+-typescript-remote-work-at-bairesdev-4389575805": {
+      "title": "Staff Backend Engineer (Node.js + TypeScript) - Remote Work (Guatemala domain mirror)",
+      "company": "BairesDev",
+      "location": "Remote (Guatemala LinkedIn domain)",
+      "url": "https://gt.linkedin.com/jobs/view/staff-backend-engineer-node-js-+-typescript-remote-work-at-bairesdev-4389575805",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Additional country-domain mirror of the same BairesDev 'Staff Backend Engineer (Node.js + TypeScript) - Remote Work' posting already tracked under cl/hn domains (first seen 2026-08-01/2026-08-02). Not presented as a distinct new opportunity."
+    },
+    "https://mx.linkedin.com/jobs/view/staff-backend-engineer-node-js-%2B-typescript-remote-work-at-bairesdev-4396383015": {
+      "title": "Staff Backend Engineer (Node.js + TypeScript) - Remote Work (Mexico domain mirror)",
+      "company": "BairesDev",
+      "location": "Remote (Mexico LinkedIn domain)",
+      "url": "https://mx.linkedin.com/jobs/view/staff-backend-engineer-node-js-%2B-typescript-remote-work-at-bairesdev-4396383015",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Additional country-domain mirror of the same BairesDev 'Staff Backend Engineer (Node.js + TypeScript) - Remote Work' posting already tracked under cl/hn/gt domains. Not presented as a distinct new opportunity."
     }
   }
 }
