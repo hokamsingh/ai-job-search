@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -571,6 +571,46 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://remoteok.com/remote-jobs/102521-remote-senior-node-js-backend-engineer-opennode": {
+      "title": "Remote Senior Node.js Backend Engineer",
+      "company": "OpenNode",
+      "location": "Worldwide (remote)",
+      "url": "https://remoteok.com/remote-jobs/102521-remote-senior-node-js-backend-engineer-opennode",
+      "first_seen": "2026-08-13",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/senior-engineer-nodejs/3035652": {
+      "title": "Senior Engineer (Node.js)",
+      "company": "Velotio Technologies",
+      "location": "Bengaluru, India",
+      "url": "https://builtin.com/job/senior-engineer-nodejs/3035652",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
+      "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
+      "company": "\u00d8nskeskyen",
+      "location": "Copenhagen, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://dk.linkedin.com/jobs/view/backend-developer-at-corti-2837161435": {
+      "title": "Backend Developer",
+      "company": "Corti",
+      "location": "Copenhagen, Denmark (or Lithuania/Ukraine, flexible)",
+      "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-corti-2837161435",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
