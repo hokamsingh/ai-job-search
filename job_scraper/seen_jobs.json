@@ -611,6 +611,85 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/100%-remote-staff-backend-engineer-python-typescript-node-js-go-react-full-time-at-js-consulting-4342812764": {
+      "title": "Staff Backend Engineer (Python, TypeScript/Node.js, Go, React) - 100% Remote",
+      "company": "JS Consulting",
+      "location": "Remote (100%)",
+      "url": "https://www.linkedin.com/jobs/view/100%-remote-staff-backend-engineer-python-typescript-node-js-go-react-full-time-at-js-consulting-4342812764",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://es.linkedin.com/jobs/view/staff-fullstack-developer-typescript-+-node-js-at-shakers-4440161996": {
+      "title": "Staff Fullstack Developer (TypeScript + Node.js)",
+      "company": "Shakers",
+      "location": "Spain (Europe, remote-leaning)",
+      "url": "https://es.linkedin.com/jobs/view/staff-fullstack-developer-typescript-+-node-js-at-shakers-4440161996",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-node-js-typescript-react-nestjs-at-copeland-4293119238": {
+      "title": "Senior Software Engineer (Node.js / TypeScript / React / NestJS)",
+      "company": "Copeland",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-node-js-typescript-react-nestjs-at-copeland-4293119238",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058": {
+      "title": "Lead Backend Engineer, B2B SaaS - Remote (Ukraine/EU), 3-month contract w/ potential extension",
+      "company": "Hire AI",
+      "location": "Ukraine/EU (Remote)",
+      "url": "https://sg.linkedin.com/jobs/view/lead-backend-engineer-b2b-saas-remote-ukraine-eu-3-month-contract-at-up-to-$20-000-month-with-potential-extension-at-hire-ai-4192383058",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Short-term (3-month) contract role, not permanent employment - flag before applying."
+    },
+    "https://jobs.lever.co/moonpay/be0e5317-3da1-4654-bc49-ab6a844e3cdb": {
+      "title": "Backend Engineer",
+      "company": "MoonPay",
+      "location": "Remote (UK, Poland, South Africa, Spain, Portugal, or Romania)",
+      "url": "https://jobs.lever.co/moonpay/be0e5317-3da1-4654-bc49-ab6a844e3cdb",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Crypto/fintech payments infra; exact backend tech stack not confirmed by search snippet, and quoted salary range (~$81k-96k) is below typical target comp."
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy": {
+      "title": "Fullstack Engineer, Privy",
+      "company": "Stripe",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Posted ~22 days ago per search snippet (exceeds 14-day window) with no stated application deadline."
+    },
+    "https://ng.linkedin.com/jobs/view/nest-js-backend-engineer-volunteer-role-at-sellticket-4110340270": {
+      "title": "Nest.js Backend Engineer (Volunteer Role)",
+      "company": "Sellticket",
+      "location": "Lagos, Nigeria",
+      "url": "https://ng.linkedin.com/jobs/view/nest-js-backend-engineer-volunteer-role-at-sellticket-4110340270",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Unpaid volunteer role, not paid employment."
     }
   }
 }
