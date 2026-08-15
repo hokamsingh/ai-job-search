@@ -690,6 +690,197 @@
       "status": "skipped",
       "portal": "websearch-fallback",
       "skip_reason": "Unpaid volunteer role, not paid employment."
+    },
+    "https://builtin.com/job/senior-backend-engineer/7932084": {
+      "title": "Senior Backend Engineer (Node.js, NestJS, TypeScript, GCP)",
+      "company": "Sherpa",
+      "location": "Telangana, India",
+      "url": "https://builtin.com/job/senior-backend-engineer/7932084",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/backend-developer-nodejs-nestjs/2530628": {
+      "title": "Backend Developer (NodeJS / NestJS)",
+      "company": "MultiversX",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-developer-nodejs-nestjs/2530628",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/remote-india-backend-engineer-saas-platform/8756600": {
+      "title": "Backend Engineer - SaaS platform (REMOTE, INDIA)",
+      "company": "Marrina Decisions",
+      "location": "India (Remote)",
+      "url": "https://builtin.com/job/remote-india-backend-engineer-saas-platform/8756600",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://builtin.com/job/backend-engineer-node-js-typescript-emea/6454078": {
+      "title": "Backend Engineer, Node.js/TypeScript | EMEA",
+      "company": "Deel",
+      "location": "EMEA",
+      "url": "https://builtin.com/job/backend-engineer-node-js-typescript-emea/6454078",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/3037397-backend-engineer-nodejs-remote": {
+      "title": "Backend Engineer (Node.js, NestJS, MongoDB, TypeScript) - Remote",
+      "company": "Zoniqx",
+      "location": "Bengaluru / Hyderabad / Remote (Work from Home)",
+      "url": "https://wellfound.com/jobs/3037397-backend-engineer-nodejs-remote",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/3697378-backend-engineer-nestjs-remote-starting-at-50k": {
+      "title": "Backend Engineer (NestJS) - Remote, starting at $50K",
+      "company": "YMT",
+      "location": "Remote (EU-based team; Americas need EU-hours overlap)",
+      "url": "https://wellfound.com/jobs/3697378-backend-engineer-nestjs-remote-starting-at-50k",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Posted comp floor ($50K) is well below target range - verify actual band before investing time."
+    },
+    "https://wellfound.com/jobs/2953680-senior-backend-engineer": {
+      "title": "Senior Backend Engineer (Node.js, JS/TS, MongoDB, SQL, AWS)",
+      "company": "Adia Health",
+      "location": "Europe (Remote)",
+      "url": "https://wellfound.com/jobs/2953680-senior-backend-engineer",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/4424678-sr-backend-engineer-typescript-node-js": {
+      "title": "Sr. Backend Engineer (TypeScript / Node.js)",
+      "company": "GAIN Fitness",
+      "location": "Not stated",
+      "url": "https://wellfound.com/jobs/4424678-sr-backend-engineer-typescript-node-js",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/2578587-senior-backend-engineer-ecosystem": {
+      "title": "Senior Backend Engineer, Developer Platform (Node.js, Express, Mongo, GraphQL, AWS Lambda)",
+      "company": "Webflow",
+      "location": "United States (Remote-first; also BC & ON, Canada)",
+      "url": "https://wellfound.com/jobs/2578587-senior-backend-engineer-ecosystem",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://wellfound.com/jobs/4322342-senior-backend-engineer-node-js-nestjs-costa-rica-only-100-remote": {
+      "title": "Senior Backend Engineer (Node.js/NestJS) - 100% Remote (Costa Rica only)",
+      "company": "Not stated",
+      "location": "Remote - restricted to Costa Rica residents",
+      "url": "https://wellfound.com/jobs/4322342-senior-backend-engineer-node-js-nestjs-costa-rica-only-100-remote",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Remote restricted to Costa Rica residency, same geographic-veto pattern as prior Ireland/Portugal-only listing."
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-node-js-nestjs-at-choco-4138219449": {
+      "title": "Senior Backend Engineer (Node.js / NestJS)",
+      "company": "Choco",
+      "location": "United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-node-js-nestjs-at-choco-4138219449",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-nestjs-at-talener-4384317845": {
+      "title": "Senior Backend Engineer, NestJS",
+      "company": "Talener",
+      "location": "New York, United States",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-nestjs-at-talener-4384317845",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://pl.linkedin.com/jobs/view/senior-fullstack-node-js+react-engineer-igaming-at-sweeptech-igaming-solutions-4260072950": {
+      "title": "Senior Fullstack Node.js+React Engineer (iGaming)",
+      "company": "SweepTech iGaming Solutions",
+      "location": "Poland",
+      "url": "https://pl.linkedin.com/jobs/view/senior-fullstack-node-js+react-engineer-igaming-at-sweeptech-igaming-solutions-4260072950",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://hr.linkedin.com/jobs/view/backend-engineer-at-casumo-3769523165": {
+      "title": "Backend Engineer",
+      "company": "Casumo (iGaming)",
+      "location": "Zagreb, Croatia",
+      "url": "https://hr.linkedin.com/jobs/view/backend-engineer-at-casumo-3769523165",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://hr.linkedin.com/jobs/view/data-engineer-at-casumo-3794954477": {
+      "title": "Data Engineer",
+      "company": "Casumo (iGaming)",
+      "location": "Zagreb, Croatia",
+      "url": "https://hr.linkedin.com/jobs/view/data-engineer-at-casumo-3794954477",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Data engineering role, not core backend - adjacent match via OLTP-to-OLAP/ClickHouse analytics experience."
+    },
+    "https://www.linkedin.com/jobs/view/frontend-engineer-igaming-at-caesars-sportsbook-casino-4361423895": {
+      "title": "Frontend Engineer (iGaming)",
+      "company": "Caesars Sportsbook & Casino",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/frontend-engineer-igaming-at-caesars-sportsbook-casino-4361423895",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role, not a backend skills match."
+    },
+    "https://www.linkedin.com/jobs/view/igaming-developer-cryptocurrency-casino-platform-full-time-worldwide-at-arc-dev-4199555922": {
+      "title": "iGaming Developer (Cryptocurrency Casino Platform)",
+      "company": "Arc.dev (client posting)",
+      "location": "Worldwide (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/igaming-developer-cryptocurrency-casino-platform-full-time-worldwide-at-arc-dev-4199555922",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
     }
   }
 }
