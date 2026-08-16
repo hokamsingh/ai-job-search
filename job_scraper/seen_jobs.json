@@ -881,6 +881,97 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://pl.linkedin.com/jobs/view/backend-software-engineer-igaming-at-igt-4403240347": {
+      "title": "Backend Software Engineer (iGaming)",
+      "company": "IGT",
+      "location": "Poland",
+      "url": "https://pl.linkedin.com/jobs/view/backend-software-engineer-igaming-at-igt-4403240347",
+      "first_seen": "2026-08-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://pl.linkedin.com/jobs/view/lead-backend-developer-igaming-remote-at-archer-the-it-recruitment-consultancy-malta-4389066624": {
+      "title": "Lead Backend Developer - iGaming (Remote)",
+      "company": "Archer (The IT Recruitment Consultancy Malta) - iGaming client",
+      "location": "Remote (recruiter based Warsaw/Malta)",
+      "url": "https://pl.linkedin.com/jobs/view/lead-backend-developer-igaming-remote-at-archer-the-it-recruitment-consultancy-malta-4389066624",
+      "first_seen": "2026-08-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://pl.linkedin.com/jobs/view/senior-back-end-engineer-igaming-at-sweeptech-igaming-solutions-4249843353": {
+      "title": "Senior Back-end Engineer (iGaming)",
+      "company": "SweepTech iGaming Solutions",
+      "location": "Poland",
+      "url": "https://pl.linkedin.com/jobs/view/senior-back-end-engineer-igaming-at-sweeptech-igaming-solutions-4249843353",
+      "first_seen": "2026-08-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "SweepTech iGaming Solutions already has a separate 'Senior Fullstack Node.js+React Engineer (iGaming)' listing seen 2026-08-15 under a different req/slug - same company posting multiple similarly-worded senior backend roles."
+    },
+    "https://rs.linkedin.com/jobs/view/backend-developer-igaming-platform-1+-years-experience-at-playtronix-4284742814": {
+      "title": "Backend Developer (iGaming Platform, 1+ years experience)",
+      "company": "Playtronix",
+      "location": "Serbia",
+      "url": "https://rs.linkedin.com/jobs/view/backend-developer-igaming-platform-1+-years-experience-at-playtronix-4284742814",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Stated 1+ years experience - likely junior/mid level, below Senior profile."
+    },
+    "https://ca.linkedin.com/jobs/view/senior-backend-developer-igaming-at-suto-games-studio-4198430936": {
+      "title": "Senior Backend Developer (iGaming)",
+      "company": "Suto Games Studio",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-backend-developer-igaming-at-suto-games-studio-4198430936",
+      "first_seen": "2026-08-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/back-end-developer-at-jersey-road-talent-igaming-sports-crypto-ai-4416480679": {
+      "title": "Back End Developer (iGaming/Sports/Crypto/AI recruiter)",
+      "company": "Jersey Road Talent",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-jersey-road-talent-igaming-sports-crypto-ai-4416480679",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672": {
+      "title": "Software Engineer - SaaS (Remote - US)",
+      "company": "Firstup",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672",
+      "first_seen": "2026-08-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://job-boards.greenhouse.io/blockchain/jobs/6975878": {
+      "title": "Software Engineering Intern, Payments",
+      "company": "Blockchain.com",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/blockchain/jobs/6975878",
+      "first_seen": "2026-08-16",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "skip_reason": "Internship role - seniority mismatch with Senior Backend Engineer profile."
     }
   }
 }
