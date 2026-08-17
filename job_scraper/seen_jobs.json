@@ -881,6 +881,16 @@
       "status": "new",
       "portal": "websearch-fallback",
       "date_unknown": true
+    },
+    "https://job-boards.greenhouse.io/blockchain/jobs/6975878": {
+      "title": "Software Engineering Intern, Payments",
+      "company": "Blockchain.com",
+      "location": "Not stated",
+      "url": "https://job-boards.greenhouse.io/blockchain/jobs/6975878",
+      "first_seen": "2026-08-17",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback"
     }
   }
 }
