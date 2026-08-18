@@ -891,6 +891,27 @@
       "fit": "low",
       "status": "skipped",
       "portal": "websearch-fallback"
+    },
+    "https://in.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-aws-at-narix-labs-4437685120": {
+      "title": "Backend Engineer (Node.js, NestJS & AWS)",
+      "company": "Narix Labs",
+      "location": "India (city not stated)",
+      "url": "https://in.linkedin.com/jobs/view/backend-engineer-node-js-nestjs-aws-at-narix-labs-4437685120",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://job-boards.greenhouse.io/blockchain/jobs/7574939": {
+      "title": "Not stated",
+      "company": "Blockchain.com",
+      "location": "Not stated",
+      "url": "https://job-boards.greenhouse.io/blockchain/jobs/7574939",
+      "first_seen": "2026-08-18",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Search snippet returned only nav text ('Back to jobs'), no real title; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
     }
   }
 }
