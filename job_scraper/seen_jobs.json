@@ -912,6 +912,30 @@
       "status": "skipped",
       "portal": "websearch-fallback",
       "skip_reason": "Search snippet returned only nav text ('Back to jobs'), no real title; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://linkedin.com/jobs/view/frontend-developer-react-js-typescript-100%-remote!-at-insight-global-3393662480": {
+      "title": "Frontend Developer (React.js, TypeScript) - 100% Remote",
+      "company": "Insight Global",
+      "location": "Not stated (Remote)",
+      "url": "https://linkedin.com/jobs/view/frontend-developer-react-js-typescript-100%-remote!-at-insight-global-3393662480",
+      "first_seen": "2026-08-19",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role, not a backend skills match."
+    },
+    "https://weworkremotely.com/remote-jobs/versapay-senior-product-manager-payments": {
+      "title": "Senior Product Manager, Payments",
+      "company": "Versapay",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/versapay-senior-product-manager-payments",
+      "first_seen": "2026-08-19",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Product management role, not a software engineering position - no technical skills match."
     }
   }
 }
