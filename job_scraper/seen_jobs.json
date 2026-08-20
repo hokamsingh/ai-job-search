@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -594,7 +594,7 @@
     },
     "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
       "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
-      "company": "\u00d8nskeskyen",
+      "company": "Ønskeskyen",
       "location": "Copenhagen, Denmark",
       "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
       "first_seen": "2026-08-13",
@@ -936,6 +936,36 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Product management role, not a software engineering position - no technical skills match."
+    },
+    "https://www.linkedin.com/jobs/view/backend-developer-engineer-remote-at-joblet-ai-4392075329": {
+      "title": "Backend Developer / Engineer (Remote)",
+      "company": "Joblet-AI",
+      "url": "https://www.linkedin.com/jobs/view/backend-developer-engineer-remote-at-joblet-ai-4392075329",
+      "location": "Remote",
+      "first_seen": "2026-08-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-ai-agents-remote-at-level-ai-4447414115": {
+      "title": "Senior Backend Engineer - AI Agents (Remote)",
+      "company": "Level AI",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-ai-agents-remote-at-level-ai-4447414115",
+      "location": "Remote",
+      "first_seen": "2026-08-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445447987": {
+      "title": "Software Engineer - FinTech (Remote)",
+      "company": "Hired",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-fintech-remote-at-hired-4445447987",
+      "location": "Remote, United States",
+      "first_seen": "2026-08-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
