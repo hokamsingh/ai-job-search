@@ -966,6 +966,65 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-engineer-algorithm-open-to-remote-in-france-at-back-market-3591042836": {
+      "title": "Senior Backend Engineer - Algorithm (Open to remote in France)",
+      "company": "Back Market",
+      "location": "Bordeaux, France (open to remote in France)",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-engineer-algorithm-open-to-remote-in-france-at-back-market-3591042836",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Tech stack not confirmed by search snippet; e-commerce (refurbished electronics) sector, remote restricted to France residency."
+    },
+    "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering": {
+      "title": "Business Money Engineering",
+      "company": "Gusto, Inc.",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Fintech-adjacent (payroll/financial services) domain match; exact backend tech stack not confirmed by search snippet."
+    },
+    "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe": {
+      "title": "Full-Stack JavaScript Engineer (Remote - LATAM or Europe)",
+      "company": "POS+",
+      "location": "Remote - restricted to LATAM or Europe residents",
+      "url": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Strong tech match (Node.js, React, TypeScript, PostgreSQL/MongoDB, AWS, payments) but restricted to LATAM/Europe residency - same geographic-veto pattern as prior region-restricted listings."
+    },
+    "https://builtin.com/job/sde-ii-backend-nodejs/7409878": {
+      "title": "SDE II - Backend (Nodejs)",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/sde-ii-backend-nodejs/7409878",
+      "first_seen": "2026-08-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Hire Feed",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090",
+      "first_seen": "2026-08-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Hire Feed already has a near-identical 'Node.js Developer (Remote)' listing (job ID 4439570439) seen 2026-08-02 - same company, same title, different job ID; likely a re-post."
     }
   }
 }
