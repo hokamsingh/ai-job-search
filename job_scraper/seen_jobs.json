@@ -966,6 +966,108 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-fiat-payments-at-kraken-digital-asset-exchange-2811312569": {
+      "title": "Backend Engineer - Fiat Payments",
+      "company": "Kraken Digital Asset Exchange",
+      "location": "Florida, United States",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-fiat-payments-at-kraken-digital-asset-exchange-2811312569",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://in.linkedin.com/jobs/view/senior-backend-engineer-golang-%E2%80%93-fintech-payments-at-az-ewallet-4371938708": {
+      "title": "Senior Backend Engineer (Golang) - FinTech & Payments",
+      "company": "AZ eWallet",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/senior-backend-engineer-golang-%E2%80%93-fintech-payments-at-az-ewallet-4371938708",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Golang stack, not Node.js/TypeScript - tech stack mismatch despite strong domain fit."
+    },
+    "https://uk.linkedin.com/jobs/view/backend-engineer-fintech-hybrid-remote-at-rosie-s-people-4057643584": {
+      "title": "Backend Engineer - Fintech (Hybrid/Remote)",
+      "company": "Rosie's People",
+      "location": "United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/backend-engineer-fintech-hybrid-remote-at-rosie-s-people-4057643584",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/lead-software-engineer-fintech-payments-at-remote-people-4418072573": {
+      "title": "Lead Software Engineer (Fintech/Payments) - EMEA",
+      "company": "Remote People",
+      "location": "EMEA (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/lead-software-engineer-fintech-payments-at-remote-people-4418072573",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://ph.linkedin.com/jobs/view/senior-backend-engineer-c#-net-%E2%80%93-igaming-at-pentasia-4234414770": {
+      "title": "Senior Backend Engineer (C#/.NET) - iGaming",
+      "company": "Pentasia",
+      "location": "Not stated",
+      "url": "https://ph.linkedin.com/jobs/view/senior-backend-engineer-c#-net-%E2%80%93-igaming-at-pentasia-4234414770",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "C#/.NET stack, not Node.js/TypeScript - significant tech stack mismatch despite iGaming domain match."
+    },
+    "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering": {
+      "title": "Business Money Engineering",
+      "company": "Gusto, Inc.",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
+      "first_seen": "2026-08-23",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Ruby/Rails stack, not Node.js - tech stack mismatch despite fintech domain match."
+    },
+    "https://gr.linkedin.com/jobs/view/senior-software-backend-engineer-at-light-wonder-igaming-4364652621": {
+      "title": "Senior Software Backend Engineer - iGaming",
+      "company": "Light & Wonder",
+      "location": "Not stated",
+      "url": "https://gr.linkedin.com/jobs/view/senior-software-backend-engineer-at-light-wonder-igaming-4364652621",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Search snippet indicates posted ~January 20, 2026 - exceeds 14-day recency window with no stated deadline."
+    },
+    "https://www.linkedin.com/jobs/view/senior-blockchain-backend-engineer-fully-remote-salary-up-to-%24120k-per-annum-node-js-at-blockchain-121-4207614504": {
+      "title": "Senior Blockchain Backend Engineer - Fully Remote (Node.js)",
+      "company": "Blockchain-121",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/senior-blockchain-backend-engineer-fully-remote-salary-up-to-%24120k-per-annum-node-js-at-blockchain-121-4207614504",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Search snippet indicates posting is from around April 2025 - far exceeds 14-day recency window."
+    },
+    "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe": {
+      "title": "Full-Stack JavaScript Engineer (Remote - LATAM or Europe)",
+      "company": "POS+",
+      "location": "Remote (LATAM or Europe)",
+      "url": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Search snippet indicates posted June 3, 2026 - exceeds 14-day recency window with no stated deadline."
     }
   }
 }
