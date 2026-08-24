@@ -1,107 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Job Search Dashboard</title>
 <style>
   :root {
-    --active: #3b82f6;
-    --interview: #f59e0b;
-    --offer: #8b5cf6;
-    --hired: #22c55e;
-    --closed: #ef4444;
-    --bg: #f8fafc;
+    --color-active: #3b82f6;
+    --color-interview: #f59e0b;
+    --color-offer: #8b5cf6;
+    --color-hired: #22c55e;
+    --color-rejected: #ef4444;
+    --bg: #f3f4f6;
     --card-bg: #ffffff;
-    --text: #0f172a;
-    --muted: #64748b;
-    --border: #e2e8f0;
+    --text: #1f2937;
+    --text-muted: #6b7280;
+    --border: #e5e7eb;
   }
   * { box-sizing: border-box; }
   body {
+    margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
-    margin: 0;
     padding: 24px;
   }
   header {
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: center;
     flex-wrap: wrap;
     gap: 8px;
     margin-bottom: 24px;
   }
   header h1 { font-size: 1.5rem; margin: 0; }
-  header .generated { color: var(--muted); font-size: 0.9rem; }
+  header .generated { color: var(--text-muted); font-size: 0.9rem; }
   .stat-cards {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 16px;
     margin-bottom: 24px;
   }
+  @media (max-width: 900px) {
+    .stat-cards { grid-template-columns: repeat(2, 1fr); }
+  }
   .stat-card {
     background: var(--card-bg);
     border-radius: 8px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
     padding: 16px;
-    border-left: 4px solid var(--muted);
+    border-left: 4px solid var(--text-muted);
   }
-  .stat-card.active { border-left-color: var(--active); }
-  .stat-card.interview { border-left-color: var(--interview); }
-  .stat-card.offer { border-left-color: var(--offer); }
-  .stat-card.hired { border-left-color: var(--hired); }
-  .stat-card.closed { border-left-color: var(--closed); }
+  .stat-card.total { border-left-color: var(--text); }
+  .stat-card.active { border-left-color: var(--color-active); }
+  .stat-card.interview { border-left-color: var(--color-interview); }
+  .stat-card.offer { border-left-color: var(--color-offer); }
+  .stat-card.rejected { border-left-color: var(--color-rejected); }
   .stat-card .num { font-size: 2rem; font-weight: 700; }
-  .stat-card .label { color: var(--muted); font-size: 0.85rem; margin-top: 4px; }
-  .empty-state {
+  .stat-card .label { color: var(--text-muted); font-size: 0.85rem; }
+  .charts-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  @media (max-width: 900px) {
+    .charts-row { grid-template-columns: 1fr; }
+  }
+  .chart-card {
     background: var(--card-bg);
     border-radius: 8px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    padding: 48px 24px;
-    text-align: center;
-    color: var(--muted);
+    padding: 16px;
   }
-  .empty-state h2 { color: var(--text); margin-top: 0; }
+  .chart-card h3 { margin: 0 0 12px 0; font-size: 1rem; }
+  .empty-note { color: var(--text-muted); font-size: 0.9rem; padding: 24px 0; text-align: center; }
+  .table-card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    padding: 16px;
+    overflow-x: auto;
+  }
+  .table-controls {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .table-controls input, .table-controls select {
+    padding: 6px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  tbody tr:nth-child(even) { background: #fafafa; }
+  .pill {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 999px;
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
   footer {
     text-align: center;
-    color: var(--muted);
-    font-size: 0.8rem;
-    margin-top: 32px;
-  }
-  @media (max-width: 900px) {
-    .stat-cards { grid-template-columns: repeat(2, 1fr); }
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-top: 24px;
   }
 </style>
+</head>
+<body>
 
 <header>
   <h1>🔍 Job Search Dashboard</h1>
-  <div class="generated">Generated: 2026-08-19</div>
+  <div class="generated">Generated: 2026-08-24</div>
 </header>
 
 <div class="stat-cards">
-  <div class="stat-card">
-    <div class="num">0</div>
-    <div class="label">Total Applications</div>
+  <div class="stat-card total"><div class="num">0</div><div class="label">Total</div></div>
+  <div class="stat-card active"><div class="num">0</div><div class="label">Active</div></div>
+  <div class="stat-card interview"><div class="num">0</div><div class="label">Interview</div></div>
+  <div class="stat-card offer"><div class="num">0</div><div class="label">Offer</div></div>
+  <div class="stat-card rejected"><div class="num">0</div><div class="label">Rejected/Closed</div></div>
+</div>
+
+<div class="charts-row">
+  <div class="chart-card">
+    <h3>Status breakdown</h3>
+    <div class="empty-note">No applications tracked yet. Run <code>/outcome</code> after applying to a role to populate this chart.</div>
   </div>
-  <div class="stat-card active">
-    <div class="num">0</div>
-    <div class="label">Active</div>
-  </div>
-  <div class="stat-card interview">
-    <div class="num">0</div>
-    <div class="label">Interview</div>
-  </div>
-  <div class="stat-card offer">
-    <div class="num">0</div>
-    <div class="label">Offer</div>
-  </div>
-  <div class="stat-card closed">
-    <div class="num">0</div>
-    <div class="label">Rejected/Closed</div>
+  <div class="chart-card">
+    <h3>By sector</h3>
+    <div class="empty-note">No applications tracked yet.</div>
   </div>
 </div>
 
-<div class="empty-state">
-  <h2>No applications tracked yet</h2>
-  <p><code>job_search_tracker.csv</code> has no rows yet — this dashboard will populate automatically once applications are recorded via <code>/outcome</code>.</p>
-  <p>83 postings are staged in <code>job_scraper/seen_jobs.json</code>, all still <code>status: "new"</code> and unranked (4 more are flagged <code>skipped</code> — an internship, an unpaid volunteer role, a too-old posting, and a search snippet with no usable title). Today's cloud-sandbox run (2026-08-19) found only 2 genuinely new postings beyond the existing backlog (both low-fit non-matches: a frontend role and a product-manager role), and both the portal CLIs and the WebFetch tool were again blocked (403 Forbidden / egress-blocked) network-wide, so <code>/rank</code> could not fetch any posting text to score — this is the expected degraded behavior documented for this environment, not a bug. Run <code>/rank</code> again from a session with full network access (or locally) to score the backlog, then <code>/apply</code> on any you want to pursue — each application recorded via <code>/outcome</code> will show up here.</p>
+<div class="charts-row">
+  <div class="chart-card">
+    <h3>By channel</h3>
+    <div class="empty-note">No applications tracked yet.</div>
+  </div>
+  <div class="chart-card">
+    <h3>Application funnel</h3>
+    <div class="empty-note">No applications tracked yet.</div>
+  </div>
 </div>
 
-<footer>Generated by Claude Code · ai-job-search · 2026-08-19</footer>
+<div class="table-card">
+  <div class="table-controls">
+    <input type="text" id="searchInput" placeholder="Search company / role / sector...">
+    <select id="statusFilter"><option value="">All statuses</option></select>
+    <select id="sectorFilter"><option value="">All sectors</option></select>
+  </div>
+  <table id="appTable">
+    <thead>
+      <tr>
+        <th>Date</th><th>Company</th><th>Role</th><th>Sector</th><th>Channel</th><th>Status</th><th>Notes</th><th>Source</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td colspan="8" style="text-align:center; color:#6b7280; padding:24px;">No applications tracked yet. Add rows to <code>job_search_tracker.csv</code> or use <code>/outcome</code> to record an application, then re-run <code>/html-report</code>.</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<footer>Generated by Claude Code · ai-job-search · 2026-08-24</footer>
+
+<script>
+  // No rows to filter yet — table controls are inert placeholders until job_search_tracker.csv has data.
+  document.getElementById('searchInput').addEventListener('input', function(){});
+</script>
+
+</body>
+</html>

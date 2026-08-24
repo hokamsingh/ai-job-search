@@ -966,6 +966,67 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-node-js-remote-at-boom-entertainment-3184965540": {
+      "title": "Backend Engineer - Node.js - Remote",
+      "company": "Boom Entertainment",
+      "location": "New York, NY, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-node-js-remote-at-boom-entertainment-3184965540",
+      "first_seen": "2026-08-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Sports betting / online gaming company - direct iGaming sector match, explicit Node.js requirement."
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-engineer-algorithm-open-to-remote-in-france-at-back-market-3591042836": {
+      "title": "Senior Backend Engineer - Algorithm (Open to remote in France)",
+      "company": "Back Market",
+      "location": "Bordeaux, France (Remote in France)",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-engineer-algorithm-open-to-remote-in-france-at-back-market-3591042836",
+      "first_seen": "2026-08-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Backend role at refurbished-tech marketplace; specific tech stack (Node.js/TypeScript match) not confirmed by search snippet - verify before investing time."
+    },
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "Senior Backend Developer - Remote",
+      "company": "Mentor Talent Acquisition (SaaS client, global employment platform)",
+      "location": "EMEA (Remote)",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-remote-at-mentor-talent-acquisition-3064086054",
+      "first_seen": "2026-08-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "SaaS client role via recruiting firm (payroll/compliance/benefits platform); specific tech stack not confirmed by search snippet."
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-node-js-typescript-at-wiraa-4342811634": {
+      "title": "Backend Engineer (Node.js, TypeScript)",
+      "company": "Wiraa",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-node-js-typescript-at-wiraa-4342811634",
+      "first_seen": "2026-08-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct Node.js/TypeScript skill match, but company details thin from search snippet - verify legitimacy before applying."
+    },
+    "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-hire-feed-4455551650": {
+      "title": "Senior Frontend Software Engineer (TypeScript) (Remote)",
+      "company": "Hire Feed",
+      "location": "Not stated (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-hire-feed-4455551650",
+      "first_seen": "2026-08-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role, not a backend skills match.",
+      "mass_posting_note": "Identical title text to the 'Jobs Ai'-listed posting seen 2026-08-05 (different job ID/company) - same wording redistributed via a different recruiter branding; flagged, not an accusation."
     }
   }
 }
