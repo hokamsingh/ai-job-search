@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -594,7 +594,7 @@
     },
     "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
       "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
-      "company": "Ønskeskyen",
+      "company": "\u00d8nskeskyen",
       "location": "Copenhagen, Denmark",
       "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
       "first_seen": "2026-08-13",
@@ -1027,6 +1027,26 @@
       "date_unknown": true,
       "note": "Frontend role, not a backend skills match.",
       "mass_posting_note": "Identical title text to the 'Jobs Ai'-listed posting seen 2026-08-05 (different job ID/company) - same wording redistributed via a different recruiter branding; flagged, not an accusation."
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-nestjs-at-buenro-4366172405": {
+      "title": "Senior Backend Engineer (NestJS)",
+      "company": "Buenro",
+      "location": "EMEA",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-nestjs-at-buenro-4366172405",
+      "first_seen": "2026-08-25",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hired-4445306426": {
+      "title": "Fullstack Developer (React/Node.js) (Remote)",
+      "company": "Hired",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hired-4445306426",
+      "first_seen": "2026-08-25",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
