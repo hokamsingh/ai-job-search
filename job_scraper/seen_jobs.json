@@ -1047,6 +1047,26 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216": {
+      "title": "Staff Software Engineer (TypeScript) - US Based Remote",
+      "company": "Torus",
+      "location": "Remote, United States",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216",
+      "first_seen": "2026-08-26",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284312106": {
+      "title": "Senior Backend Engineer (Fintech)",
+      "company": "Recruiting from Scratch (fintech client)",
+      "location": "Remote, United States",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284312106",
+      "first_seen": "2026-08-26",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
