@@ -1047,6 +1047,146 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216": {
+      "title": "Staff Software Engineer (TypeScript) - US Based Remote",
+      "company": "Torus",
+      "location": "Remote, United States",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-ringcentral-bengaluru-5-to-8-years-081025041036": {
+      "title": "Senior Backend Engineer (Node.js)",
+      "company": "RingCentral",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-ringcentral-bengaluru-5-to-8-years-081025041036",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-postgresql-mssql-migration-dms-colobbo-bengaluru-6-to-11-years-240726030949": {
+      "title": "Senior Backend Engineer - Node.js & PostgreSQL, MSSQL Migration (DMS)",
+      "company": "Colobbo",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-postgresql-mssql-migration-dms-colobbo-bengaluru-6-to-11-years-240726030949",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-remote-node-js-graphql-aws-stack-profex-tech-hyderabad-delhi-ncr-mumbai-all-areas-7-to-10-years-070726032156": {
+      "title": "Senior Backend Engineer (Remote) - Node.js, GraphQL, AWS",
+      "company": "Profex Tech",
+      "location": "Remote (Hyderabad/Delhi NCR/Mumbai, India)",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-remote-node-js-graphql-aws-stack-profex-tech-hyderabad-delhi-ncr-mumbai-all-areas-7-to-10-years-070726032156",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-lead-backend-engineer-node-js-tech-inject-llp-phagwara-3-to-8-years-240726919705": {
+      "title": "Lead Backend Engineer (Node.js)",
+      "company": "Tech Inject LLP",
+      "location": "Phagwara, India",
+      "url": "https://www.naukri.com/job-listings-lead-backend-engineer-node-js-tech-inject-llp-phagwara-3-to-8-years-240726919705",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/atom-partners-limited-junior-crypto-trader-remote": {
+      "title": "Junior Crypto Trader (Remote)",
+      "company": "Atom Partners Limited",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/atom-partners-limited-junior-crypto-trader-remote",
+      "first_seen": "2026-08-27",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Hire Feed",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4449989981": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Quik Hire Staffing",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4449989981",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/jobannonce/h1526265/backend-developer": {
+      "title": "Backend Developer (TypeScript/Node.js/AWS)",
+      "company": "Unknown (not visible in search snippet)",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/jobannonce/h1526265/backend-developer",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/vis-job/r12994229?lang=en": {
+      "title": "Backend Developer with NodeJS experience",
+      "company": "Flextribe",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/vis-job/r12994229?lang=en",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/vis-job/r13089654?lang=en": {
+      "title": "Erfaren backend udvikler (med lidt frontend)",
+      "company": "NemTilmeld.dk",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/vis-job/r13089654?lang=en",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/jobannonce/r12284292/back-end-cloud-developer": {
+      "title": "Back-end Cloud Developer",
+      "company": "Unknown (not visible in search snippet)",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/jobannonce/r12284292/back-end-cloud-developer",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/vis-job/h1577298": {
+      "title": "Senior Backend Developer",
+      "company": "Unknown (not visible in search snippet)",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/vis-job/h1577298",
+      "first_seen": "2026-08-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.jobindex.dk/vis-job/h1583084": {
+      "title": "Backend Software Developer (healthcare infrastructure)",
+      "company": "Unknown (not visible in search snippet)",
+      "location": "Denmark",
+      "url": "https://www.jobindex.dk/vis-job/h1583084",
+      "first_seen": "2026-08-27",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
