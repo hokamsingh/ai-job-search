@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -594,7 +594,7 @@
     },
     "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
       "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
-      "company": "\u00d8nskeskyen",
+      "company": "Ønskeskyen",
       "location": "Copenhagen, Denmark",
       "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
       "first_seen": "2026-08-13",
@@ -1045,6 +1045,136 @@
       "url": "https://www.linkedin.com/jobs/view/fullstack-developer-react-node-js-remote-at-hired-4445306426",
       "first_seen": "2026-08-25",
       "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216": {
+      "title": "Staff Software Engineer (TypeScript) - US Based Remote",
+      "company": "Torus",
+      "location": "United States (remote)",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-typescript-us-based-remote-at-torus-4397190216",
+      "first_seen": "2026-08-28",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Hire Feed",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4448887090",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4449989981": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Quik Hire Staffing",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-remote-at-quik-hire-staffing-4449989981",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/automation-engineer-puppeteer-%2B-node-js-developer-remote-work-at-bairesdev-4115824231": {
+      "title": "Automation Engineer - Puppeteer + Node.js Developer",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/automation-engineer-puppeteer-%2B-node-js-developer-remote-work-at-bairesdev-4115824231",
+      "first_seen": "2026-08-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-node-js-developer-senior-backend-developer-sparix-global-private-limited-noida-5-to-8-years-240626505951": {
+      "title": "Node.js Developer / Senior Backend Developer",
+      "company": "Sparix Global Private Limited",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-node-js-developer-senior-backend-developer-sparix-global-private-limited-noida-5-to-8-years-240626505951",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-node-js-developer-telephony-real-time-systems-innvocon-learning-solutions-jaipur-3-to-5-years-230626931017": {
+      "title": "Senior Backend Node.js Developer (Telephony & Real-Time Systems)",
+      "company": "Innvocon Learning Solutions",
+      "location": "Jaipur, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-node-js-developer-telephony-real-time-systems-innvocon-learning-solutions-jaipur-3-to-5-years-230626931017",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-developer-node-js-insightstap-solutions-opc-kolkata-5-to-10-years-140726021062": {
+      "title": "Senior Backend Developer (Node.js)",
+      "company": "Insightstap Solutions OPC",
+      "location": "Kolkata, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-developer-node-js-insightstap-solutions-opc-kolkata-5-to-10-years-140726021062",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-backend-developer-nestjs-hour-consulting-kolkata-3-to-8-years-020426007775": {
+      "title": "Backend Developer (NestJS)",
+      "company": "Hour Consulting",
+      "location": "Kolkata, India",
+      "url": "https://www.naukri.com/job-listings-backend-developer-nestjs-hour-consulting-kolkata-3-to-8-years-020426007775",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-full-stack-developer-angular-node-js-nestjs-immediate-teamlease-bengaluru-6-to-8-years-150725011130": {
+      "title": "Senior Full Stack Developer (Angular + Node.js/NestJS)",
+      "company": "TeamLease",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-angular-node-js-nestjs-immediate-teamlease-bengaluru-6-to-8-years-150725011130",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-backend-developer-intern-node-js-nest-js-ageit-endorse-india-pune-0-to-1-years-260326017293": {
+      "title": "Backend Developer Intern (Node.js / Nest.js)",
+      "company": "AgeIT Endorse India",
+      "location": "Pune, India",
+      "url": "https://www.naukri.com/job-listings-backend-developer-intern-node-js-nest-js-ageit-endorse-india-pune-0-to-1-years-260326017293",
+      "first_seen": "2026-08-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-node-js-full-stack-developer-nestjs-nuxt-js-next-js-codemaya-lucknow-3-to-5-years-060426501491": {
+      "title": "Node.js Full Stack Developer (NestJS, Nuxt.js, Next.js)",
+      "company": "Codemaya",
+      "location": "Lucknow, India",
+      "url": "https://www.naukri.com/job-listings-node-js-full-stack-developer-nestjs-nuxt-js-next-js-codemaya-lucknow-3-to-5-years-060426501491",
+      "first_seen": "2026-08-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-graphql-zensar-pune-8-to-11-years-070726028842": {
+      "title": "Senior Backend Engineer (Node.js & GraphQL)",
+      "company": "Zensar",
+      "location": "Pune, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-graphql-zensar-pune-8-to-11-years-070726028842",
+      "first_seen": "2026-08-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-typescript-smart-soc-solutions-chennai-6-to-10-years-150726011308": {
+      "title": "Senior Backend Engineer (Node.js/TypeScript)",
+      "company": "Smart SOC Solutions",
+      "location": "Chennai, India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-engineer-node-js-typescript-smart-soc-solutions-chennai-6-to-10-years-150726011308",
+      "first_seen": "2026-08-28",
+      "fit": "high",
       "status": "new",
       "portal": "websearch-fallback"
     }
