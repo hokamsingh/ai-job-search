@@ -1177,6 +1177,15 @@
       "fit": "high",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://in.linkedin.com/jobs/view/java-backend-engineer-10+-yrs-spring-boot-+-kafka-docker-kubernetes-immediate-joiner-ust-at-ust-4371153092": {
+      "title": "Java Backend Engineer | 10+ yrs | Spring Boot + Kafka + Docker + Kubernetes (Immediate Joiner)",
+      "company": "UST",
+      "url": "https://in.linkedin.com/jobs/view/java-backend-engineer-10+-yrs-spring-boot-+-kafka-docker-kubernetes-immediate-joiner-ust-at-ust-4371153092",
+      "first_seen": "2026-08-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
