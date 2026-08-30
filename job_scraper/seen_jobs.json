@@ -1186,6 +1186,76 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662": {
+      "title": "Senior .NET Backend Developer – iGaming/Sportsbook, Fully Remote",
+      "company": "Playnetic",
+      "location": "Remote",
+      "url": "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662",
+      "first_seen": "2026-08-30",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-backend-developer-igaming-at-suto-games-studio-4198430936": {
+      "title": "Senior Backend Developer (iGaming)",
+      "company": "Suto Games Studio",
+      "location": "Not stated",
+      "url": "https://ca.linkedin.com/jobs/view/senior-backend-developer-igaming-at-suto-games-studio-4198430936",
+      "first_seen": "2026-08-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://rs.linkedin.com/jobs/view/backend-developer-igaming-platform-1+-years-experience-at-playtronix-4284742814": {
+      "title": "Backend Developer (iGaming Platform), 1+ years experience",
+      "company": "Playtronix",
+      "location": "Not stated",
+      "url": "https://rs.linkedin.com/jobs/view/backend-developer-igaming-platform-1+-years-experience-at-playtronix-4284742814",
+      "first_seen": "2026-08-30",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://rs.linkedin.com/jobs/view/back-end-developer-integrations-igaming-b2b-at-delulu-gaming-4385027879": {
+      "title": "Back-end Developer (Integrations) - iGaming B2B",
+      "company": "Delulu Gaming",
+      "location": "Not stated",
+      "url": "https://rs.linkedin.com/jobs/view/back-end-developer-integrations-igaming-b2b-at-delulu-gaming-4385027879",
+      "first_seen": "2026-08-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://rs.linkedin.com/jobs/view/back-end-developer-igaming-at-igt-4432651650": {
+      "title": "Back End Developer (iGaming)",
+      "company": "IGT",
+      "location": "Belgrade, Serbia",
+      "url": "https://rs.linkedin.com/jobs/view/back-end-developer-igaming-at-igt-4432651650",
+      "first_seen": "2026-08-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/back-end-developer-at-jersey-road-talent-igaming-sports-crypto-ai-4416480679": {
+      "title": "Back End Developer (iGaming | Sports | Crypto | AI)",
+      "company": "Jersey Road Talent",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/back-end-developer-at-jersey-road-talent-igaming-sports-crypto-ai-4416480679",
+      "first_seen": "2026-08-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "(Senior) Backend Developer – Remote (EMEA)",
+      "company": "Mentor Talent Acquisition",
+      "location": "Remote (EMEA)",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054",
+      "first_seen": "2026-08-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
