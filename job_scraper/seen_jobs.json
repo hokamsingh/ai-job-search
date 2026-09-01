@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -594,7 +594,7 @@
     },
     "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
       "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
-      "company": "Ønskeskyen",
+      "company": "\u00d8nskeskyen",
       "location": "Copenhagen, Denmark",
       "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
       "first_seen": "2026-08-13",
@@ -1187,11 +1187,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662": {
-      "title": "Senior .NET Backend Developer – iGaming/Sportsbook, Fully Remote",
+    "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-\u2013-igaming-sportsbook-fully-remote-at-playnetic-4208903662": {
+      "title": "Senior .NET Backend Developer \u2013 iGaming/Sportsbook, Fully Remote",
       "company": "Playnetic",
       "location": "Remote",
-      "url": "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662",
+      "url": "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-\u2013-igaming-sportsbook-fully-remote-at-playnetic-4208903662",
       "first_seen": "2026-08-30",
       "fit": "low",
       "status": "new",
@@ -1247,15 +1247,114 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054": {
-      "title": "(Senior) Backend Developer – Remote (EMEA)",
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-\u2013-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "(Senior) Backend Developer \u2013 Remote (EMEA)",
       "company": "Mentor Talent Acquisition",
       "location": "Remote (EMEA)",
-      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-\u2013-remote-at-mentor-talent-acquisition-3064086054",
       "first_seen": "2026-08-30",
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/founding-backend-engineer-remote-at-nango-yc-w23-3731988327": {
+      "title": "Founding Backend Engineer (Remote)",
+      "company": "Nango (YC W23)",
+      "url": "https://www.linkedin.com/jobs/view/founding-backend-engineer-remote-at-nango-yc-w23-3731988327",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:linkedin"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-app-o11y-receivers-remote-emea-at-grafana-labs-3749375888": {
+      "title": "Senior Backend Engineer - App O11y Receivers (Remote, EMEA)",
+      "company": "Grafana Labs",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-app-o11y-receivers-remote-emea-at-grafana-labs-3749375888",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback:linkedin"
+    },
+    "https://weworkremotely.com/listings/memmora-backend-contractor-node-js-stripe-fast-paced-execution": {
+      "title": "Backend Contractor (Node.js + Stripe)",
+      "company": "Memmora",
+      "url": "https://weworkremotely.com/listings/memmora-backend-contractor-node-js-stripe-fast-paced-execution",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer": {
+      "title": "Node.js Backend Engineer",
+      "company": "CloudDevs",
+      "url": "https://weworkremotely.com/remote-jobs/clouddevs-node-js-backend-engineer",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js": {
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer": {
+      "title": "Founding Engineer (NestJS, TypeScript, MikroORM, PostgreSQL)",
+      "company": "Memora ApS",
+      "url": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-iii-core-crm": {
+      "title": "Software Development Engineer III - Core CRM (Node.js/TypeScript, NestJS/Express)",
+      "company": "HighLevel",
+      "url": "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-iii-core-crm",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130": {
+      "title": "Full Stack Web Developer (Node.js/NestJS or Fastify) - Electronic Arts",
+      "company": "Hatch Innovations Canada",
+      "url": "https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback:weworkremotely"
+    },
+    "https://www.remoterocketship.com/us/company/gamesfactorytalents/jobs/senior-backend-engineer-node-js-nestjs-united-states-remote/": {
+      "title": "Senior Backend Engineer, Node.js, NestJS",
+      "company": "Games Factory Talents",
+      "url": "https://www.remoterocketship.com/us/company/gamesfactorytalents/jobs/senior-backend-engineer-node-js-nestjs-united-states-remote/",
+      "first_seen": "2026-09-01",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback:remoterocketship"
+    },
+    "https://builtin.com/job/senior-backend-developer-nodejs/4579583": {
+      "title": "Senior Backend Developer (Node.js)",
+      "company": "Unknown (BuiltIn listing)",
+      "url": "https://builtin.com/job/senior-backend-developer-nodejs/4579583",
+      "first_seen": "2026-09-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback:builtin"
+    },
+    "https://builtin.com/job/senior-node-js-developer-short-term-2-months/7634682": {
+      "title": "Senior Node.js Developer - short-term (2 months)",
+      "company": "Unknown (BuiltIn listing)",
+      "url": "https://builtin.com/job/senior-node-js-developer-short-term-2-months/7634682",
+      "first_seen": "2026-09-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback:builtin"
     }
   }
 }
