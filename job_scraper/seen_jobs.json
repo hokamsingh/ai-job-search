@@ -1256,6 +1256,16 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-jobs-ai-4449653864": {
+      "title": "Senior Frontend Software Engineer (TypeScript) (Remote)",
+      "company": "jobs.ai",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/senior-frontend-software-engineer-typescript-remote-at-jobs-ai-4449653864",
+      "first_seen": "2026-09-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
