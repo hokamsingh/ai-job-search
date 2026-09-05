@@ -1266,6 +1266,36 @@
       "fit": "low",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/fullstack-developer-nestjs-angular-remote-at-gojiberryai-4407288761": {
+      "title": "Fullstack Developer (NestJS/Angular) - Remote",
+      "company": "GojiberryAI",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/fullstack-developer-nestjs-angular-remote-at-gojiberryai-4407288761",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614": {
+      "title": "Next.js, NestJS & Strapi Developer - Remote",
+      "company": "Nextkoder",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/next-js-nestjs-strapi-developer-remote-at-nextkoder-4442613614",
+      "first_seen": "2026-09-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/principal-full-stack-engineer-angular-node-js-nestjs-graphql-at-fidelity-investments-3011147218": {
+      "title": "Principal Full Stack Engineer (Angular, Node.js, NestJS, GraphQL)",
+      "company": "Fidelity Investments",
+      "location": "Not stated (United States, per LinkedIn listing pool)",
+      "url": "https://www.linkedin.com/jobs/view/principal-full-stack-engineer-angular-node-js-nestjs-graphql-at-fidelity-investments-3011147218",
+      "first_seen": "2026-09-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
