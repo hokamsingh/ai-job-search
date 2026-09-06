@@ -1296,6 +1296,16 @@
       "fit": "high",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/73328-remote-senior-backend-developer-golang-for-blockchain-fintech-herdius": {
+      "title": "Remote Senior Backend Developer (Golang) for Blockchain Fintech",
+      "company": "Herdius",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/73328-remote-senior-backend-developer-golang-for-blockchain-fintech-herdius",
+      "first_seen": "2026-09-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
