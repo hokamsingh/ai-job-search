@@ -1296,6 +1296,30 @@
       "fit": "high",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/73328-remote-senior-backend-developer-golang-for-blockchain-fintech-herdius": {
+      "title": "Remote Senior Backend Developer (Golang) for Blockchain Fintech",
+      "company": "Herdius",
+      "location": "Remote (worldwide)",
+      "url": "https://remoteok.com/remote-jobs/73328-remote-senior-backend-developer-golang-for-blockchain-fintech-herdius",
+      "first_seen": "2026-09-07",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Blockchain/fintech domain match, but core stack is Golang, not Node.js/NestJS/TypeScript - significant skill gap."
+    },
+    "https://builtin.com/job/sr-node-js-developer/7624581": {
+      "title": "Sr. Node.JS Developer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/sr-node-js-developer/7624581",
+      "first_seen": "2026-09-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct Node.js skill match, but company/location details thin from search snippet - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run; verify details before applying."
     }
   }
 }
