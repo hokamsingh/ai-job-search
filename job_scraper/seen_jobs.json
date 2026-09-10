@@ -1320,6 +1320,146 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Direct Node.js skill match, but company/location details thin from search snippet - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run; verify details before applying."
+    },
+    "https://np.linkedin.com/jobs/view/entry-level-remote-backend-developer-nestjs-at-acharya-technologies-3905782578": {
+      "title": "Entry-Level Remote Backend Developer (NestJS)",
+      "company": "Acharya Technologies",
+      "location": "Remote",
+      "url": "https://np.linkedin.com/jobs/view/entry-level-remote-backend-developer-nestjs-at-acharya-technologies-3905782578",
+      "first_seen": "2026-09-10",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Entry-level role - seniority mismatch with Senior/Staff-track profile."
+    },
+    "https://www.linkedin.com/jobs/view/nestjs-developer-remote-work-ref#289471-at-bairesdev-4419470080": {
+      "title": "NestJS Developer - Remote Work (REF#289471)",
+      "company": "BairesDev",
+      "location": "Remote",
+      "url": "https://www.linkedin.com/jobs/view/nestjs-developer-remote-work-ref#289471-at-bairesdev-4419470080",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "BairesDev (staffing/outsourcing firm) already has several similarly-worded Node.js/NestJS remote listings from prior runs (Staff Distributed Systems Engineer, Node.js Developer, Automation Engineer) - high volume of near-identical postings from this company."
+    },
+    "https://dk.linkedin.com/jobs/view/backend-developer-at-zliide-3277640583": {
+      "title": "Backend Developer",
+      "company": "Zliide",
+      "location": "Aarhus, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-zliide-3277640583",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "TypeScript/Node.js match, but also requires Azure Functions/Cosmos DB/Flutter; on-site Aarhus location, remote flexibility not confirmed by search snippet."
+    },
+    "https://dk.linkedin.com/jobs/view/back-end-developer-at-iconika-3782890927": {
+      "title": "Back End Developer",
+      "company": "Iconika",
+      "location": "Aarhus, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/back-end-developer-at-iconika-3782890927",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct TypeScript/Node.js/MongoDB/PostgreSQL match; on-site Aarhus location, remote flexibility not confirmed by search snippet."
+    },
+    "https://www.linkedin.com/jobs/view/backend-developer-node-js-nestjs-at-braintrust-4147115125": {
+      "title": "Backend Developer (Node.js & NestJS)",
+      "company": "Braintrust",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/backend-developer-node-js-nestjs-at-braintrust-4147115125",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Braintrust is a freelance/contract talent marketplace, not a direct employer - confirm engagement type before applying."
+    },
+    "https://in.linkedin.com/jobs/view/backend-developer-node-js-nestjs-at-chainsense-4382760498": {
+      "title": "Backend Developer (Node.js / NestJS)",
+      "company": "Chainsense",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-node-js-nestjs-at-chainsense-4382760498",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://in.linkedin.com/jobs/view/backend-node-js-developer-node-js-nestjs-at-aimleap-4437383906": {
+      "title": "Backend Node.js Developer (Node.js / NestJS)",
+      "company": "AIMLEAP",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/backend-node-js-developer-node-js-nestjs-at-aimleap-4437383906",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://in.linkedin.com/jobs/view/backend-developer-python-node-js-nestjs-postgresql-at-preface-consulting-4394400854": {
+      "title": "Backend Developer (Python / Node.js / NestJS / PostgreSQL)",
+      "company": "Preface Consulting",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-python-node-js-nestjs-postgresql-at-preface-consulting-4394400854",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Multi-stack role including Python; Node.js/NestJS/PostgreSQL portion is a direct match."
+    },
+    "https://ie.linkedin.com/jobs/view/backend-node-js-nestjs-developer-at-dev-centre-house-ireland-4340860330": {
+      "title": "Backend (Node.js / NestJS) Developer",
+      "company": "Dev Centre House Ireland",
+      "location": "Dublin, Ireland",
+      "url": "https://ie.linkedin.com/jobs/view/backend-node-js-nestjs-developer-at-dev-centre-house-ireland-4340860330",
+      "first_seen": "2026-09-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct stack match; Dublin on-site, remote flexibility not confirmed by search snippet."
+    },
+    "https://in.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-node-js-nestjs-at-nuswipe-technology-pvt-ltd-4451675361": {
+      "title": "Senior Backend Developer - Node.js / NestJS",
+      "company": "Nuswipe Technology Pvt Ltd",
+      "location": "India",
+      "url": "https://in.linkedin.com/jobs/view/senior-backend-developer-%E2%80%93-node-js-nestjs-at-nuswipe-technology-pvt-ltd-4451675361",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/backend-developer-node-js-nest-js-express-js-at-fraction-4449420851": {
+      "title": "Backend Developer (Node.js, Nest.js, Express.js)",
+      "company": "Fraction",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/backend-developer-node-js-nest-js-express-js-at-fraction-4449420851",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-developer-node-js-nest-js-at-proxify-4304131057": {
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify",
+      "location": "Not stated",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-developer-node-js-nest-js-at-proxify-4304131057",
+      "first_seen": "2026-09-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Proxify is a remote-talent staffing network, not a direct employer - confirm engagement type before applying."
     }
   }
 }
