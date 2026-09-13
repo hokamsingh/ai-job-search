@@ -1309,6 +1309,18 @@
       "date_unknown": true,
       "note": "Blockchain/fintech domain match, but core stack is Golang, not Node.js/NestJS/TypeScript - significant skill gap."
     },
+    "https://linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284312106": {
+      "title": "Senior Backend Engineer (Fintech)",
+      "company": "Recruiting from Scratch (fintech client)",
+      "location": "Not stated",
+      "url": "https://linkedin.com/jobs/view/senior-backend-engineer-fintech-at-recruiting-from-scratch-3284312106",
+      "first_seen": "2026-09-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Same title/company slug as the 'Senior Backend Engineer (Fintech)' at Recruiting from Scratch listing seen 2026-08-01 (job ID 3284314276), but a distinct LinkedIn job ID - likely a repost of the same role rather than a new one; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so it could not be confirmed."
+    },
     "https://builtin.com/job/sr-node-js-developer/7624581": {
       "title": "Sr. Node.JS Developer",
       "company": "Not stated",
