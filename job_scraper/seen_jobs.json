@@ -1332,6 +1332,18 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Direct Node.js skill match, but company/location details thin from search snippet - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run; verify details before applying."
+    },
+    "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2": {
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "first_seen": "2026-09-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Node.js matches core skill but role is full-stack/React-leaning rather than backend-focused; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so requirements/deadline could not be verified."
     }
   }
 }
