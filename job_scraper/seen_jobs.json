@@ -121,11 +121,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
+    "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217": {
       "title": "Backend Engineer at Fintech Startup (ONRAMP)",
       "company": "Onramp",
       "location": "California, United States (Remote)",
-      "url": "https://www.linkedin.com/jobs/view/onramp-–-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
+      "url": "https://www.linkedin.com/jobs/view/onramp-\u2013-backend-engineer-at-fintech-startup-full-time-remote-at-onramp-2846803217",
       "first_seen": "2026-08-01",
       "fit": "high",
       "status": "new",
@@ -594,7 +594,7 @@
     },
     "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713": {
       "title": "Backend Developer (Node.js, TypeScript, Kubernetes)",
-      "company": "Ønskeskyen",
+      "company": "\u00d8nskeskyen",
       "location": "Copenhagen, Denmark",
       "url": "https://dk.linkedin.com/jobs/view/backend-developer-at-%C3%B8nskeskyen-3815725713",
       "first_seen": "2026-08-13",
@@ -1187,11 +1187,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662": {
-      "title": "Senior .NET Backend Developer – iGaming/Sportsbook, Fully Remote",
+    "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-\u2013-igaming-sportsbook-fully-remote-at-playnetic-4208903662": {
+      "title": "Senior .NET Backend Developer \u2013 iGaming/Sportsbook, Fully Remote",
       "company": "Playnetic",
       "location": "Remote",
-      "url": "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-–-igaming-sportsbook-fully-remote-at-playnetic-4208903662",
+      "url": "https://ua.linkedin.com/jobs/view/senior-net-backend-developer-\u2013-igaming-sportsbook-fully-remote-at-playnetic-4208903662",
       "first_seen": "2026-08-30",
       "fit": "low",
       "status": "new",
@@ -1247,11 +1247,11 @@
       "status": "new",
       "portal": "websearch-fallback"
     },
-    "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054": {
-      "title": "(Senior) Backend Developer – Remote (EMEA)",
+    "https://rs.linkedin.com/jobs/view/senior-backend-developer-\u2013-remote-at-mentor-talent-acquisition-3064086054": {
+      "title": "(Senior) Backend Developer \u2013 Remote (EMEA)",
       "company": "Mentor Talent Acquisition",
       "location": "Remote (EMEA)",
-      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-–-remote-at-mentor-talent-acquisition-3064086054",
+      "url": "https://rs.linkedin.com/jobs/view/senior-backend-developer-\u2013-remote-at-mentor-talent-acquisition-3064086054",
       "first_seen": "2026-08-30",
       "fit": "medium",
       "status": "new",
@@ -1344,6 +1344,102 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Node.js matches core skill but role is full-stack/React-leaning rather than backend-focused; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so requirements/deadline could not be verified."
+    },
+    "https://builtin.com/job/nodejs-backend-engineer/4767784": {
+      "title": "Nodejs Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/nodejs-backend-engineer/4767784",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct Node.js/backend title match, but a follow-up WebSearch could not re-surface this exact listing (may be stale/removed) and WebFetch detail lookup is blocked (EGRESS_BLOCKED) in this cloud sandbox run - verify the posting is still live before pursuing."
+    },
+    "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10": {
+      "title": "Senior Backend Developer (Python)",
+      "company": "Proxify AB",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Python is not among the profile's listed skills (Node.js/NestJS/TypeScript primary) - low skill match despite senior backend seniority; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/engineer/backend-nodejs-software-engineer/470420": {
+      "title": "Backend NodeJS Software Engineer",
+      "company": "FIS",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/engineer/backend-nodejs-software-engineer/470420",
+      "first_seen": "2026-09-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "FIS is a major global fintech/payments company - strong sector + Node.js skill match; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so seniority/location/deadline could not be verified."
+    },
+    "https://builtin.com/job/backend-engineer-nodejs-open-all-latam/4026700": {
+      "title": "Backend Engineer (NodeJS) - OPEN ALL LATAM",
+      "company": "Tekton Labs",
+      "location": "LATAM (per title)",
+      "url": "https://builtin.com/job/backend-engineer-nodejs-open-all-latam/4026700",
+      "first_seen": "2026-09-15",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Title indicates LATAM-only eligibility, outside the profile's geographic priority tiers; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run to confirm."
+    },
+    "https://builtin.com/job/backend-engineer-nodejs-experience-credit-card/6430038": {
+      "title": "Backend Engineer - NodeJS (Experience with Credit Card)",
+      "company": "G2i",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer-nodejs-experience-credit-card/6430038",
+      "first_seen": "2026-09-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Credit card/payments domain plus direct Node.js match; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so seniority/location/deadline could not be verified."
+    },
+    "https://builtin.com/job/software-engineer-i-nodejs-backend/3083987": {
+      "title": "Software Engineer I (Node.js backend)",
+      "company": "Contentstack",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/software-engineer-i-nodejs-backend/3083987",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "\"Engineer I\" title suggests a junior level below the profile's Senior/Staff target, despite the Node.js backend skill match; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/javascript-backend-developer-nodejs/3355391": {
+      "title": "Javascript Backend Developer - NodeJS",
+      "company": "Encora",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/javascript-backend-developer-nodejs/3355391",
+      "first_seen": "2026-09-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Encora is an IT consultancy/staffing firm (client-project role, not a product company) - direct skill match but consulting/staffing model rather than the profile's target sectors; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/senior-nodejs-engineer/2404070": {
+      "title": "Senior Node.js Engineer",
+      "company": "The League",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/senior-nodejs-engineer/2404070",
+      "first_seen": "2026-09-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Senior-level, direct Node.js title match at a consumer product company (dating app); WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so location/deadline could not be verified."
     }
   }
 }
