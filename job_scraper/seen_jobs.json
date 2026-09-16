@@ -1344,6 +1344,42 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Node.js matches core skill but role is full-stack/React-leaning rather than backend-focused; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so requirements/deadline could not be verified."
+    },
+    "https://freehire.me/jobs/lead-backend-game-engineer-remote-europe-yeah-global-tiux2nkz": {
+      "title": "Lead Backend Game Engineer",
+      "company": "Yeah! Global",
+      "url": "https://freehire.me/jobs/lead-backend-game-engineer-remote-europe-yeah-global-tiux2nkz",
+      "first_seen": "2026-09-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/remote-nodejs-developer-fintech-braintrust-165911": {
+      "title": "Node.js Developer, Fintech",
+      "company": "Braintrust",
+      "url": "https://remoteok.com/remote-jobs/remote-nodejs-developer-fintech-braintrust-165911",
+      "first_seen": "2026-09-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3": {
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+      "first_seen": "2026-09-16",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering": {
+      "title": "Business Money Engineering",
+      "company": "Gusto, Inc.",
+      "url": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
+      "first_seen": "2026-09-16",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
