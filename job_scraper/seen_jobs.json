@@ -1,5 +1,25 @@
 {
   "seen": {
+    "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672": {
+      "title": "Software Engineer - SaaS (Remote - US)",
+      "company": "Firstup",
+      "location": "Remote, United States",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-saas-remote-us-at-firstup-3862117672",
+      "first_seen": "2026-09-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/principal-backend-engineer-at-recruiting-from-scratch-2693064384": {
+      "title": "Principal Backend Engineer",
+      "company": "Recruiting from Scratch",
+      "location": "Stanford, California, United States",
+      "url": "https://www.linkedin.com/jobs/view/principal-backend-engineer-at-recruiting-from-scratch-2693064384",
+      "first_seen": "2026-09-20",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
     "https://linkedin.com/jobs/view/react-js-+-node-js-developer-remote-usa-at-fullstack-labs-2968221543": {
       "title": "React JS + Node JS Developer - Remote (USA)",
       "company": "FullStack Labs",
