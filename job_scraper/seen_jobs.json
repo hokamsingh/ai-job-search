@@ -1398,6 +1398,36 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://www.remoterocketship.com/us/company/gamesfactorytalents/jobs/senior-backend-engineer-node-js-nestjs-united-states-remote/": {
+      "title": "Senior Backend Engineer, Node.js, NestJS",
+      "company": "Games Factory Talents",
+      "location": "United States (Remote)",
+      "url": "https://www.remoterocketship.com/us/company/gamesfactorytalents/jobs/senior-backend-engineer-node-js-nestjs-united-states-remote/",
+      "first_seen": "2026-09-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://freehire.me/jobs/remote-senior-backend-engineer-node-js-nest-scalable-apis-proxify-le5p7jj4": {
+      "title": "Remote Senior Backend Engineer (Node.js/Nest) - Scalable APIs",
+      "company": "Proxify",
+      "location": "Remote",
+      "url": "https://freehire.me/jobs/remote-senior-backend-engineer-node-js-nest-scalable-apis-proxify-le5p7jj4",
+      "first_seen": "2026-09-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793": {
+      "title": "Remote Senior Backend Engineer (~$83k)",
+      "company": "Deblock",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793",
+      "first_seen": "2026-09-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
