@@ -1398,6 +1398,30 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/backend-engineer/2525585": {
+      "title": "Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer/2525585",
+      "first_seen": "2026-09-26",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Generic 'Backend Engineer' title from search snippet; company and tech stack not confirmed - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://www.linkedin.com/jobs/view/principal-backend-engineer-at-recruiting-from-scratch-2693064384": {
+      "title": "Principal Backend Engineer",
+      "company": "Recruiting from Scratch",
+      "location": "Stanford, CA, United States (fully remote, periodic off-sites)",
+      "url": "https://www.linkedin.com/jobs/view/principal-backend-engineer-at-recruiting-from-scratch-2693064384",
+      "first_seen": "2026-09-26",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Principal-level backend role via same recruiting firm that has posted other fintech-adjacent backend roles seen in prior runs; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so exact tech stack/deadline could not be verified."
     }
   }
 }
