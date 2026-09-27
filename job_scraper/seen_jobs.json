@@ -1422,6 +1422,65 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Principal-level backend role via same recruiting firm that has posted other fintech-adjacent backend roles seen in prior runs; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so exact tech stack/deadline could not be verified."
+    },
+    "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793": {
+      "title": "Remote Senior Backend Engineer",
+      "company": "Deblock",
+      "location": "Remote (worldwide)",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793",
+      "first_seen": "2026-09-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "FinTech/crypto backend role per search snippet (~$83k quoted, below typical target comp - verify before investing time); WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so exact tech stack/deadline could not be verified."
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-nodejs-remote-m-f-d-at-glassnode-3131408574": {
+      "title": "Senior Backend Engineer - NodeJS, Remote (m/f/d)",
+      "company": "Glassnode",
+      "location": "European Union (Remote, CET timezone overlap)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-nodejs-remote-m-f-d-at-glassnode-3131408574",
+      "first_seen": "2026-09-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Glassnode is an on-chain/blockchain data analytics company - direct crypto/blockchain domain match plus Node.js backend skills match; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so exact deadline could not be verified."
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-developer-node-js-nest-js-at-proxify-4304131057": {
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify",
+      "location": "Not stated (Proxify is a remote talent marketplace; end-client not confirmed)",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-developer-node-js-nest-js-at-proxify-4304131057",
+      "first_seen": "2026-09-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Posted via Proxify (freelance/remote talent marketplace) - end client and exact terms not confirmed; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112": {
+      "title": "Senior Back-End Engineer (NestJS)",
+      "company": "Apply Digital",
+      "location": "Canada (Remote)",
+      "url": "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112",
+      "first_seen": "2026-09-27",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "note": "Posted ~1 day ago per search snippet (freshest hit this run); location may be restricted to Canada residency - verify before investing time. WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://in.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4464420451": {
+      "title": "Node.js Developer (Remote)",
+      "company": "Hire Feed",
+      "location": "India (Remote)",
+      "url": "https://in.linkedin.com/jobs/view/node-js-developer-remote-at-hire-feed-4464420451",
+      "first_seen": "2026-09-27",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Posted ~3 weeks ago per search snippet (exceeds 14-day window) with no stated application deadline.",
+      "mass_posting_note": "Hire Feed already has a separate 'Node.js Developer (Remote)' listing seen 2026-08-20 (different job ID) - same company, same generic title, repeated similar posting."
     }
   }
 }
