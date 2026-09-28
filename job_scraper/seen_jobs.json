@@ -1422,6 +1422,60 @@
       "portal": "websearch-fallback",
       "date_unknown": true,
       "note": "Principal-level backend role via same recruiting firm that has posted other fintech-adjacent backend roles seen in prior runs; WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run so exact tech stack/deadline could not be verified."
+    },
+    "https://www.linkedin.com/jobs/view/principal-backend-engineer-node-js-saas-microservices-aws-at-ibusiness-funding-4281645967": {
+      "title": "Principal Backend Engineer (Node.js, SaaS, Microservices, AWS)",
+      "company": "iBusiness Funding",
+      "url": "https://www.linkedin.com/jobs/view/principal-backend-engineer-node-js-saas-microservices-aws-at-ibusiness-funding-4281645967",
+      "first_seen": "2026-09-28",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/principal-engineer-backend/3231796": {
+      "title": "Principal Engineer (Backend)",
+      "company": "Kaizen Gaming",
+      "url": "https://builtin.com/job/principal-engineer-backend/3231796",
+      "first_seen": "2026-09-28",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js": {
+      "title": "Senior Backend Developer (Node.js / Nest.js)",
+      "company": "Proxify AB",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js",
+      "first_seen": "2026-09-28",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/commutifi-senior-backend-developer": {
+      "title": "Senior Backend Developer",
+      "company": "Commutifi",
+      "url": "https://weworkremotely.com/remote-jobs/commutifi-senior-backend-developer",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote": {
+      "title": "Senior Fullstack Engineer (f/m/d)",
+      "company": "Hygraph",
+      "url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/cosuno-senior-full-stack-developer-typescript": {
+      "title": "Senior Full Stack Developer (TypeScript)",
+      "company": "Cosuno",
+      "url": "https://weworkremotely.com/remote-jobs/cosuno-senior-full-stack-developer-typescript",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
