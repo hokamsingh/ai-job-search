@@ -1455,6 +1455,76 @@
       "portal": "websearch-fallback",
       "location": "Remote",
       "date_unknown": true
+    },
+    "https://www.linkedin.com/jobs/view/sr-react-node-js-developer-remote-on-w2-only-at-remoteworker-us-3763046567": {
+      "title": "Sr. React/Node.JS Developer (Remote - W2 only)",
+      "company": "RemoteWorker US",
+      "location": "Phoenix, Arizona, United States (Remote, W2 only)",
+      "url": "https://www.linkedin.com/jobs/view/sr-react-node-js-developer-remote-on-w2-only-at-remoteworker-us-3763046567",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://ng.linkedin.com/jobs/view/back-end-developer-nestjs-at-kredete-3904203129": {
+      "title": "Back End Developer - NestJS",
+      "company": "Kredete",
+      "location": "Nigeria",
+      "url": "https://ng.linkedin.com/jobs/view/back-end-developer-nestjs-at-kredete-3904203129",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/junior-backend-engineer-at-remote-2942327626": {
+      "title": "Junior Backend Engineer (Support)",
+      "company": "Remote",
+      "location": "South Asia (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/junior-backend-engineer-at-remote-2942327626",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942633339": {
+      "title": "Junior Backend Engineer (Support)",
+      "company": "Remote",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/junior-backend-engineer-support-at-remote-2942633339",
+      "first_seen": "2026-10-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://www.linkedin.com/jobs/view/founding-blockchain-engineer-at-the-crypto-recruiters-3304705516": {
+      "title": "Founding Blockchain Engineer",
+      "company": "The Crypto Recruiters (recruiting for undisclosed client)",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/founding-blockchain-engineer-at-the-crypto-recruiters-3304705516",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793": {
+      "title": "Remote Senior Backend Engineer",
+      "company": "Deblock",
+      "location": "Remote",
+      "url": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-deblock-1093793",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer": {
+      "title": "Senior Backend Software Engineer",
+      "company": "Grailed",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
+      "first_seen": "2026-10-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
