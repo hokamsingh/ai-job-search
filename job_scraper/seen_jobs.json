@@ -1525,6 +1525,112 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://freehire.me/jobs/backend-software-engineer-matched-hix5xazs": {
+      "title": "Backend Software Engineer (NodeJS, 12-month contract)",
+      "company": "Matched (staffing agency, fast-growing SaaS client undisclosed)",
+      "location": "England, United Kingdom (mostly remote, day-one onsite in Berkshire)",
+      "url": "https://freehire.me/jobs/backend-software-engineer-matched-hix5xazs",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct stack match (NodeJS, TypeScript, NestJS, AWS, microservices, messaging queues); 12-month contract via staffing agency, not permanent employment - flag before applying.",
+      "mass_posting_note": "Near-identical listing also found posted as 'Backend Software Engineer \u2014 Matched Group' (freehire.me/jobs/backend-software-engineer-matched-group-ddcbbrnj), same description/requirements - consolidated into this single row."
+    },
+    "https://freehire.me/jobs/backend-software-engineer-matched-group-ddcbbrnj": {
+      "title": "Backend Software Engineer (NodeJS, 12-month contract)",
+      "company": "Matched Group (staffing agency, fast-growing SaaS client undisclosed)",
+      "location": "England, United Kingdom (mostly remote)",
+      "url": "https://freehire.me/jobs/backend-software-engineer-matched-group-ddcbbrnj",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "mass_posting_note": "Near-duplicate of 'Backend Software Engineer \u2014 Matched' (freehire.me/jobs/backend-software-engineer-matched-hix5xazs) - same role/description posted under two company-name variants. Presented as a single consolidated row in the Step 5 report."
+    },
+    "https://builtin.com/job/backend-engineer/2842386": {
+      "title": "Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer/2842386",
+      "first_seen": "2026-10-02",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Generic 'Backend Engineer' title surfaced under an iGaming-focused search; company and tech stack not confirmed - WebFetch to builtin.com returned EGRESS_BLOCKED in this cloud sandbox run."
+    },
+    "https://www.linkedin.com/jobs/view/staff-frontend-engineer-at-primis-3655092308": {
+      "title": "Staff Frontend Engineer",
+      "company": "Primis",
+      "location": "United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/staff-frontend-engineer-at-primis-3655092308",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role (JavaScript/TypeScript), not a backend skills match."
+    },
+    "https://www.linkedin.com/jobs/view/front-end-engineer-react-typescript-at-ursus-inc-2844265549": {
+      "title": "Lead Front End Engineer (React, TypeScript)",
+      "company": "Ursus, Inc.",
+      "location": "Palo Alto, CA, United States",
+      "url": "https://www.linkedin.com/jobs/view/front-end-engineer-react-typescript-at-ursus-inc-2844265549",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role, not a backend skills match."
+    },
+    "https://www.linkedin.com/jobs/view/typescript-front-end-engineer-at-sworkit-health-3077411796": {
+      "title": "TypeScript / Front-End Engineer",
+      "company": "Sworkit Health",
+      "location": "United States",
+      "url": "https://www.linkedin.com/jobs/view/typescript-front-end-engineer-at-sworkit-health-3077411796",
+      "first_seen": "2026-10-02",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Frontend role, not a backend skills match."
+    },
+    "https://bg.linkedin.com/jobs/view/principal-backend-engineer-at-kaizen-gaming-3779976706": {
+      "title": "Principal Backend Engineer",
+      "company": "Kaizen Gaming (iGaming)",
+      "location": "Sofia City, Bulgaria",
+      "url": "https://bg.linkedin.com/jobs/view/principal-backend-engineer-at-kaizen-gaming-3779976706",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "LinkedIn listing shown as no longer accepting applications (closed), posted ~2 months ago."
+    },
+    "https://gr.linkedin.com/jobs/view/principal-backend-engineer-at-kaizen-gaming-3775396156": {
+      "title": "Principal Backend Engineer",
+      "company": "Kaizen Gaming (iGaming)",
+      "location": "Athens, Attiki, Greece",
+      "url": "https://gr.linkedin.com/jobs/view/principal-backend-engineer-at-kaizen-gaming-3775396156",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "LinkedIn listing shown as no longer accepting applications (closed), posted ~4 months ago."
+    },
+    "https://gr.linkedin.com/jobs/view/backend-engineer-at-kaizen-gaming-3824230470": {
+      "title": "Backend Engineer",
+      "company": "Kaizen Gaming (iGaming)",
+      "location": "Athens, Attiki, Greece",
+      "url": "https://gr.linkedin.com/jobs/view/backend-engineer-at-kaizen-gaming-3824230470",
+      "first_seen": "2026-10-02",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "websearch-fallback",
+      "skip_reason": "Posted ~3 weeks ago per LinkedIn listing, exceeds the 14-day recency window; no application deadline stated."
     }
   }
 }
