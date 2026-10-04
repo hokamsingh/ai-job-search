@@ -1525,6 +1525,26 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/backend-engineer/2842386": {
+      "title": "Backend Engineer",
+      "company": "Not stated (detail fetch blocked - WebFetch egress restricted in this cloud sandbox)",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer/2842386",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/lead-backend-engineer/3617032": {
+      "title": "Lead Backend Engineer",
+      "company": "Not stated (detail fetch blocked - WebFetch egress restricted in this cloud sandbox)",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/lead-backend-engineer/3617032",
+      "first_seen": "2026-10-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback"
     }
   }
 }
