@@ -1525,6 +1525,102 @@
       "fit": "medium",
       "status": "new",
       "portal": "websearch-fallback"
+    },
+    "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112": {
+      "title": "Senior Back-End Engineer (NestJS)",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/senior-back-end-engineer-nestjs/3312112",
+      "first_seen": "2026-10-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Direct NestJS skill match from search snippet; company/location thin - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run, verify before applying."
+    },
+    "https://builtin.com/job/senior-backend-developer/3107527": {
+      "title": "Senior Backend Developer (REMOTE)",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/senior-backend-developer/3107527",
+      "first_seen": "2026-10-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Generic backend title from search snippet; stack not confirmed - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/backend-engineer/2842386": {
+      "title": "Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-engineer/2842386",
+      "first_seen": "2026-10-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Found via iGaming/real-money-gaming search query; stack and sector not confirmed - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/lead-backend-engineer/3617032": {
+      "title": "Lead Backend Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/lead-backend-engineer/3617032",
+      "first_seen": "2026-10-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Found via iGaming/real-money-gaming search query; stack and sector not confirmed - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://builtin.com/job/junior-software-engineer/6924875": {
+      "title": "Junior Software Engineer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/junior-software-engineer/6924875",
+      "first_seen": "2026-10-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Junior level - below target seniority (Senior/Staff IC track)."
+    },
+    "https://builtin.com/job/backend-developer/7167563": {
+      "title": "Backend Developer",
+      "company": "Not stated",
+      "location": "Not stated",
+      "url": "https://builtin.com/job/backend-developer/7167563",
+      "first_seen": "2026-10-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Found via iGaming/real-money-gaming search query; stack and sector not confirmed - WebFetch detail lookup blocked (EGRESS_BLOCKED) in this cloud sandbox run."
+    },
+    "https://www.linkedin.com/jobs/view/blockchain-engineer-remote-at-infinite-reality-3342900322": {
+      "title": "Blockchain Engineer (Remote)",
+      "company": "Infinite Reality",
+      "location": "San Francisco, CA, United States (Remote)",
+      "url": "https://www.linkedin.com/jobs/view/blockchain-engineer-remote-at-infinite-reality-3342900322",
+      "first_seen": "2026-10-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Blockchain-specific role may require Solidity/smart-contract skills beyond Node.js/NestJS backend stack - verify before applying."
+    },
+    "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization": {
+      "title": "Senior Software Engineer, Card Authorization",
+      "company": "Lithic",
+      "location": "Remote",
+      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "first_seen": "2026-10-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "websearch-fallback",
+      "date_unknown": true,
+      "note": "Card-issuing/payments infrastructure - strong fintech/payments domain match."
     }
   }
 }
