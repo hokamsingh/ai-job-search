@@ -4676,9 +4676,22 @@
       "url": "https://jobs.smartrecruiters.com/KMSTechnology1/744000156667379-senior-fullstack-software-engineer?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Guadalajara, Jal., mx"
+      "location": "Guadalajara, Jal., mx",
+      "rank_score": 27.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Backend stack listed includes Node.js, NestJS, and RESTful API design, overlapping Hokam's primary skills",
+        "Explicitly welcomes AI-assisted development tools (Claude Code, Copilot, Cursor), matching his AI-first workflow"
+      ],
+      "gaps": [
+        "Role is fullstack and frontend-heavy (React/SPA/accessibility/Jest-RTL is the dominant requirement), not backend-focused",
+        "Location is Guadalajara, Mexico with no remote policy stated - outside India/US/Europe priorities, no visa/sponsorship mentioned",
+        "Domain is healthcare/HL7/HIPAA, no overlap with iGaming/fintech/crypto background; requires 8+ years vs. his ~4"
+      ],
+      "rank_location": "FAIL"
     },
     "https://himalayas.app/companies/devop-one/jobs/senior-node-js-developer?utm_source=freehire.me": {
       "title": "Senior Node.js Developer",
@@ -4686,9 +4699,23 @@
       "url": "https://himalayas.app/companies/devop-one/jobs/senior-node-js-developer?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 57.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Core requirement is Node.js backend API/service development with end-to-end ownership, a strong match",
+        "Posting text says fully remote position, with flexible hours and remote work options"
+      ],
+      "gaps": [
+        "Posting's structured data says United States only while the description text says remote-from-Germany - conflicting location data, eligibility for an India-based applicant is unverified",
+        "Domain is proptech/real estate, a moderate rather than strong domain match (no iGaming/fintech/crypto overlap)",
+        "No PTO/vacation policy or salary stated"
+      ],
+      "rank_location": "FLAG",
+      "deadline": "2026-12-11"
     },
     "https://himalayas.app/companies/spark-eighteen/jobs/backend-engineer-node-js-senior?utm_source=freehire.me": {
       "title": "Backend Engineer - Node.js - Senior",
@@ -4696,9 +4723,23 @@
       "url": "https://himalayas.app/companies/spark-eighteen/jobs/backend-engineer-node-js-senior?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 47.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/TypeScript-at-scale backend role with resilience patterns (circuit breakers, CQRS), caching, and sharding - close technical match",
+        "Emphasizes distributed-systems/scale problems, which aligns with Hokam's technical-challenge-seeking profile"
+      ],
+      "gaps": [
+        "Listing is explicitly United States only with no visa/sponsorship mentioned - not accessible to an India-based remote applicant",
+        "Heavy emphasis on cross-team leadership and mentoring developers, which leans toward people-management rather than his preferred Staff/Principal IC track",
+        "Page carries boilerplate Job expired? text alongside a Dec 2026 valid through date, so current openness is slightly uncertain"
+      ],
+      "rank_location": "FAIL",
+      "deadline": "2026-12-10"
     },
     "https://nl.whatjobs.com/pub_api__cpl__173614773__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Node.js)",
@@ -4706,9 +4747,11 @@
       "url": "https://nl.whatjobs.com/pub_api__cpl__173614773__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Netherlands"
+      "location": "Netherlands",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL returned HTTP 403 Forbidden on fetch and could not be retrieved; posting content could not be verified, so it is not scored from the title alone"
     },
     "https://jobs.wearestaffy.com/positions/senior-backend-engineer-node-js-nestjs-aws-2062?utm_source=freehire.me": {
       "title": "Senior Backend Engineer – Node.js, NestJS & AWS",
@@ -4716,9 +4759,22 @@
       "url": "https://jobs.wearestaffy.com/positions/senior-backend-engineer-node-js-nestjs-aws-2062?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "LATAM"
+      "location": "LATAM",
+      "rank_score": 42.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong technical overlap: Node.js, TypeScript, NestJS, Docker/Kubernetes, Postgres/MySQL/MongoDB, Redis, SQS/Kafka, AWS - almost a direct skill match",
+        "Role involves production e-commerce microservices and incident response, fitting his end-to-end ownership strength"
+      ],
+      "gaps": [
+        "Explicitly LATAM Remoto (Latin America only) - outside India/US/Europe priorities and outside his current location, no sponsorship mentioned",
+        "No salary range or PTO policy disclosed (application form asks for salary expectation instead)",
+        "Employer name is not clearly stated in the posting (only WiTI appears via benefits text)"
+      ],
+      "rank_location": "FAIL"
     },
     "https://himalayas.app/companies/io-tech-solutions-limited/jobs/senior-backend-engineer-node-js-typescript?utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Node.js, Typescript)",
@@ -4726,9 +4782,24 @@
       "url": "https://himalayas.app/companies/io-tech-solutions-limited/jobs/senior-backend-engineer-node-js-typescript?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 50.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong backend stack match: Node.js, TypeScript, NestJS/Express, microservices, event-driven architecture, Kafka, Docker/Kubernetes",
+        "Bonus points explicitly include fintech/trading/brokerage/lending exposure, aligning with his payments background",
+        "Zero-to-one product environment and AI-tool-driven productivity expectations fit his AI-first, ownership-oriented style"
+      ],
+      "gaps": [
+        "Listing is United States only (hiring timezone US +-0) with no visa/sponsorship mentioned - not accessible from India as a remote applicant",
+        "No PTO, benefits, or salary stated",
+        "Page carries generic Job expired? template text, so current openness is slightly uncertain despite a Dec 2026 deadline"
+      ],
+      "rank_location": "FAIL",
+      "deadline": "2026-12-10"
     },
     "https://djinni.co/jobs/852397-senior-backend-engineer-node-js/?utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Node.js)",
@@ -4736,9 +4807,22 @@
       "url": "https://djinni.co/jobs/852397-senior-backend-engineer-node-js/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Europe"
+      "location": "Europe",
+      "rank_score": 32.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js/TypeScript backend with AWS serverless and Aurora Postgres overlaps his primary/secondary stack",
+        "LLM/AI integration into production work aligns with his AI-first development experience"
+      ],
+      "gaps": [
+        "Requires solid 10+ years of production backend experience (will consider 9) versus his ~4 years total - a large experience gap",
+        "Open only to candidates in Europe or Ukraine, not India, with no sponsorship or relocation path mentioned",
+        "No PTO policy stated; Python is listed as a required/secondary language that is not part of his current stack"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.sentinelone.com/jobs/?gh_jid=8031985003&utm_source=freehire.me": {
       "title": "Staff Backend Engineer - Prompt Security (Node.js / TypeScript)",
@@ -4746,10 +4830,24 @@
       "url": "https://www.sentinelone.com/jobs/?gh_jid=8031985003&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
       "location": "United States - Remote",
-      "mass_posting_note": "posted identically across: United States - Remote, United States"
+      "mass_posting_note": "posted identically across: United States - Remote, United States",
+      "rank_score": 47.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Direct technical match: backend development experience in Node.js and TypeScript, APIs, microservices, caching/message queues, auth",
+        "Staff-level IC role (not people management) fits his Staff/Principal IC track preference, with flexible time off and strong benefits listed",
+        "Building security tooling for AI products ties engineering work to a clear business/scale problem, matching his business-outcome orientation"
+      ],
+      "gaps": [
+        "Role requires 8+ years of backend experience versus his ~4 years total",
+        "Posting is United States - Remote and the company notes E-Verify participation for all U.S. based roles, implying US work authorization with no sponsorship mentioned - not accessible from India",
+        "Listed base salary ($156K-$215K USD) is calibrated to US cost of living/role seniority, not stated as open to international remote hires"
+      ],
+      "rank_location": "FAIL"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__149140574__7103?geoID=5564&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Remote Senior Node.js Backend Engineer | Fintech API Expert",
@@ -4757,9 +4855,11 @@
       "url": "https://en-ca.whatjobs.com/pub_api__cpl__149140574__7103?geoID=5564&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Saskatoon, Canada"
+      "location": "Saskatoon, Canada",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to an unrelated job posting on a different WhatJobs country domain — original posting is gone, could not fetch real content"
     },
     "https://torre.ai/post/NwBnDY4w-ruzora-senior-nodejs-backend-engineer-nestjs?utm_source=freehire.me": {
       "title": "Senior Node.js Backend Engineer (NestJS)",
@@ -4767,9 +4867,23 @@
       "url": "https://torre.ai/post/NwBnDY4w-ruzora-senior-nodejs-backend-engineer-nestjs?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Remote, Peru; Colombia; Mexico; Argentina; Brazil; Chile; Uruguay; Costa Rica"
+      "location": "Remote, Peru; Colombia; Mexico; Argentina; Brazil; Chile; Uruguay; Costa Rica",
+      "rank_score": 51.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong technical stack overlap: NestJS/Express, PostgreSQL via Prisma/TypeORM, BullMQ/SQS, Redis, Docker, cloud, observability tooling",
+        "Fully remote, USD-denominated compensation (48k-72k/yr) matching career preference for remote/USD comp",
+        "English B2+ requirement is well within candidate's professional English proficiency"
+      ],
+      "gaps": [
+        "Eligibility restricted to residents of specific Latin American countries (Peru, Colombia, Mexico, Argentina, Brazil, Chile, Uruguay, Costa Rica) — India-based candidate does not appear eligible to apply",
+        "Contractor legal agreement with no PTO/benefits mentioned; candidate handles own payroll taxes/currency exchange",
+        "End employer and industry domain undisclosed — no iGaming/fintech/crypto domain match confirmed"
+      ],
+      "rank_location": "FAIL"
     },
     "https://ie.whatjobs.com/pub_api__cpl__6116198__7127?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Node.js Backend Engineer — Remote-First",
@@ -4777,9 +4891,11 @@
       "url": "https://ie.whatjobs.com/pub_api__cpl__6116198__7127?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Ireland"
+      "location": "Ireland",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to an unrelated job posting on a different WhatJobs country domain — original posting is gone, could not fetch real content"
     },
     "https://pl.whatjobs.com/pub_api__cpl__30232119__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Remote Backend Engineer - Python/Node/Go/Java",
@@ -4787,9 +4903,11 @@
       "url": "https://pl.whatjobs.com/pub_api__cpl__30232119__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Poland"
+      "location": "Poland",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to an unrelated job posting on a different WhatJobs country domain — original posting is gone, could not fetch real content"
     },
     "https://nl.whatjobs.com/pub_api__cpl__170649145__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Remote Senior Backend Engineer - Node.js/Python & AI",
@@ -4797,9 +4915,11 @@
       "url": "https://nl.whatjobs.com/pub_api__cpl__170649145__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Netherlands"
+      "location": "Netherlands",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to a generic WhatJobs search/listing page, not the specific posting — the original job detail page is gone"
     },
     "https://it.whatjobs.com/pub_api__cpl__239582044__7128?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Software Engineer (Node.js/Python)",
@@ -4807,9 +4927,11 @@
       "url": "https://it.whatjobs.com/pub_api__cpl__239582044__7128?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Italy"
+      "location": "Italy",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to a generic WhatJobs search/listing page, not the specific posting — the original job detail page is gone"
     },
     "https://uk.whatjobs.com/pub_api__cpl__574616507__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer - Remote with Equity (Health Tech)",
@@ -4817,9 +4939,11 @@
       "url": "https://uk.whatjobs.com/pub_api__cpl__574616507__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "United Kingdom"
+      "location": "United Kingdom",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to a generic WhatJobs search/listing page, not the specific posting — the original job detail page is gone"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__151690798__7103?geoID=6225&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer for AI Platform",
@@ -4827,9 +4951,11 @@
       "url": "https://en-ca.whatjobs.com/pub_api__cpl__151690798__7103?geoID=6225&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Toronto, Canada"
+      "location": "Toronto, Canada",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Tracking URL redirects to a different, unrelated WhatJobs posting — original posting is gone, could not fetch real content"
     },
     "https://en-za.whatjobs.com/pub_api__cpl__60870799__7122?geoID=1278&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior backend engineer - remote, microservices & apis",
@@ -4837,10 +4963,12 @@
       "url": "https://en-za.whatjobs.com/pub_api__cpl__60870799__7122?geoID=1278&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
       "location": "Soweto, South Africa",
-      "mass_posting_note": "posted identically across: Soweto, South Africa, Soweto, South Africa"
+      "mass_posting_note": "posted identically across: Soweto, South Africa, Soweto, South Africa",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting host returned 403 Forbidden on repeated fetch attempts - could not retrieve actual posting content, so not scored from title alone"
     },
     "https://djinni.co/jobs/854322-senior-backend-engineer-go-comfyui-a-product-/?utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Go + ComfyUI), a product company with generative image and video features",
@@ -4857,9 +4985,23 @@
       "url": "https://job-boards.greenhouse.io/eltropyinc/jobs/4451602009?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "India"
+      "location": "India",
+      "rank_score": 48.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "100% remote role based in India, matching location priority",
+        "Infra overlap: MongoDB, Redis, Postgres, AWS, Docker, Kubernetes",
+        "Node.js listed as a plus, so some credit for existing skillset"
+      ],
+      "gaps": [
+        "Primary required stack is Java/Golang rather than Node.js/NestJS/TypeScript, which is the candidate's primary expertise",
+        "No fintech/iGaming/payments domain mentioned - generic backend/API description",
+        "No PTO or benefits information stated"
+      ],
+      "rank_location": "PASS"
     },
     "https://startup.jobs/nestjs-backend-developer-m-w-d-typescript-nodejs-go-bei-agital-online-gmbh-8157832?utm_source=freehire.me": {
       "title": "NestJS Backend Developer (m/w/d) – TypeScript, Node.js, Go",
@@ -4867,9 +5009,11 @@
       "url": "https://startup.jobs/nestjs-backend-developer-m-w-d-typescript-nodejs-go-bei-agital-online-gmbh-8157832?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Lüneburg, Germany"
+      "location": "Lüneburg, Germany",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting host returned 403 Forbidden on repeated fetch attempts - could not retrieve actual posting content, so not scored from title alone"
     },
     "https://hh.ru/vacancy/138755984?utm_source=freehire.me": {
       "title": "Senior Fullstack Engineer (NestJS + Next.js, LLM)",
@@ -4877,9 +5021,23 @@
       "url": "https://hh.ru/vacancy/138755984?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Славгород (Алтайский край)"
+      "location": "Славгород (Алтайский край)",
+      "rank_score": 61.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong backend overlap: NestJS, TypeScript, PostgreSQL, Redis/BullMQ, AWS",
+        "Explicitly remote with end-to-end ownership culture matching candidate's behavioral profile",
+        "Expects AI-tool use in development, aligning with candidate's Claude Code / agentic-dev experience; role touches payment/subscription billing"
+      ],
+      "gaps": [
+        "Role is fullstack and requires production React/Next.js experience, which is not part of candidate's profile (frontend is a WEAK-match area)",
+        "Domain is an unnamed AI-companion/LLM consumer product, not candidate's iGaming/fintech background",
+        "Employer identity is obscured (posted by a recruiting agency/sole proprietor on behalf of an unnamed client), reducing verifiability of claims"
+      ],
+      "rank_location": "PASS"
     },
     "https://rabota.sber.ru/search/4578546?utm_source=freehire.me": {
       "title": "Fullstack-разработчик (Node.js / NestJS) — разработка AI-агентов",
@@ -4887,9 +5045,23 @@
       "url": "https://rabota.sber.ru/search/4578546?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "г Москва"
+      "location": "г Москва",
+      "rank_score": 49.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/NestJS/TypeScript/PostgreSQL/Prisma overlap, with BullMQ/RabbitMQ/Kafka/Redis and Docker/Kubernetes listed as nice-to-haves",
+        "Fintech/banking domain (Sberbank) with banking/fintech experience explicitly called out as a plus, matching candidate's payments background",
+        "Strong stated benefits package (health insurance, corporate perks, referral bonus)"
+      ],
+      "gaps": [
+        "Requires physical office presence in Moscow during the adaptation period, only possibly hybrid later, not remote",
+        "Would require relocation from Indore to Moscow, Russia with no visa/relocation sponsorship mentioned - outside India and outside the candidate's remote/US/Europe priority tiers",
+        "Also requires frontend experience (React/Vue/Angular), which is outside candidate's core backend specialization"
+      ],
+      "rank_location": "FAIL"
     },
     "https://fr.whatjobs.com/pub_api__cpl__159930756__7079?geoID=2613&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Développeur Full-Stack JS — NestJS/Vue, AWS, Hybrid",
@@ -4897,9 +5069,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__159930756__7079?geoID=2613&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Saint Gilles Croix de Vie, France"
+      "location": "Saint Gilles Croix de Vie, France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting host returned 403 Forbidden on repeated fetch attempts - could not retrieve actual posting content, so not scored from title alone"
     },
     "https://fr.whatjobs.com/pub_api__cpl__159665393__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Développeur backend Node.js / NestJS Senior : cache et messaging (IT) / Freelance",
@@ -4907,9 +5081,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__159665393__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting host returned 403 Forbidden on repeated fetch attempts - could not retrieve actual posting content, so not scored from title alone"
     },
     "https://fr.whatjobs.com/pub_api__cpl__159786488__7079?geoID=4480&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Développeur backend NestJS TypeScript (H/F)",
@@ -4917,9 +5093,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__159786488__7079?geoID=4480&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Charenton le Pont, France"
+      "location": "Charenton le Pont, France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting host returned 403 Forbidden on repeated fetch attempts - could not retrieve actual posting content, so not scored from title alone"
     },
     "https://en-sg.whatjobs.com/pub_api__cpl__93496349__7119?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Full Stack Developer (Angular / NestJS)",
@@ -4927,9 +5105,11 @@
       "url": "https://en-sg.whatjobs.com/pub_api__cpl__93496349__7119?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Singapore"
+      "location": "Singapore",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting URL redirects to a WhatJobs listing page blocked by a Cloudflare bot-check and could not be fetched; content could not be verified, so not scored"
     },
     "https://nl.whatjobs.com/pub_api__cpl__172556052__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Node.js Backend Engineer (NestJS) — Cloud, Hybrid",
@@ -4937,9 +5117,11 @@
       "url": "https://nl.whatjobs.com/pub_api__cpl__172556052__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Netherlands"
+      "location": "Netherlands",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting URL redirects to a WhatJobs listing page blocked by a Cloudflare bot-check and could not be fetched; content could not be verified, so not scored"
     },
     "https://cl.whatjobs.com/pub_api__cpl__48613915__7092?geoID=1030&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Desarrollador Backend - NestJS + Elasticsearch",
@@ -4947,9 +5129,11 @@
       "url": "https://cl.whatjobs.com/pub_api__cpl__48613915__7092?geoID=1030&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Santiago, Chile"
+      "location": "Santiago, Chile",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting URL redirects to a WhatJobs listing page blocked by a Cloudflare bot-check and could not be fetched; content could not be verified, so not scored"
     },
     "https://cl.whatjobs.com/pub_api__cpl__48614433__7092?geoID=1030&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Desarrollador Backend Senior - NestJS, Azure y Seguridad",
@@ -4957,9 +5141,11 @@
       "url": "https://cl.whatjobs.com/pub_api__cpl__48614433__7092?geoID=1030&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Santiago, Chile"
+      "location": "Santiago, Chile",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting URL redirects to a WhatJobs listing page blocked by a Cloudflare bot-check and could not be fetched; content could not be verified, so not scored"
     },
     "https://career-legacy.globant.com/job/Monterrey-Senior-AI-Backend-%28Node-NestJS%29-MTY-Mont/540102017/?utm_source=freehire.me": {
       "title": "Senior AI Backend (Node-NestJS) - MTY",
@@ -4967,8 +5153,20 @@
       "url": "https://career-legacy.globant.com/job/Monterrey-Senior-AI-Backend-%28Node-NestJS%29-MTY-Mont/540102017/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 41.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Expert-level NestJS plus advanced TypeScript/Node.js required - direct core-skill match",
+        "Docker, CI/CD, cloud-native backend work and code reviews align with current responsibilities"
+      ],
+      "gaps": [
+        "Posting states the role can only be filled in Monterrey, NL (hybrid) with no remote path or sponsorship mentioned - outside India, fails location rule",
+        "Primary focus is GenAI/agent integration and a .NET/Azure-leaning stack, which diverges from candidate's AWS/payments/iGaming background"
+      ],
+      "rank_location": "FAIL"
     },
     "https://careers.ey.com/ey/job/CABA-Full-Stack-Developer-%28NestJS-Node_js-Angular%29-EY-Global-Delivery-Services-B-1001/1405656933/?utm_source=freehire.me": {
       "title": "Full Stack Developer (NestJS / Node.js / Angular) - EY Global Delivery Services",
@@ -4976,8 +5174,20 @@
       "url": "https://careers.ey.com/ey/job/CABA-Full-Stack-Developer-%28NestJS-Node_js-Angular%29-EY-Global-Delivery-Services-B-1001/1405656933/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 36.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "NestJS, Node.js, TypeScript and PostgreSQL requirements match core backend skillset",
+        "5+ years experience requirement is comfortably met"
+      ],
+      "gaps": [
+        "Full Stack role requires Angular frontend development and Puppeteer-based RPA, outside candidate's backend-only profile",
+        "Hybrid, Buenos Aires-only with no stated remote option or visa sponsorship; tax-compliance automation work is more routine/CRUD-style than the scale/concurrency problems candidate seeks"
+      ],
+      "rank_location": "FAIL"
     },
     "https://careers.ey.com/ey/job/Malaga-Full-Stack-Developer-%28NestJs-NodeJs-Angular%29-29590/1444886333/?utm_source=freehire.me": {
       "title": "Full Stack Developer (NestJs / NodeJs / Angular)",
@@ -4985,8 +5195,20 @@
       "url": "https://careers.ey.com/ey/job/Malaga-Full-Stack-Developer-%28NestJs-NodeJs-Angular%29-29590/1444886333/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
-      "portal": "freehire-search"
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 38.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "NestJS/Node.js/TypeScript and PostgreSQL+TypeORM requirements overlap strongly with core backend skills",
+        "Based in Spain, which partially aligns with candidate's Europe geographic preference"
+      ],
+      "gaps": [
+        "Requires Angular frontend work and only 2+ years experience expected, suggesting a less senior/full-stack-leaning role than candidate's profile",
+        "Hybrid, Málaga-only with no remote option or visa sponsorship stated; tax-automation domain work is routine-leaning rather than high-scale systems work"
+      ],
+      "rank_location": "FAIL"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__152998851__7103?geoID=3531&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "iOS Swift/SwiftUI + NestJS Fullstack Engineer (12m Contract)",
@@ -4994,9 +5216,11 @@
       "url": "https://en-ca.whatjobs.com/pub_api__cpl__152998851__7103?geoID=3531&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Markham, Canada"
+      "location": "Markham, Canada",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Posting URL redirects to a WhatJobs listing page blocked by a Cloudflare bot-check and could not be fetched; content could not be verified, so not scored"
     },
     "https://warren-walter.nicoka.com/public/jobs/668-a524234cb3cb239/apply?utm_source=freehire.me": {
       "title": "Développeur Backend Node.js / NestJS Senior (H/F) Freelance",
@@ -5004,9 +5228,23 @@
       "url": "https://warren-walter.nicoka.com/public/jobs/668-a524234cb3cb239/apply?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "rank_score": 53.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Core stack match: Node.js 24, NestJS, Express 4+",
+        "Messaging/caching match: RabbitMQ, Redis/Memcached",
+        "Docker, clean/hexagonal architecture, Jest/Vitest testing align with profile"
+      ],
+      "gaps": [
+        "Remote policy not stated; role is based in Paris and likely onsite/hybrid",
+        "Freelance contract (TJM-based) rather than permanent employment, with no visa/relocation support mentioned",
+        "Media/high-traffic editorial domain is not a target sector (fintech/iGaming/crypto/SaaS)"
+      ],
+      "rank_location": "FLAG"
     },
     "https://djinni.co/jobs/853381-node-js-backend-developer/?utm_source=freehire.me": {
       "title": "Node.js Backend Developer",
@@ -5014,9 +5252,23 @@
       "url": "https://djinni.co/jobs/853381-node-js-backend-developer/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Europe"
+      "location": "Europe",
+      "rank_score": 58.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Excellent stack match: Node.js, NestJS, TypeScript, PostgreSQL/Prisma, AWS, Docker, Redis",
+        "Explicitly expects/encourages daily use of Claude Code, matching profile's AI-first dev emphasis",
+        "Fully remote with paid vacation/sick days, no time-tracking software, mentorship and growth"
+      ],
+      "gaps": [
+        "Posting explicitly restricts candidates to Europe or Ukraine - does not appear open to India-based applicants despite being remote",
+        "General backend/US-client work, not iGaming/fintech/payments/crypto domain",
+        "Salary and detailed PTO day count not stated"
+      ],
+      "rank_location": "FAIL"
     },
     "https://fr.whatjobs.com/pub_api__cpl__159667745__7079?geoID=1392&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Node.js Senior — Développeur Backend/API, Télétravail",
@@ -5024,9 +5276,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__159667745__7079?geoID=1392&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Bordeaux, France"
+      "location": "Bordeaux, France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Could not fetch posting content - server returned HTTP 403 Forbidden on repeated attempts"
     },
     "https://careers.n-ix.com/jobs/4951167101?gh_jid=4951167101&utm_source=freehire.me": {
       "title": "Senior Node.js Backend Engineer (Core Banking Services team) ",
@@ -5034,9 +5288,11 @@
       "url": "https://careers.n-ix.com/jobs/4951167101?gh_jid=4951167101&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Ukraine"
+      "location": "Ukraine",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Page explicitly states the vacancy is closed and redirects to the jobs listing page"
     },
     "https://es.whatjobs.com/pub_api__cpl__361947635__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Desarrollador/A Backend Node.Js Typescript Remoto, 100% En Remoto",
@@ -5044,9 +5300,11 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__361947635__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Madrid, Spain"
+      "location": "Madrid, Spain",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Could not fetch posting content - server returned HTTP 403 Forbidden on repeated attempts"
     },
     "https://nofluffjobs.com/job/backend-node-js-engineer-ringier-axel-springer-tech-krakow?utm_source=freehire.me": {
       "title": "Backend Node.js Engineer",
@@ -5054,9 +5312,11 @@
       "url": "https://nofluffjobs.com/job/backend-node-js-engineer-ringier-axel-springer-tech-krakow?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Kraków, Poland"
+      "location": "Kraków, Poland",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Could not fetch posting content - fetch tool reported it is unable to access nofluffjobs.com on repeated attempts"
     },
     "https://es.whatjobs.com/pub_api__cpl__358950051__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Desarrollador/a Backend Node.js y TypeScript - IA",
@@ -5064,9 +5324,11 @@
       "url": "https://es.whatjobs.com/pub_api__cpl__358950051__7107?geoID=3665&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Madrid, Spain"
+      "location": "Madrid, Spain",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Could not fetch posting content - server returned HTTP 403 Forbidden on repeated attempts"
     },
     "https://fr.whatjobs.com/pub_api__cpl__160200681__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Développeur Backend Senior JavaScript / Node.js",
@@ -5074,9 +5336,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__160200681__7079?geoID=4557&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "Could not fetch posting content - server returned HTTP 403 Forbidden on repeated attempts"
     },
     "https://fr.whatjobs.com/pub_api__cpl__160045700__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Ingénieur Backend Senior – Node.js & Microservices",
@@ -5084,9 +5348,11 @@
       "url": "https://fr.whatjobs.com/pub_api__cpl__160045700__7079?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "France"
+      "location": "France",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL returned HTTP 403 Forbidden on repeated fetch attempts; posting content inaccessible, cannot be scored from title alone"
     },
     "https://nl.whatjobs.com/pub_api__cpl__173633906__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Node.js)",
@@ -5094,9 +5360,11 @@
       "url": "https://nl.whatjobs.com/pub_api__cpl__173633906__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "expired",
       "portal": "freehire-search",
-      "location": "Netherlands"
+      "location": "Netherlands",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL returned HTTP 403 Forbidden on repeated fetch attempts; posting content inaccessible, cannot be scored from title alone"
     },
     "https://cujo.com/careers/senior-backend-engineer-node-js-typescript-aws-06-07b/?utm_source=freehire.me": {
       "title": "Senior Backend Engineer (Node.js/TypeScript, AWS)",
@@ -5104,9 +5372,24 @@
       "url": "https://cujo.com/careers/senior-backend-engineer-node-js-typescript-aws-06-07b/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "Espoo, Uusimaa"
+      "location": "Espoo, Uusimaa",
+      "rank_score": 76.2,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Core stack match: TypeScript, Node.js, AWS serverless (Lambda, API Gateway, DynamoDB, CDK)",
+        "Fully remote or hybrid at candidate's choice, with security-first/CI-CD focus matching backend hardening strengths",
+        "Fintech-adjacent engineering culture (mentoring, architecture docs) fits Staff/Principal IC trajectory"
+      ],
+      "gaps": [
+        "Domain is consumer Android/iOS cloud services, not iGaming/fintech/payments (moderate, not strong, experience match)",
+        "No PTO details mentioned in posting",
+        "Some nice-to-haves (Java/Kotlin/Python/Go willingness) outside primary Node.js stack"
+      ],
+      "rank_location": "PASS",
+      "deadline": "2026-10-25"
     },
     "https://djinni.co/jobs/854345-senior-backend-developer-node-js-typescript/?utm_source=freehire.me": {
       "title": "Senior BackEnd Developer  (Node.js / TypeScript)",
@@ -5114,9 +5397,23 @@
       "url": "https://djinni.co/jobs/854345-senior-backend-developer-node-js-typescript/?utm_source=freehire.me",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "freehire-search",
-      "location": "UA"
+      "location": "UA",
+      "rank_score": 52.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong technical overlap: Node.js, TypeScript, NestJS/Express, PostgreSQL, RabbitMQ, Redis, Docker, microservices",
+        "Real-time (WebSocket) and RBAC nice-to-haves align with candidate's strengths",
+        "End-to-end service ownership and architecture discussion involvement fits IC-track preference"
+      ],
+      "gaps": [
+        "Location is Kyiv, Ukraine with hybrid-remote (office-based), only considers candidates in Ukraine - no indication of remote-anywhere or visa sponsorship for an India-based candidate",
+        "6+ years commercial backend experience required (candidate has ~2 years senior-level + 2 prior, roughly 4 total)",
+        "Posting requires Ukrainian language fluency and is explicitly Ukraine-only hiring, effectively excluding remote international candidates"
+      ],
+      "rank_location": "FAIL"
     },
     "https://jobdanmark.dk/job/fullstack-developer-php-laravel-expert": {
       "title": "Fullstack Developer (PHP / Laravel Expert)",
@@ -5284,9 +5581,11 @@
       "url": "https://jobnet.dk/job/4fceec86-fa56-4c24-8129-2c3a64700a8c",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "jobnet-search",
-      "location": "Aarhus"
+      "location": "Aarhus",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL redirects to a jobnet.dk login/identity-server authentication wall; actual posting content is inaccessible without logging in, cannot be scored"
     },
     "https://jobnet.dk/job/45e4c533-aeea-41af-a5c3-fac09bce6b07": {
       "title": "Senior Full Stack Cloud Engineer",
@@ -5294,9 +5593,11 @@
       "url": "https://jobnet.dk/job/45e4c533-aeea-41af-a5c3-fac09bce6b07",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "jobnet-search",
-      "location": "Danmark"
+      "location": "Danmark",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL redirects to a jobnet.dk login/identity-server authentication wall; actual posting content is inaccessible without logging in, cannot be scored"
     },
     "https://jobnet.dk/job/7996a369-6913-4fd8-aa50-fc8b73c4b946": {
       "title": "Senior Full-Stack Software Engineer",
@@ -5304,9 +5605,11 @@
       "url": "https://jobnet.dk/job/7996a369-6913-4fd8-aa50-fc8b73c4b946",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "expired",
       "portal": "jobnet-search",
-      "location": "Danmark"
+      "location": "Danmark",
+      "rank_date": "2026-10-22",
+      "expired_reason": "URL redirects to a jobnet.dk login/identity-server authentication wall; actual posting content is inaccessible without logging in, cannot be scored"
     },
     "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-leena-ai-4477512040": {
       "title": "Software Development Engineer III",
@@ -5324,9 +5627,23 @@
       "url": "https://ua.linkedin.com/jobs/view/node-js-developer-with-llm-at-glorium-technologies-4476687289",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Kyiv, Kyiv City, Ukraine"
+      "location": "Kyiv, Kyiv City, Ukraine",
+      "rank_score": 73.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/TypeScript/NestJS/Express/PostgreSQL overlap; remote-or-hybrid choice offered ('Remote or hybrid? The choice is yours')",
+        "Explicitly values AI-first/agentic dev with Claude Code, Cursor, or Copilot - direct match to candidate's AI-first workflow",
+        "Flexible time off and personal days mentioned, satisfying PTO requirement; business-outcome-tied engineering (federal bid engine) fits behavioral profile"
+      ],
+      "gaps": [
+        "Core project domain is a federal-bidding/government-contracting AI platform with heavy LLM orchestration (RAG, pgvector, Bedrock/Anthropic/OpenAI integration) - outside candidate's iGaming/fintech/payments background, and LLM-platform engineering is not a demonstrated skill",
+        "4+ years Node.js/TypeScript required - candidate's total experience (~4 years combined, 2 at senior level) is borderline but plausible",
+        "Posting/company location signals are inconsistent (North Charleston, SC header vs. Kyiv topcard), and visa/citizenship requirements are not stated, left unverified"
+      ],
+      "rank_location": "PASS"
     },
     "https://www.linkedin.com/jobs/view/senior-software-development-engineer-at-cvs-health-4480193252": {
       "title": "Senior Software Development Engineer",
@@ -5345,9 +5662,23 @@
       "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-node-typescript-stable-sportstech-co-used-by-millions-at-high-country-search-group-4480179591",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Denver Metropolitan Area"
+      "location": "Denver Metropolitan Area",
+      "rank_score": 55.6,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/TypeScript, SQL, event-driven microservices match",
+        "Unlimited PTO, remote-first culture, product used by millions (scale/business-outcome fit)",
+        "Staff-level mentoring role fits Staff/Principal IC track"
+      ],
+      "gaps": [
+        "Fully remote but restricted to US residents only, and client explicitly cannot sponsor visas - no legal path for an India-based candidate",
+        "Domain is general sports-tech SaaS, not fintech/iGaming/payments",
+        "Anonymous employer (agency posting) - some details unverifiable"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-at-techsearch-4482091401": {
       "title": "Senior Backend Engineer (Node.js, TypeScript)",
@@ -5355,9 +5686,23 @@
       "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-at-techsearch-4482091401",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 63.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Near-perfect stack match: Node.js, TypeScript, NestJS, Kafka/RabbitMQ, AWS, microservices",
+        "Explicitly values production use of Claude Code/Cursor/Codex (AI-first dev)",
+        "Major system ownership + mentoring aligns with Staff IC growth path"
+      ],
+      "gaps": [
+        "Fully remote but limited to US/Canada; posting signals no visa sponsorship - no path for India-based candidate",
+        "Agency posting for an anonymous client; some claims unverifiable",
+        "PTO policy (unlimited) is a plus but geography is disqualifying"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-sniffies-4477439748": {
       "title": "Senior Backend Engineer",
@@ -5365,9 +5710,23 @@
       "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-sniffies-4477439748",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "United States"
+      "location": "United States",
+      "rank_score": 53.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/TypeScript, MongoDB, AWS, Docker, async/queue match",
+        "High-throughput real-time engagement system (3M MAU, 20M msgs/day)",
+        "Production debugging with Sentry/CloudWatch matches observability experience"
+      ],
+      "gaps": [
+        "Remote (US) with no visa/sponsorship mentioned - likely requires US work authorization, which candidate lacks",
+        "Consumer dating/social platform is outside target sectors (fintech/iGaming/crypto)",
+        "PTO/benefits not disclosed in posting"
+      ],
+      "rank_location": "FAIL"
     },
     "https://au.linkedin.com/jobs/view/software-engineer-financial-platform-issuing-at-cash-app-4451969307": {
       "title": "Software Engineer, Financial Platform - Issuing",
@@ -5375,9 +5734,23 @@
       "url": "https://au.linkedin.com/jobs/view/software-engineer-financial-platform-issuing-at-cash-app-4451969307",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Melbourne, Victoria, Australia"
+      "location": "Melbourne, Victoria, Australia",
+      "rank_score": 45.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong fintech/payments domain: card issuing, transaction processing, disputes for a tier-0 financial system",
+        "AI tooling (Claude, MCP) explicitly part of workflow",
+        "Flexible time off and remote-eligible roles mentioned generally"
+      ],
+      "gaps": [
+        "Primary stack is Java/Kotlin, not Node.js/TypeScript - core technical mismatch",
+        "Location is Melbourne, Australia; remote eligibility for this specific role and visa/sponsorship path are unstated",
+        "3+ years junior-leaning seniority bar undersells candidate's experience level"
+      ],
+      "rank_location": "FLAG"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-treasury-at-alpaca-4472027240": {
       "title": "Senior Software Engineer - Payments & Treasury",
@@ -5385,10 +5758,24 @@
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-treasury-at-alpaca-4472027240",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
       "location": "New York, NY",
-      "mass_posting_note": "posted identically across: New York, NY, São Paulo, São Paulo, Brazil"
+      "mass_posting_note": "posted identically across: New York, NY, São Paulo, São Paulo, Brazil",
+      "rank_score": 48.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong payments/treasury/brokerage domain - ledgers, payment rails, reconciliation",
+        "Event-driven, distributed, microservices design matches candidate's architecture strengths",
+        "Business-outcome-tied engineering (resilience/scalability of money-moving systems)"
+      ],
+      "gaps": [
+        "Go is the preferred language (non-Node primary stack) - core technical mismatch",
+        "Listing has conflicting location signals (NY vs a stray SC artifact) and no stated remote/onsite policy or visa sponsorship",
+        "PTO not mentioned"
+      ],
+      "rank_location": "FLAG"
     },
     "https://es.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-payments-ledger-systems-at-maxit-consulting-max-corporate-group-4478800417": {
       "title": "Senior Backend Engineer – Payments & Ledger Systems",
@@ -5396,9 +5783,23 @@
       "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-payments-ledger-systems-at-maxit-consulting-max-corporate-group-4478800417",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Madrid, Community of Madrid, Spain"
+      "location": "Madrid, Community of Madrid, Spain",
+      "rank_score": 49.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong fintech/payments/ledger domain - banking/payments infra for US prediction markets and regulated gaming, $2B+ processed",
+        "Autonomous senior IC role with end-to-end production ownership fits Staff/Principal IC track",
+        "Distributed/event-driven systems and ledger-style data modeling align with candidate's strengths"
+      ],
+      "gaps": [
+        "Posting explicitly requires candidates to currently live in Spain with existing work authorization there - hard geographic exclusion for an India-based candidate",
+        "Specific tech stack (Node.js or otherwise) is not disclosed, so technical fit is unverified",
+        "No salary or PTO information given"
+      ],
+      "rank_location": "FAIL"
     },
     "https://ke.linkedin.com/jobs/view/senior-backend-engineer-go-at-afrisend-money-transfer-limited-4482041951": {
       "title": "Senior Backend Engineer (Go)",
@@ -5436,9 +5837,23 @@
       "url": "https://au.linkedin.com/jobs/view/senior-backend-engineer-at-picklebet-4478706834",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Brisbane, Queensland, Australia"
+      "location": "Brisbane, Queensland, Australia",
+      "rank_score": 49.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Direct iGaming/betting domain match, closely aligned with TrueIgTech background",
+        "Remote-by-default culture with optional office rather than mandated in-office",
+        "Full lifecycle ownership (build, QA, deploy, monitor) matches end-to-end ownership strength"
+      ],
+      "gaps": [
+        "Kotlin is explicitly the day-to-day language - core technical mismatch vs Node.js/TypeScript",
+        "International remote eligibility, visa, and sponsorship are not addressed (Australia-based company)",
+        "No salary or PTO details listed"
+      ],
+      "rank_location": "FLAG"
     },
     "https://mt.linkedin.com/jobs/view/software-engineer-at-enteractive-4482101915": {
       "title": "Software Engineer",
@@ -5446,9 +5861,23 @@
       "url": "https://mt.linkedin.com/jobs/view/software-engineer-at-enteractive-4482101915",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Gzira, Malta"
+      "location": "Gzira, Malta",
+      "rank_score": 36.6,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "iGaming domain match - builds CRM/communications platform for iGaming operators",
+        "Service-oriented architecture, Redis caching, and messaging/background services overlap with candidate's experience",
+        "Backend-focused role with architecture input"
+      ],
+      "gaps": [
+        "C#/.NET is the primary required stack - core technical mismatch vs Node.js/TypeScript",
+        "Role appears onsite in Malta with no remote option or visa/sponsorship path stated - relocation outside India with no sponsorship",
+        "PTO/leave policy not mentioned"
+      ],
+      "rank_location": "FAIL"
     },
     "https://be.linkedin.com/jobs/view/backend-engineer-sports-betting-ghent-belgium-at-gaming1-4481552620": {
       "title": "BACKEND ENGINEER - SPORTS BETTING (GHENT - BELGIUM)",
@@ -5456,9 +5885,22 @@
       "url": "https://be.linkedin.com/jobs/view/backend-engineer-sports-betting-ghent-belgium-at-gaming1-4481552620",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Ghent, Flemish Region, Belgium"
+      "location": "Ghent, Flemish Region, Belgium",
+      "rank_score": 51.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "iGaming/sports betting domain is a strong match",
+        "Nice-to-haves (PostgreSQL, RabbitMQ/Kafka, Kubernetes, Datadog) overlap heavily with profile",
+        "End-to-end ownership culture fits behavioral profile"
+      ],
+      "gaps": [
+        "Primary required stack is a statically-typed language (.NET/Java/Kotlin/Go), not Node.js/TypeScript",
+        "Hybrid in Ghent (50% remote cap) requiring relocation to Belgium with no stated visa sponsorship"
+      ],
+      "rank_location": "FLAG"
     },
     "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4477785523": {
       "title": "Backend Engineer",
@@ -5466,9 +5908,22 @@
       "url": "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4477785523",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "London, England, United Kingdom"
+      "location": "London, England, United Kingdom",
+      "rank_score": 67.0,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js and TypeScript are the explicit primary stack - strong match",
+        "iGaming/sportsbook domain with high-throughput (thousands req/sec) scaling problems",
+        "AWS, Redis, MySQL/Postgres all align with profile"
+      ],
+      "gaps": [
+        "Work policy unclear but references 'our London office'; no remote option or visa sponsorship stated",
+        "PTO not mentioned in benefits"
+      ],
+      "rank_location": "FLAG"
     },
     "https://mt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324693013": {
       "title": "Senior Backend Engineer (Go)",
@@ -5487,9 +5942,22 @@
       "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-backend-at-draftkings-inc-4467556994",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Dublin, County Dublin, Ireland"
+      "location": "Dublin, County Dublin, Ireland",
+      "rank_score": 51.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "DraftKings is a strong iGaming/sports-betting domain match with 24/7 high-traffic scale problems",
+        "Explicit emphasis on AI coding tools/agents aligns with Claude Code experience",
+        "End-to-end ownership and mentoring responsibilities fit behavioral profile"
+      ],
+      "gaps": [
+        "Primary stack is C# or Java, not Node.js/TypeScript",
+        "Dublin location with no remote/visa sponsorship stated; may require a state gaming license"
+      ],
+      "rank_location": "FLAG"
     },
     "https://es.linkedin.com/jobs/view/senior-backend-engineer-sports-at-leovegas-group-4449126170": {
       "title": "Senior Backend Engineer - Sports",
@@ -5497,9 +5965,22 @@
       "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-sports-at-leovegas-group-4449126170",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Málaga, Andalusia, Spain"
+      "location": "Málaga, Andalusia, Spain",
+      "rank_score": 49.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "LeoVegas is a strong iGaming/casino/betting domain match",
+        "Kubernetes, Docker, Kafka, and resilience-pattern requirements overlap with profile",
+        "On-call ownership and mentoring culture fits behavioral profile"
+      ],
+      "gaps": [
+        "Primary stack is Java/Spring Boot, not Node.js (non-Node primary language)",
+        "Hybrid in Málaga, Spain (2 days WFH) with no visa sponsorship stated; 6+ years required is steep"
+      ],
+      "rank_location": "FLAG"
     },
     "https://mt.linkedin.com/jobs/view/senior-backend-software-engineer-at-kingmakers-4477064614": {
       "title": "Senior Backend Software Engineer",
@@ -5507,9 +5988,22 @@
       "url": "https://mt.linkedin.com/jobs/view/senior-backend-software-engineer-at-kingmakers-4477064614",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "San Ġiljan, Saint Julian's, Malta"
+      "location": "San Ġiljan, Saint Julian's, Malta",
+      "rank_score": 42.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "MongoDB, Redis, Docker, Kubernetes, Terraform, RabbitMQ/Kafka align with secondary skills",
+        "KingMakers is a sports-betting (iGaming-adjacent) company",
+        "End-to-end ownership of features is emphasized"
+      ],
+      "gaps": [
+        "Primary stack is C#/.NET, not Node.js",
+        "Role is MarTech/affiliate-tracking and analytics-leaning rather than core payments/concurrency engineering, with React/SEO nice-to-haves outside core strengths"
+      ],
+      "rank_location": "FLAG"
     },
     "https://be.linkedin.com/jobs/view/backend-engineer-technology-department-liege-belgium-at-gaming1-4442636077": {
       "title": "BACKEND ENGINEER - TECHNOLOGY DEPARTMENT (LIEGE-BELGIUM)",
@@ -5517,9 +6011,22 @@
       "url": "https://be.linkedin.com/jobs/view/backend-engineer-technology-department-liege-belgium-at-gaming1-4442636077",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Liège, Walloon Region, Belgium"
+      "location": "Liège, Walloon Region, Belgium",
+      "rank_score": 50.7,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "iGaming/casino domain strong match, high-traffic regulated environment",
+        "PostgreSQL, RabbitMQ/NServiceBus, AWS align with secondary skills",
+        "End-to-end ownership culture fits behavioral profile"
+      ],
+      "gaps": [
+        "Primary stack is .NET (C#), not Node.js/TypeScript",
+        "Hybrid in Liège (50% remote cap) requiring relocation to Belgium with no stated visa sponsorship"
+      ],
+      "rank_location": "FLAG"
     },
     "https://in.linkedin.com/jobs/view/full-stack-engineer-node-js-nestjs-react-typescript-saas-at-script-assist-4479410630": {
       "title": "Full Stack Engineer - Node.js, NestJS, React, TypeScript | SaaS",
@@ -5527,9 +6034,23 @@
       "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-node-js-nestjs-react-typescript-saas-at-script-assist-4479410630",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Ahmedabad, Gujarat, India"
+      "location": "Ahmedabad, Gujarat, India",
+      "rank_score": 53.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js, NestJS, and TypeScript are the explicit primary backend stack - strong match",
+        "Ahmedabad is one of the candidate's accepted India relocation cities (currently remote, in-office only once Ahmedabad office opens)",
+        "Multi-step business workflow logic (approvals, payments, orders, inventory) leverages backend business-logic experience"
+      ],
+      "gaps": [
+        "Requires 2+ years of React/frontend work, which is a stated weak area for the candidate",
+        "Domain is general B2B/healthcare SaaS - only a moderate match vs. target sectors",
+        "Work is workflow/CRUD-oriented (multi-tenancy, approvals, orders) rather than the concurrency/scale problems the candidate is drawn to - risk of behavioral drain"
+      ],
+      "rank_location": "PASS"
     },
     "https://fi.linkedin.com/jobs/view/full-stack-development-engineer-at-lektor-aero-4477669479": {
       "title": "Full Stack Development Engineer",
@@ -5537,9 +6058,24 @@
       "url": "https://fi.linkedin.com/jobs/view/full-stack-development-engineer-at-lektor-aero-4477669479",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Helsinki, Uusimaa, Finland"
+      "location": "Helsinki, Uusimaa, Finland",
+      "rank_score": 45.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "TypeScript, Node.js/NestJS, SQL/Prisma, Docker, and Kubernetes align closely with the primary/secondary stack",
+        "Collaborative, product-minded small-team culture",
+        "Clear application deadline and process stated"
+      ],
+      "gaps": [
+        "Domain is aviation/simulation/edtech, not fintech/iGaming/crypto/payments",
+        "Significant React/frontend scope (full-stack role) outside core strengths",
+        "Requires regular on-site presence in Helsinki/Southern Finland with no visa sponsorship mentioned"
+      ],
+      "rank_location": "FLAG",
+      "deadline": "2026-03-13"
     },
     "https://vn.linkedin.com/jobs/view/fullstack-nodejs-aws-signing-bonus-up-to-30m-at-fpt-software-4480360104": {
       "title": "Fullstack Nodejs AWS - Signing Bonus up to 30M",
@@ -5547,9 +6083,22 @@
       "url": "https://vn.linkedin.com/jobs/view/fullstack-nodejs-aws-signing-bonus-up-to-30m-at-fpt-software-4480360104",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Hanoi, Hanoi, Vietnam"
+      "location": "Hanoi, Hanoi, Vietnam",
+      "rank_score": 35.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Strong Node.js/TypeScript + AWS (Lambda/ECS/DynamoDB) backend overlap",
+        "Signing bonus plus performance/project bonuses align with compensation interest"
+      ],
+      "gaps": [
+        "Role is explicitly fullstack (React/Angular frontend required), a weak area",
+        "Onsite Hanoi role with no remote or sponsorship path mentioned - fails India/remote/US/Europe location priority",
+        "General IT services/consulting domain, not fintech/iGaming/crypto"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.linkedin.com/jobs/view/staff-fullstack-software-engineer-at-lvt-liveview-technologies-4469915600": {
       "title": "Staff Fullstack Software Engineer",
@@ -5557,9 +6106,22 @@
       "url": "https://www.linkedin.com/jobs/view/staff-fullstack-software-engineer-at-lvt-liveview-technologies-4469915600",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "American Fork, UT"
+      "location": "American Fork, UT",
+      "rank_score": 30.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "NestJS preferred + Node.js/TypeScript backend overlap",
+        "WebSocket real-time data flows and Docker/CI/CD match real-time systems experience"
+      ],
+      "gaps": [
+        "ELIGIBILITY GATE: posting requires U.S. work authorization, which the candidate (Indian national) does not hold - hard FAIL",
+        "Primary stack is frontend-heavy (React/Next.js App Router, GraphQL/Apollo), not backend-primary",
+        "Requires 8+ years experience vs candidate's ~4 years total"
+      ],
+      "rank_location": "FAIL"
     },
     "https://be.linkedin.com/jobs/view/fullstack-nodejs-software-engineer-m-v-x-lemon-%F0%9F%8D%8B-at-lemon-companies-4477267312": {
       "title": "Fullstack NodeJS Software Engineer (m/v/x) - Lemon 🍋",
@@ -5567,9 +6129,22 @@
       "url": "https://be.linkedin.com/jobs/view/fullstack-nodejs-software-engineer-m-v-x-lemon-%F0%9F%8D%8B-at-lemon-companies-4477267312",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Kontich, Flemish Region, Belgium"
+      "location": "Kontich, Flemish Region, Belgium",
+      "rank_score": 47.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js with Express/NestJS plus SQL/NoSQL (MongoDB/PostgreSQL) directly matches core stack",
+        "Flexible hours and home-working option fit the remote/flexible preference"
+      ],
+      "gaps": [
+        "Posting requires Dutch + English communication; candidate speaks only English/Hindi",
+        "Role targets ~2-3 years experience, below candidate's seniority",
+        "Visa/relocation sponsorship for Belgium not mentioned; general IT consulting domain, not a target sector"
+      ],
+      "rank_location": "FLAG"
     },
     "https://in.linkedin.com/jobs/view/lead-i-software-engineering-nest-js-and-node-js-and-react-at-ust-4470176339": {
       "title": "Lead I - Software Engineering-Nest.js and Node.js and react",
@@ -5577,9 +6152,22 @@
       "url": "https://in.linkedin.com/jobs/view/lead-i-software-engineering-nest-js-and-node-js-and-react-at-ust-4470176339",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Trivandrum, Kerala, India"
+      "location": "Trivandrum, Kerala, India",
+      "rank_score": 47.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Direct NestJS + Node.js match for core backend skill",
+        "5+ years requirement aligns with candidate seniority"
+      ],
+      "gaps": [
+        "IT services/staff-augmentation domain (third-party integrations, Monday.com), not fintech/iGaming/crypto",
+        "Location is Trivandrum, Kerala - India relocation outside Indore/Bengaluru/Ahmedabad",
+        "No remote or PTO information disclosed; heavier React/integration focus than payments/real-time depth"
+      ],
+      "rank_location": "FLAG"
     },
     "https://in.linkedin.com/jobs/view/full-stack-engineer-at-latinem-private-limited-4480347348": {
       "title": "Full Stack Engineer",
@@ -5587,9 +6175,22 @@
       "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-latinem-private-limited-4480347348",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Hyderabad, Telangana, India"
+      "location": "Hyderabad, Telangana, India",
+      "rank_score": 42.2,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "NestJS/Node.js/TypeScript + PostgreSQL/TypeORM backend stack matches directly",
+        "Docker/CI/CD and cloud (AWS/Azure/GCP) exposure aligns with secondary skills"
+      ],
+      "gaps": [
+        "Real estate domain, not a target sector, with no scale/concurrency framing in the posting",
+        "Requires 8+ years experience, above candidate's ~4 years",
+        "Location is Hyderabad - India relocation outside Indore/Bengaluru/Ahmedabad; no PTO/remote info given"
+      ],
+      "rank_location": "FLAG"
     },
     "https://au.linkedin.com/jobs/view/senior-software-engineer-at-etrainu-4479969336": {
       "title": "Senior Software Engineer",
@@ -5597,9 +6198,23 @@
       "url": "https://au.linkedin.com/jobs/view/senior-software-engineer-at-etrainu-4479969336",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Brisbane, Queensland, Australia"
+      "location": "Brisbane, Queensland, Australia",
+      "rank_score": 53.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js/TypeScript + event-driven/streaming architecture matches real-time systems strength",
+        "Explicit call for practical AI-enabled/agentic engineering tooling aligns with Claude Code experience",
+        "SaaS/e-learning platform falls within a target sector (bonus)"
+      ],
+      "gaps": [
+        "Remote/onsite policy not stated; Brisbane, Australia relocation with no sponsorship or remote path mentioned",
+        "No salary or PTO information disclosed",
+        "Domain is e-learning rather than fintech/iGaming/crypto core strengths"
+      ],
+      "rank_location": "FLAG"
     },
     "https://mt.linkedin.com/jobs/view/fullstack-node-js-engineer-%E2%80%93-high-salary-international-at-archer-the-it-recruitment-consultancy-malta-4482122698": {
       "title": "Fullstack Node.js Engineer – High salary & International",
@@ -5607,9 +6222,23 @@
       "url": "https://mt.linkedin.com/jobs/view/fullstack-node-js-engineer-%E2%80%93-high-salary-international-at-archer-the-it-recruitment-consultancy-malta-4482122698",
       "first_seen": "2026-10-22",
       "fit": "high",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Ta' Xbiex, Malta"
+      "location": "Ta' Xbiex, Malta",
+      "rank_score": 54.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js/TypeScript + React + PostgreSQL is a direct stack match",
+        "Comfort with AI-assisted development tools aligns with Claude Code-first workflow",
+        "Hybrid + flexible hours fits flexible-work preference; Malta sits in the wider Europe priority tier"
+      ],
+      "gaps": [
+        "Agency posting doesn't name the actual employer, limiting domain/culture verification",
+        "Hybrid (not fully remote); visa/relocation sponsorship for an Indian candidate not explicitly confirmed despite International in the title",
+        "Media-intelligence domain is not a core target sector"
+      ],
+      "rank_location": "FLAG"
     },
     "https://gr.linkedin.com/jobs/view/senior-fullstack-engineer-at-kpler-4468918563": {
       "title": "Senior Fullstack Engineer",
@@ -5617,9 +6246,23 @@
       "url": "https://gr.linkedin.com/jobs/view/senior-fullstack-engineer-at-kpler-4468918563",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Athens, Attiki, Greece"
+      "location": "Athens, Attiki, Greece",
+      "rank_score": 63.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js/TypeScript + Kafka + PostgreSQL + microservices stack strongly overlaps with payment-stack and OLAP migration experience",
+        "Explicit mention of hands-on AI tools including Claude Code by name matches AI-first dev profile directly",
+        "Senior title with BFF/DDD/microservices framing fits Staff/Principal IC scale-problem interest"
+      ],
+      "gaps": [
+        "Remote/onsite policy and visa/relocation sponsorship not stated for the Athens, Greece location",
+        "Domain is maritime/commodities data intelligence, not fintech/iGaming/crypto core sectors",
+        "No PTO or salary information disclosed"
+      ],
+      "rank_location": "FLAG"
     },
     "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4395483653": {
       "title": "Staff Software Engineer",
@@ -5627,9 +6270,23 @@
       "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4395483653",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "New York, NY"
+      "location": "New York, NY",
+      "rank_score": 40.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Node.js listed as one of the accepted backend languages alongside distributed systems/event-driven/microservices architecture",
+        "Strong overlap on Docker, Kubernetes, AWS/GCP, SQL/NoSQL databases",
+        "Generous PTO and benefits package explicitly listed (flexible vacation, mental health days, work-from-anywhere up to 8 weeks/yr)"
+      ],
+      "gaps": [
+        "Role is hybrid, tied to specific US offices (NYC/SF/LA/Irvine/McLean/DC) with no remote option or visa sponsorship mentioned - requires relocation Hokam cannot easily make",
+        "Requires 7-10 yrs full-stack experience including TypeScript/React frontend work, which is a weak area for Hokam's backend-only profile",
+        "Domain is legal-tech/enterprise SaaS, not iGaming/fintech/crypto"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.linkedin.com/jobs/view/staff-backend-software-engineer-at-firestorm-4482148361": {
       "title": "Staff Backend Software Engineer",
@@ -5637,9 +6294,23 @@
       "url": "https://www.linkedin.com/jobs/view/staff-backend-software-engineer-at-firestorm-4482148361",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "San Diego, CA"
+      "location": "San Diego, CA",
+      "rank_score": 36.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Stack closely matches: TypeScript/Node.js, GraphQL, Prisma are explicitly called out as preferred",
+        "Experience designing systems with complex state, workflows, and consistency requirements aligns with Hokam's payment/reconciliation hardening work",
+        "Unlimited PTO and strong benefits (equity, 100% covered insurance)"
+      ],
+      "gaps": [
+        "ELIGIBILITY GATE HARD FAIL: posting states U.S. person required due to ITAR regulations - Hokam is an Indian citizen/resident and does not hold this status, disqualifying regardless of technical fit",
+        "Role is based onsite in San Diego, CA with no remote option stated",
+        "Domain is industrial/manufacturing ERP/MES software, not iGaming/fintech/crypto"
+      ],
+      "rank_location": "FAIL"
     },
     "https://www.linkedin.com/jobs/view/staff-engineer-at-ranger-technical-resources-4481769212": {
       "title": "Staff Engineer",
@@ -5647,9 +6318,23 @@
       "url": "https://www.linkedin.com/jobs/view/staff-engineer-at-ranger-technical-resources-4481769212",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
+      "status": "ranked",
       "portal": "linkedin-search",
-      "location": "Orange County, CA"
+      "location": "Orange County, CA",
+      "rank_score": 51.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Very strong tech stack match: Node.js, TypeScript, NestJS, AWS Lambda, SQS, SNS, DynamoDB, OpenSearch, distributed systems/event-driven architecture",
+        "Mentor engineers through best practices, architectural thinking, and engineering rigor fits a Staff/Principal IC track without requiring people management",
+        "High-throughput distributed systems problem domain (Voice AI platform at scale) aligns with Hokam's concurrency/scale interests"
+      ],
+      "gaps": [
+        "No remote/hybrid/onsite policy stated, but role is tied to an Orange County, CA address via a staffing agency with no sponsorship mentioned - likely requires US relocation",
+        "Domain is healthcare/Voice AI, not iGaming/fintech/crypto (moderate, not strong, domain match)",
+        "Compensation and PTO/benefits not disclosed in the posting"
+      ],
+      "rank_location": "FAIL"
     },
     "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538": {
       "title": "Software Engineer AI Coding Tasks",
@@ -5657,8 +6342,22 @@
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
       "first_seen": "2026-10-22",
       "fit": "medium",
-      "status": "new",
-      "portal": "remoteok-search"
+      "status": "ranked",
+      "portal": "remoteok-search",
+      "rank_score": 22.5,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-10-22",
+      "strengths": [
+        "Fully remote, any location, which satisfies the top geographic priority",
+        "TypeScript is listed among the accepted primary languages",
+        "Flexible minimal time commitment (~10 hrs/week) could supplement current employment"
+      ],
+      "gaps": [
+        "Not a real full-time engineering role: it's temporary, task-based gig work paid per approved task (~$1,000/task), not aligned with career progression on a Staff/Principal IC track",
+        "No match to payment systems, real-time systems, or iGaming/fintech/crypto domain - work is generic AI-training data generation",
+        "Unusual terms restrict publishing/open-sourcing the work and require licensing it to the company, with no PTO/benefits structure at all"
+      ],
+      "rank_location": "PASS"
     },
     "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success": {
       "title": "Director PM, Payments & Client Success",
