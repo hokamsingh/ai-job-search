@@ -20,160 +20,169 @@
   * { box-sizing: border-box; }
   body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     background: var(--bg);
     color: var(--text);
-    padding: 24px;
+    min-width: 900px;
   }
   header {
+    background: var(--card-bg);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 32px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 24px;
   }
-  header h1 { font-size: 1.5rem; margin: 0; }
+  header h1 { margin: 0; font-size: 1.4rem; }
   header .generated { color: var(--text-muted); font-size: 0.9rem; }
+  main { padding: 24px 32px; max-width: 1400px; margin: 0 auto; }
   .stat-cards {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 16px;
     margin-bottom: 24px;
   }
-  @media (max-width: 900px) {
-    .stat-cards { grid-template-columns: repeat(2, 1fr); }
-  }
   .stat-card {
     background: var(--card-bg);
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 18px 20px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    padding: 16px;
-    border-left: 4px solid var(--text-muted);
+    border-left: 5px solid var(--border);
   }
-  .stat-card.total { border-left-color: var(--text); }
+  .stat-card .num { font-size: 2rem; font-weight: 700; line-height: 1; }
+  .stat-card .label { color: var(--text-muted); font-size: 0.85rem; margin-top: 6px; }
+  .stat-card.total { border-left-color: #6366f1; }
   .stat-card.active { border-left-color: var(--color-active); }
   .stat-card.interview { border-left-color: var(--color-interview); }
   .stat-card.offer { border-left-color: var(--color-offer); }
   .stat-card.rejected { border-left-color: var(--color-rejected); }
-  .stat-card .num { font-size: 2rem; font-weight: 700; }
-  .stat-card .label { color: var(--text-muted); font-size: 0.85rem; }
   .charts-row {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 16px;
     margin-bottom: 16px;
   }
-  @media (max-width: 900px) {
-    .charts-row { grid-template-columns: 1fr; }
-  }
   .chart-card {
     background: var(--card-bg);
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 18px 20px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    padding: 16px;
   }
-  .chart-card h3 { margin: 0 0 12px 0; font-size: 1rem; }
-  .empty-note { color: var(--text-muted); font-size: 0.9rem; padding: 24px 0; text-align: center; }
+  .chart-card h3 { margin: 0 0 12px; font-size: 1rem; }
+  .empty-chart-note { color: var(--text-muted); font-size: 0.85rem; text-align: center; padding: 20px 0; }
   .table-card {
     background: var(--card-bg);
-    border-radius: 8px;
+    border-radius: 10px;
+    padding: 18px 20px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-    padding: 16px;
-    overflow-x: auto;
+    margin-top: 8px;
   }
-  .table-controls {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 12px;
-  }
+  .table-controls { display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap; }
   .table-controls input, .table-controls select {
-    padding: 6px 10px;
+    padding: 7px 10px;
     border: 1px solid var(--border);
     border-radius: 6px;
     font-size: 0.9rem;
   }
-  table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+  .table-controls input { flex: 1; min-width: 200px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  thead th {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 2px solid var(--border);
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+  tbody td { padding: 8px 10px; border-bottom: 1px solid var(--border); }
   tbody tr:nth-child(even) { background: #fafafa; }
   .pill {
     display: inline-block;
     padding: 2px 10px;
     border-radius: 999px;
-    color: #fff;
     font-size: 0.78rem;
     font-weight: 600;
+    color: #fff;
   }
-  footer {
-    text-align: center;
-    color: var(--text-muted);
-    font-size: 0.85rem;
-    margin-top: 24px;
+  .empty-state { text-align: center; padding: 48px 20px; color: var(--text-muted); }
+  .empty-state .big { font-size: 2.2rem; margin-bottom: 8px; }
+  footer { text-align: center; color: var(--text-muted); font-size: 0.82rem; padding: 24px 0 32px; }
+  @media (max-width: 1100px) {
+    .stat-cards { grid-template-columns: repeat(5, 1fr); }
+    .charts-row { grid-template-columns: 1fr; }
   }
 </style>
 </head>
 <body>
-
 <header>
   <h1>🔍 Job Search Dashboard</h1>
-  <div class="generated">Generated: 2026-10-21</div>
+  <div class="generated">Generated: 2026-10-24</div>
 </header>
-
-<div class="stat-cards">
-  <div class="stat-card total"><div class="num">0</div><div class="label">Total</div></div>
-  <div class="stat-card active"><div class="num">0</div><div class="label">Active</div></div>
-  <div class="stat-card interview"><div class="num">0</div><div class="label">Interview</div></div>
-  <div class="stat-card offer"><div class="num">0</div><div class="label">Offer</div></div>
-  <div class="stat-card rejected"><div class="num">0</div><div class="label">Rejected/Closed</div></div>
-</div>
-
-<div class="charts-row">
-  <div class="chart-card">
-    <h3>Status breakdown</h3>
-    <div class="empty-note">No applications tracked yet. Run <code>/outcome</code> after applying to a role to populate this chart.</div>
+<main>
+  <div class="stat-cards">
+    <div class="stat-card total"><div class="num">0</div><div class="label">Total Applications</div></div>
+    <div class="stat-card active"><div class="num">0</div><div class="label">Active</div></div>
+    <div class="stat-card interview"><div class="num">0</div><div class="label">Interview</div></div>
+    <div class="stat-card offer"><div class="num">0</div><div class="label">Offer</div></div>
+    <div class="stat-card rejected"><div class="num">0</div><div class="label">Rejected/Closed</div></div>
   </div>
-  <div class="chart-card">
-    <h3>By sector</h3>
-    <div class="empty-note">No applications tracked yet.</div>
+
+  <div class="charts-row">
+    <div class="chart-card">
+      <h3>Status Breakdown</h3>
+      <svg viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Status breakdown: no applications tracked yet" style="display:block;margin:0 auto;">
+        <circle cx="100" cy="100" r="80" fill="none" stroke="#e5e7eb" stroke-width="28"></circle>
+        <text x="100" y="105" text-anchor="middle" font-size="14" fill="#6b7280">No data</text>
+      </svg>
+      <div class="empty-chart-note">No applications tracked yet — run /outcome after applying to populate this chart.</div>
+    </div>
+    <div class="chart-card">
+      <h3>By Sector</h3>
+      <svg viewBox="0 0 320 120" width="100%" height="120" role="img" aria-label="By sector: no applications tracked yet">
+        <text x="160" y="60" text-anchor="middle" font-size="13" fill="#6b7280">No data</text>
+      </svg>
+      <div class="empty-chart-note">No applications tracked yet.</div>
+    </div>
   </div>
-</div>
 
-<div class="charts-row">
-  <div class="chart-card">
-    <h3>By channel</h3>
-    <div class="empty-note">No applications tracked yet.</div>
+  <div class="charts-row">
+    <div class="chart-card">
+      <h3>By Channel</h3>
+      <svg viewBox="0 0 320 120" width="100%" height="120" role="img" aria-label="By channel: no applications tracked yet">
+        <text x="160" y="60" text-anchor="middle" font-size="13" fill="#6b7280">No data</text>
+      </svg>
+      <div class="empty-chart-note">No applications tracked yet.</div>
+    </div>
+    <div class="chart-card">
+      <h3>Application Funnel</h3>
+      <svg viewBox="0 0 320 120" width="100%" height="120" role="img" aria-label="Application funnel: no applications tracked yet">
+        <text x="160" y="60" text-anchor="middle" font-size="13" fill="#6b7280">No data</text>
+      </svg>
+      <div class="empty-chart-note">No applications tracked yet.</div>
+    </div>
   </div>
-  <div class="chart-card">
-    <h3>Application funnel</h3>
-    <div class="empty-note">No applications tracked yet.</div>
+
+  <div class="table-card">
+    <div class="table-controls">
+      <input type="text" id="searchInput" placeholder="Search company, role, or sector…" disabled>
+      <select id="statusFilter" disabled><option value="">All statuses</option></select>
+      <select id="sectorFilter" disabled><option value="">All sectors</option></select>
+    </div>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Company</th><th>Role</th><th>Sector</th><th>Channel</th><th>Status</th><th>Notes</th><th>Source</th></tr>
+      </thead>
+      <tbody id="tableBody">
+        <tr><td colspan="8">
+          <div class="empty-state">
+            <div class="big">📋</div>
+            <div><strong>No applications tracked yet.</strong></div>
+            <div style="margin-top:6px;">Run <code>/apply</code> on a shortlisted job, then <code>/outcome</code> to log the result here. Today's pipeline shortlisted 14 postings — see the daily-search summary.</div>
+          </div>
+        </td></tr>
+      </tbody>
+    </table>
   </div>
-</div>
-
-<div class="table-card">
-  <div class="table-controls">
-    <input type="text" id="searchInput" placeholder="Search company / role / sector...">
-    <select id="statusFilter"><option value="">All statuses</option></select>
-    <select id="sectorFilter"><option value="">All sectors</option></select>
-  </div>
-  <table id="appTable">
-    <thead>
-      <tr>
-        <th>Date</th><th>Company</th><th>Role</th><th>Sector</th><th>Channel</th><th>Status</th><th>Notes</th><th>Source</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td colspan="8" style="text-align:center; color:#6b7280; padding:24px;">No applications tracked yet. Add rows to <code>job_search_tracker.csv</code> or use <code>/outcome</code> to record an application, then re-run <code>/html-report</code>.</td></tr>
-    </tbody>
-  </table>
-</div>
-
-<footer>Generated by Claude Code · ai-job-search · 2026-10-21</footer>
-
-<script>
-  // No rows to filter yet — table controls are inert placeholders until job_search_tracker.csv has data.
-  document.getElementById('searchInput').addEventListener('input', function(){});
-</script>
-
+</main>
+<footer>Generated by Claude Code · ai-job-search · 2026-10-24</footer>
 </body>
 </html>
