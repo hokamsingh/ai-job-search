@@ -4691,7 +4691,8 @@
         "Requires relocation to Indonesia with no remote option or sponsorship stated"
       ],
       "location_check": "FAIL",
-      "location_note": "Jakarta on-site implied, no remote stated, no visa sponsorship mentioned for a non-citizen"
+      "location_note": "Jakarta on-site implied, no remote stated, no visa sponsorship mentioned for a non-citizen",
+      "url": "https://id.linkedin.com/jobs/view/software-engineer-ii-growth-analytics-discovery-at-tiket-com-4478870465"
     },
     "https://kr.linkedin.com/jobs/view/%EC%BD%94%EC%96%B4%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%A0%EB%8B%9B-back-end-%EA%B0%9C%EB%B0%9C%EC%B1%84%EC%9A%A9-at-cj-olive-young-4426596895": {
       "title": "코어플랫폼유닛 Back-end 개발채용",
@@ -4714,7 +4715,8 @@
         "Military-service requirement effectively excludes non-Korean candidates"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Seoul; posting requires completed/exempt Korean military service, a de facto citizenship-linked restriction; no sponsorship stated"
+      "location_note": "Onsite Seoul; posting requires completed/exempt Korean military service, a de facto citizenship-linked restriction; no sponsorship stated",
+      "url": "https://kr.linkedin.com/jobs/view/%EC%BD%94%EC%96%B4%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%A0%EB%8B%9B-back-end-%EA%B0%9C%EB%B0%9C%EC%B1%84%EC%9A%A9-at-cj-olive-young-4426596895"
     },
     "https://mx.linkedin.com/jobs/view/backend-engineer-php-remote-work-ref%23295363-at-bairesdev-4479221261": {
       "title": "Backend Engineer (PHP) - Remote Work | REF#295363",
@@ -4738,7 +4740,8 @@
         "Generic staffing/outsourcing role, not in target sectors"
       ],
       "location_check": "PASS",
-      "location_note": "100% remote, from anywhere"
+      "location_note": "100% remote, from anywhere",
+      "url": "https://mx.linkedin.com/jobs/view/backend-engineer-php-remote-work-ref%23295363-at-bairesdev-4479221261"
     },
     "https://es.linkedin.com/jobs/view/senior-backend-engineer-ruby-on-rails-at-titan-os-4482894087": {
       "title": "Senior Backend Engineer (Ruby on Rails)",
@@ -4762,7 +4765,8 @@
         "Work location terms unclear - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Barcelona listed but remote/hybrid/onsite not explicitly stated; ambiguous"
+      "location_note": "Barcelona listed but remote/hybrid/onsite not explicitly stated; ambiguous",
+      "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-ruby-on-rails-at-titan-os-4482894087"
     },
     "https://kr.linkedin.com/jobs/view/%ED%8B%B0%EB%B9%99-backend-engineer-%EC%A7%91%EC%A4%91%EC%B1%84%EC%9A%A9-service-platform-at-tving-%ED%8B%B0%EB%B9%99-4481172454": {
       "title": "[티빙] Backend Engineer 집중채용 - (Service Platform)",
@@ -4785,7 +4789,8 @@
         "Onsite-only with citizenship-linked military service requirement"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Seoul office, military-service requirement for male applicants (de facto citizenship-linked), no sponsorship stated"
+      "location_note": "Onsite Seoul office, military-service requirement for male applicants (de facto citizenship-linked), no sponsorship stated",
+      "url": "https://kr.linkedin.com/jobs/view/%ED%8B%B0%EB%B9%99-backend-engineer-%EC%A7%91%EC%A4%91%EC%B1%84%EC%9A%A9-service-platform-at-tving-%ED%8B%B0%EB%B9%99-4481172454"
     },
     "https://au.linkedin.com/jobs/view/backend-engineer-payments-au-at-eatclub-4482047516": {
       "title": "Backend Engineer (Payments, AU)",
@@ -4798,7 +4803,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch returned HTTP 429 (rate-limited) on repeated attempts - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://au.linkedin.com/jobs/view/backend-engineer-payments-au-at-eatclub-4482047516"
     },
     "https://kr.linkedin.com/jobs/view/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-at-%EB%A7%88%EC%9D%B4%ED%81%B4-mycle-4471791778": {
       "title": "백엔드 엔지니어 - 서비스 개발",
@@ -4822,7 +4828,8 @@
         "Requires relocation to Korea with no remote option or sponsorship stated"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Seongnam, Korea; no remote stated; no visa sponsorship mentioned"
+      "location_note": "Onsite Seongnam, Korea; no remote stated; no visa sponsorship mentioned",
+      "url": "https://kr.linkedin.com/jobs/view/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-at-%EB%A7%88%EC%9D%B4%ED%81%B4-mycle-4471791778"
     },
     "https://www.linkedin.com/jobs/view/senior-software-applications-engineer-at-autodesk-4478460660": {
       "title": "Senior Software Applications Engineer",
@@ -4846,7 +4853,8 @@
         "US work authorization/visa sponsorship not stated - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Atlanta GA, hybrid implied with in-person onboarding/ID verification; US work-authorization/sponsorship not confirmed for a non-US candidate"
+      "location_note": "Atlanta GA, hybrid implied with in-person onboarding/ID verification; US work-authorization/sponsorship not confirmed for a non-US candidate",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-applications-engineer-at-autodesk-4478460660"
     },
     "https://www.linkedin.com/jobs/view/senior-backend-javascript-developer-sf-at-bright-data-4481620654": {
       "title": "Senior Backend JavaScript Developer - SF",
@@ -4870,7 +4878,8 @@
         "Web-data/proxy infra is adjacent, not a direct target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid, San Francisco on-site presence required; no remote option or visa sponsorship stated for a non-US candidate"
+      "location_note": "Hybrid, San Francisco on-site presence required; no remote option or visa sponsorship stated for a non-US candidate",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-javascript-developer-sf-at-bright-data-4481620654"
     },
     "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4478305740": {
       "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)",
@@ -4894,7 +4903,8 @@
         "Consumer shopping/rewards platform is not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid Paris or remote-from-France only; requires France residency, no visa sponsorship stated for relocation"
+      "location_note": "Hybrid Paris or remote-from-France only; requires France residency, no visa sponsorship stated for relocation",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4478305740"
     },
     "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-leena-ai-4477512040": {
       "title": "Software Development Engineer III",
@@ -4918,7 +4928,8 @@
         "Work mode (remote/hybrid/onsite) not stated - verify"
       ],
       "location_check": "PASS",
-      "location_note": "Gurugram, India - in-country, acceptable tier"
+      "location_note": "Gurugram, India - in-country, acceptable tier",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-iii-at-leena-ai-4477512040"
     },
     "https://ee.linkedin.com/jobs/view/senior-backend-engineer-at-bolt-4439854823": {
       "title": "Senior Backend Engineer",
@@ -4942,7 +4953,8 @@
         "Mobility/ride-hailing is not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid Tallinn, Estonia with 12 required in-office days/month; relocation implied, no sponsorship stated"
+      "location_note": "Hybrid Tallinn, Estonia with 12 required in-office days/month; relocation implied, no sponsorship stated",
+      "url": "https://ee.linkedin.com/jobs/view/senior-backend-engineer-at-bolt-4439854823"
     },
     "https://es.linkedin.com/jobs/view/senior-backend-engineer-at-capitole-4478699127": {
       "title": "Senior Backend Engineer",
@@ -4966,7 +4978,8 @@
         "Work arrangement unclear - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Barcelona-based, work mode not explicitly stated, ambiguous"
+      "location_note": "Barcelona-based, work mode not explicitly stated, ambiguous",
+      "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-at-capitole-4478699127"
     },
     "https://ec.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23304599-at-bairesdev-4474358043": {
       "title": "Node.js Software Engineer - Remote Work | REF#304599",
@@ -4990,7 +5003,8 @@
         "Mass-posted across multiple BairesDev listings (see note)"
       ],
       "location_check": "PASS",
-      "location_note": "100% remote, from anywhere"
+      "location_note": "100% remote, from anywhere",
+      "url": "https://ec.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23304599-at-bairesdev-4474358043"
     },
     "https://pt.linkedin.com/jobs/view/senior-backend-engineer-nodejs-at-air-apps-4478629499": {
       "title": "Senior Backend Engineer - NodeJS",
@@ -5015,7 +5029,8 @@
         "Same role posted identically in UK and Portugal listings (mass-posting)"
       ],
       "location_check": "PASS",
-      "location_note": "100% remote"
+      "location_note": "100% remote",
+      "url": "https://pt.linkedin.com/jobs/view/senior-backend-engineer-nodejs-at-air-apps-4478629499"
     },
     "https://br.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23305670-at-bairesdev-4479207984": {
       "title": "Node.js Software Engineer - Remote Work | REF#305670",
@@ -5039,7 +5054,8 @@
         "Mass-posted across multiple BairesDev listings (see note)"
       ],
       "location_check": "PASS",
-      "location_note": "100% remote, from anywhere"
+      "location_note": "100% remote, from anywhere",
+      "url": "https://br.linkedin.com/jobs/view/node-js-software-engineer-remote-work-ref%23305670-at-bairesdev-4479207984"
     },
     "https://fi.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-aws-at-cujo-ai%C2%AE-4478410852": {
       "title": "Senior Backend Engineer (Node.js/TypeScript, AWS)",
@@ -5064,7 +5080,8 @@
       ],
       "location_check": "PASS",
       "location_note": "Remote or hybrid stated explicitly",
-      "deadline": "2026-10-25"
+      "deadline": "2026-10-25",
+      "url": "https://fi.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-aws-at-cujo-ai%C2%AE-4478410852"
     },
     "https://uk.linkedin.com/jobs/view/senior-node-js-engineer-at-io-associates-4480387006": {
       "title": "Senior Node.js Engineer",
@@ -5087,7 +5104,8 @@
         "Location/remote status is internally inconsistent"
       ],
       "location_check": "FLAG",
-      "location_note": "Listing conflicts between Southwark UK (header) and \"UK/Remote\" (body); unnamed end client via recruiter"
+      "location_note": "Listing conflicts between Southwark UK (header) and \"UK/Remote\" (body); unnamed end client via recruiter",
+      "url": "https://uk.linkedin.com/jobs/view/senior-node-js-engineer-at-io-associates-4480387006"
     },
     "https://lt.linkedin.com/jobs/view/senior-software-engineer-node-typescript-at-architus-4479784776": {
       "title": "Senior Software Engineer (Node/TypeScript)",
@@ -5112,7 +5130,8 @@
         "Duplicate of near-identical Vilnius listing from same recruiter (mass-posting)"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid in Kaunas, Lithuania office; relocation implied, no sponsorship stated"
+      "location_note": "Hybrid in Kaunas, Lithuania office; relocation implied, no sponsorship stated",
+      "url": "https://lt.linkedin.com/jobs/view/senior-software-engineer-node-typescript-at-architus-4479784776"
     },
     "https://lt.linkedin.com/jobs/view/senior-software-engineer-node-typescript-at-architus-4479786760": {
       "title": "Senior Software Engineer (Node/TypeScript)",
@@ -5137,7 +5156,8 @@
         "Duplicate of near-identical Kaunas listing from same recruiter (mass-posting)"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid in Vilnius, Lithuania office; relocation implied, no sponsorship stated"
+      "location_note": "Hybrid in Vilnius, Lithuania office; relocation implied, no sponsorship stated",
+      "url": "https://lt.linkedin.com/jobs/view/senior-software-engineer-node-typescript-at-architus-4479786760"
     },
     "https://uk.linkedin.com/jobs/view/senior-backend-engineer-nodejs-at-air-apps-4478636305": {
       "title": "Senior Backend Engineer - NodeJS",
@@ -5162,7 +5182,8 @@
         "Same role posted identically in Portugal and UK listings (mass-posting)"
       ],
       "location_check": "PASS",
-      "location_note": "100% remote"
+      "location_note": "100% remote",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-nodejs-at-air-apps-4478636305"
     },
     "https://au.linkedin.com/jobs/view/software-engineer-financial-platform-issuing-at-cash-app-4451969307": {
       "title": "Software Engineer, Financial Platform - Issuing",
@@ -5186,7 +5207,8 @@
         "Tier-0 on-call financial systems - verify PTO/on-call culture before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Melbourne listed; remote eligibility unclear for most roles, ambiguous for this one"
+      "location_note": "Melbourne listed; remote eligibility unclear for most roles, ambiguous for this one",
+      "url": "https://au.linkedin.com/jobs/view/software-engineer-financial-platform-issuing-at-cash-app-4451969307"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-at-alpaca-4482820463": {
       "title": "Senior Software Engineer - Payments",
@@ -5211,7 +5233,8 @@
         "US work authorization not confirmed for a non-US candidate"
       ],
       "location_check": "FLAG",
-      "location_note": "New York listed, remote-friendly culture implied but not confirmed for this role; US work authorization/sponsorship not stated"
+      "location_note": "New York listed, remote-friendly culture implied but not confirmed for this role; US work authorization/sponsorship not stated",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-at-alpaca-4482820463"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-treasury-at-alpaca-4472027240": {
       "title": "Senior Software Engineer - Payments & Treasury",
@@ -5235,7 +5258,8 @@
         "Near-duplicate of this same company's other Payments listing (see mass-posting note)"
       ],
       "location_check": "FLAG",
-      "location_note": "New York listed, remote-friendly culture implied but not confirmed; US work authorization/sponsorship not stated"
+      "location_note": "New York listed, remote-friendly culture implied but not confirmed; US work authorization/sponsorship not stated",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-treasury-at-alpaca-4472027240"
     },
     "https://es.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-payments-ledger-systems-at-maxit-consulting-max-corporate-group-4478800417": {
       "title": "Senior Backend Engineer – Payments & Ledger Systems",
@@ -5259,7 +5283,8 @@
         "Hard requirement for existing Spain work authorization excludes the candidate"
       ],
       "location_check": "FAIL",
-      "location_note": "Requires current Spain residency and pre-existing Spanish work authorization - candidate is India-based without this"
+      "location_note": "Requires current Spain residency and pre-existing Spanish work authorization - candidate is India-based without this",
+      "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-%E2%80%93-payments-ledger-systems-at-maxit-consulting-max-corporate-group-4478800417"
     },
     "https://ke.linkedin.com/jobs/view/senior-backend-engineer-go-at-afrisend-money-transfer-limited-4482041951": {
       "title": "Senior Backend Engineer (Go)",
@@ -5282,7 +5307,8 @@
         "Work arrangement (remote/onsite) unclear - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Nairobi, Kenya listed; work arrangement not stated, ambiguous"
+      "location_note": "Nairobi, Kenya listed; work arrangement not stated, ambiguous",
+      "url": "https://ke.linkedin.com/jobs/view/senior-backend-engineer-go-at-afrisend-money-transfer-limited-4482041951"
     },
     "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294": {
       "title": "(Senior) Backend Engineer (Golang) - Bank",
@@ -5305,7 +5331,8 @@
         "Likely onsite in Vilnius - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Vilnius office referenced repeatedly, suggesting onsite, but not stated explicitly"
+      "location_note": "Vilnius office referenced repeatedly, suggesting onsite, but not stated explicitly",
+      "url": "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294"
     },
     "https://ca.linkedin.com/jobs/view/citidirect-java-dev-for-payments-modernization-%E2%80%93-assistant-vice-president-at-citi-4480488502": {
       "title": "CitiDirect Java Dev for Payments Modernization – Assistant Vice President",
@@ -5329,7 +5356,8 @@
         "Large bank bureaucracy; Canada work authorization unverified"
       ],
       "location_check": "FLAG",
-      "location_note": "Mississauga, Ontario, Canada; work arrangement not stated, Canada work authorization not addressed"
+      "location_note": "Mississauga, Ontario, Canada; work arrangement not stated, Canada work authorization not addressed",
+      "url": "https://ca.linkedin.com/jobs/view/citidirect-java-dev-for-payments-modernization-%E2%80%93-assistant-vice-president-at-citi-4480488502"
     },
     "https://au.linkedin.com/jobs/view/senior-backend-engineer-at-picklebet-4478706834": {
       "title": "Senior Backend Engineer",
@@ -5353,7 +5381,8 @@
         "Australia work-authorization/sponsorship for a remote hire not addressed"
       ],
       "location_check": "PASS",
-      "location_note": "Remote by default (Australia-based team), optional office"
+      "location_note": "Remote by default (Australia-based team), optional office",
+      "url": "https://au.linkedin.com/jobs/view/senior-backend-engineer-at-picklebet-4478706834"
     },
     "https://mt.linkedin.com/jobs/view/software-engineer-at-enteractive-4482101915": {
       "title": "Software Engineer",
@@ -5377,7 +5406,8 @@
         "Work arrangement and Malta work authorization unclear"
       ],
       "location_check": "FLAG",
-      "location_note": "Gzira, Malta listed; work arrangement not stated, Malta work authorization not addressed"
+      "location_note": "Gzira, Malta listed; work arrangement not stated, Malta work authorization not addressed",
+      "url": "https://mt.linkedin.com/jobs/view/software-engineer-at-enteractive-4482101915"
     },
     "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4477785523": {
       "title": "Backend Engineer",
@@ -5401,7 +5431,8 @@
         "UK work authorization/sponsorship not addressed"
       ],
       "location_check": "FLAG",
-      "location_note": "London office referenced; remote/hybrid policy not stated"
+      "location_note": "London office referenced; remote/hybrid policy not stated",
+      "url": "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4477785523"
     },
     "https://se.linkedin.com/jobs/view/senior-backend-engineer-payments-domain-at-leovegas-group-4446760924": {
       "title": "Senior Backend Engineer - Payments Domain",
@@ -5424,7 +5455,8 @@
         "Requires relocation to Sweden with no sponsorship stated"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid in Växjö, Sweden; relocation implied, no sponsorship stated"
+      "location_note": "Hybrid in Växjö, Sweden; relocation implied, no sponsorship stated",
+      "url": "https://se.linkedin.com/jobs/view/senior-backend-engineer-payments-domain-at-leovegas-group-4446760924"
     },
     "https://mt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324693013": {
       "title": "Senior Backend Engineer (Go)",
@@ -5449,7 +5481,8 @@
         "Same role mass-posted across Malta/Portugal/Brazil listings"
       ],
       "location_check": "FLAG",
-      "location_note": "Malta listed; remote/hybrid/onsite not stated"
+      "location_note": "Malta listed; remote/hybrid/onsite not stated",
+      "url": "https://mt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324693013"
     },
     "https://pt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324411000": {
       "title": "Senior Backend Engineer (Go)",
@@ -5473,7 +5506,8 @@
         "Same role mass-posted across Malta/Portugal/Brazil listings"
       ],
       "location_check": "FLAG",
-      "location_note": "Lisbon listed; remote/hybrid/onsite not stated"
+      "location_note": "Lisbon listed; remote/hybrid/onsite not stated",
+      "url": "https://pt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324411000"
     },
     "https://ca.linkedin.com/jobs/view/senior-software-engineer-icasino-at-penn-interactive-4451250673": {
       "title": "Senior Software Engineer, iCasino",
@@ -5497,7 +5531,8 @@
         "Duplicate of the US-listed PENN Interactive posting (mass-posting)"
       ],
       "location_check": "FLAG",
-      "location_note": "Canada listed; remote/hybrid/onsite not stated, Canada work authorization unaddressed"
+      "location_note": "Canada listed; remote/hybrid/onsite not stated, Canada work authorization unaddressed",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-icasino-at-penn-interactive-4451250673"
     },
     "https://mt.linkedin.com/jobs/view/senior-backend-software-engineer-at-kingmakers-4477064614": {
       "title": "Senior Backend Software Engineer",
@@ -5520,7 +5555,8 @@
         "MarTech-focused role is more marketing-ops than core platform engineering"
       ],
       "location_check": "FLAG",
-      "location_note": "Hybrid, Malta; Malta work authorization/sponsorship not addressed"
+      "location_note": "Hybrid, Malta; Malta work authorization/sponsorship not addressed",
+      "url": "https://mt.linkedin.com/jobs/view/senior-backend-software-engineer-at-kingmakers-4477064614"
     },
     "https://be.linkedin.com/jobs/view/backend-engineer-technology-department-liege-belgium-at-gaming1-4442636077": {
       "title": "BACKEND ENGINEER - TECHNOLOGY DEPARTMENT (LIEGE-BELGIUM)",
@@ -5543,7 +5579,8 @@
         "Requires relocation to Belgium, sponsorship not addressed"
       ],
       "location_check": "FLAG",
-      "location_note": "Hybrid Liege, Belgium (up to 50% remote); relocation implied, sponsorship not addressed"
+      "location_note": "Hybrid Liege, Belgium (up to 50% remote); relocation implied, sponsorship not addressed",
+      "url": "https://be.linkedin.com/jobs/view/backend-engineer-technology-department-liege-belgium-at-gaming1-4442636077"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-icasino-at-penn-interactive-4451250674": {
       "title": "Senior Software Engineer, iCasino",
@@ -5567,7 +5604,8 @@
         "Duplicate of the Canada-listed PENN Interactive posting (mass-posting)"
       ],
       "location_check": "FLAG",
-      "location_note": "US listed; remote/hybrid/onsite not stated, US work authorization unaddressed"
+      "location_note": "US listed; remote/hybrid/onsite not stated, US work authorization unaddressed",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-icasino-at-penn-interactive-4451250674"
     },
     "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026": {
       "title": "Senior Backend Engineer (Go)",
@@ -5591,7 +5629,8 @@
         "Same role mass-posted across Malta/Portugal/Brazil listings"
       ],
       "location_check": "FLAG",
-      "location_note": "Brazil listed; remote/hybrid/onsite not stated"
+      "location_note": "Brazil listed; remote/hybrid/onsite not stated",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448478475": {
       "title": "Senior Software Engineer, Stablecoins",
@@ -5616,7 +5655,8 @@
         "US work authorization/sponsorship not confirmed"
       ],
       "location_check": "FLAG",
-      "location_note": "Remote-first with quarterly in-person surges, Miami-anchored; US work authorization/sponsorship not confirmed for a non-US candidate"
+      "location_note": "Remote-first with quarterly in-person surges, Miami-anchored; US work authorization/sponsorship not confirmed for a non-US candidate",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448478475"
     },
     "https://hk.linkedin.com/jobs/view/blockchain-engineer-binance-wallet-at-binance-4480500580": {
       "title": "Blockchain Engineer - Binance Wallet",
@@ -5641,7 +5681,8 @@
         "On-call rotation - verify PTO/work-life boundaries"
       ],
       "location_check": "PASS",
-      "location_note": "Remote-first, work-from-home arrangement stated"
+      "location_note": "Remote-first, work-from-home arrangement stated",
+      "url": "https://hk.linkedin.com/jobs/view/blockchain-engineer-binance-wallet-at-binance-4480500580"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351186898": {
       "title": "Senior Software Engineer",
@@ -5666,7 +5707,8 @@
         "Requires leading 2-4 engineers - some management scope beyond stated IC preference"
       ],
       "location_check": "FLAG",
-      "location_note": "Austin TX listed, work arrangement not explicit, but day-one PERM sponsorship explicitly offered - positive signal for a non-US candidate"
+      "location_note": "Austin TX listed, work arrangement not explicit, but day-one PERM sponsorship explicitly offered - positive signal for a non-US candidate",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351186898"
     },
     "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-zerohash-4477097407": {
       "title": "Senior Blockchain Engineer",
@@ -5689,7 +5731,8 @@
         "US work authorization/sponsorship not addressed"
       ],
       "location_check": "FLAG",
-      "location_note": "NY/remote ambiguous, work arrangement not explicitly stated, US work authorization unaddressed"
+      "location_note": "NY/remote ambiguous, work arrangement not explicitly stated, US work authorization unaddressed",
+      "url": "https://www.linkedin.com/jobs/view/senior-blockchain-engineer-at-zerohash-4477097407"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351127032": {
       "title": "Senior Software Engineer",
@@ -5714,7 +5757,8 @@
         "Duplicate of this company's Austin-listed posting (mass-posting)"
       ],
       "location_check": "FLAG",
-      "location_note": "Salt Lake City listed, day-one PERM sponsorship explicitly offered - positive signal"
+      "location_note": "Salt Lake City listed, day-one PERM sponsorship explicitly offered - positive signal",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351127032"
     },
     "https://tw.linkedin.com/jobs/view/amis-blockchain-backend-engineer-at-maicoin-ltd-4477286995": {
       "title": "AMIS Blockchain/Backend Engineer",
@@ -5737,7 +5781,8 @@
         "Listed as entry/junior level - below candidate's seniority"
       ],
       "location_check": "FLAG",
-      "location_note": "Taipei, onsite with some remote flexibility on request; Taiwan work authorization not addressed"
+      "location_note": "Taipei, onsite with some remote flexibility on request; Taiwan work authorization not addressed",
+      "url": "https://tw.linkedin.com/jobs/view/amis-blockchain-backend-engineer-at-maicoin-ltd-4477286995"
     },
     "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448481080": {
       "title": "Senior Software Engineer, Stablecoins",
@@ -5761,7 +5806,8 @@
         "Duplicate of this company's Miami-listed posting (mass-posting)"
       ],
       "location_check": "FLAG",
-      "location_note": "Remote-first with quarterly in-person surges, San Francisco-anchored; US work authorization/sponsorship not confirmed"
+      "location_note": "Remote-first with quarterly in-person surges, San Francisco-anchored; US work authorization/sponsorship not confirmed",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-stablecoins-at-coinbase-4448481080"
     },
     "https://sg.linkedin.com/jobs/view/blockchain-engineer-binance-wallet-at-binance-4480507393": {
       "title": "Blockchain Engineer - Binance Wallet",
@@ -5785,7 +5831,8 @@
         "Duplicate of this company's Hong Kong-listed posting (mass-posting)"
       ],
       "location_check": "PASS",
-      "location_note": "Remote-first, work-from-home arrangement stated"
+      "location_note": "Remote-first, work-from-home arrangement stated",
+      "url": "https://sg.linkedin.com/jobs/view/blockchain-engineer-binance-wallet-at-binance-4480507393"
     },
     "https://br.linkedin.com/jobs/view/staff-software-engineer-golang-at-block-labs-4440243593": {
       "title": "Staff Software Engineer, Golang",
@@ -5809,7 +5856,8 @@
         "Work arrangement unclear - verify before applying"
       ],
       "location_check": "FLAG",
-      "location_note": "Location inconsistent (Brazil listed vs page artifact); remote/hybrid/onsite not stated"
+      "location_note": "Location inconsistent (Brazil listed vs page artifact); remote/hybrid/onsite not stated",
+      "url": "https://br.linkedin.com/jobs/view/staff-software-engineer-golang-at-block-labs-4440243593"
     },
     "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer": {
       "title": "Senior Backend Engineer",
@@ -5822,7 +5870,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (weworkremotely.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer"
     },
     "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4": {
       "title": "Senior Backend Developer (Node.js / Nest.js)",
@@ -5835,7 +5884,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (weworkremotely.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4"
     },
     "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success": {
       "title": "Director PM, Payments & Client Success",
@@ -5848,7 +5898,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (weworkremotely.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success"
     },
     "https://en-ae.whatjobs.com/pub_api__cpl__94269209__7102?geoID=1743&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Engineer: APIs, Microservices & AI-Ready Systems",
@@ -5861,7 +5912,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-ae.whatjobs.com/pub_api__cpl__94269209__7102?geoID=1743&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__154871886__7103?geoID=1679&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Engineer Co-Op (8 Months) – Typescript &",
@@ -5874,7 +5926,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__154871886__7103?geoID=1679&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://itviec.com/it-jobs/backend-engineer-python-middle-senior-gon-tech-5224?utm_source=freehire.me": {
       "title": "Backend Engineer (Python) - Middle/Senior",
@@ -5897,7 +5950,8 @@
         "Requires relocation to Vietnam with no remote option"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Ho Chi Minh City, Vietnam; relocation implied, no remote/sponsorship stated"
+      "location_note": "Onsite Ho Chi Minh City, Vietnam; relocation implied, no remote/sponsorship stated",
+      "url": "https://itviec.com/it-jobs/backend-engineer-python-middle-senior-gon-tech-5224?utm_source=freehire.me"
     },
     "https://job-boards.greenhouse.io/encora10/jobs/5271900007?utm_source=freehire.me": {
       "title": "Backend Engineer Semi Senior ",
@@ -5920,7 +5974,8 @@
         "Requires relocation to Peru with mandatory office presence"
       ],
       "location_check": "FAIL",
-      "location_note": "Hybrid Lima, Peru with mandatory office days; relocation implied, no sponsorship stated"
+      "location_note": "Hybrid Lima, Peru with mandatory office days; relocation implied, no sponsorship stated",
+      "url": "https://job-boards.greenhouse.io/encora10/jobs/5271900007?utm_source=freehire.me"
     },
     "https://portal.emagine.org/jobs/181503/backend-engineer-with-streaming-experience?utm_source=freehire.me": {
       "title": "Backend Engineer with Streaming Experience",
@@ -5933,7 +5988,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Page returned only a title with no job description, dates, or requirements - likely a stub or removed listing; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://portal.emagine.org/jobs/181503/backend-engineer-with-streaming-experience?utm_source=freehire.me"
     },
     "https://getmatch.ru/vacancies/31834-backend-engineer-experiments?utm_source=freehire.me": {
       "title": "Backend Engineer (Experiments)",
@@ -5956,7 +6012,8 @@
         "Core stack is Python/FastAPI, not Node.js/TypeScript"
       ],
       "location_check": "PASS",
-      "location_note": "Fully remote worldwide (outside Russia), flexible time zones"
+      "location_note": "Fully remote worldwide (outside Russia), flexible time zones",
+      "url": "https://getmatch.ru/vacancies/31834-backend-engineer-experiments?utm_source=freehire.me"
     },
     "https://www.cognyte.com/careers/2B.B6B/backend-engineer-senior-ip-c-developer/?utm_source=freehire.me": {
       "title": "Backend Engineer -Senior (IP C++ Developer)",
@@ -5969,7 +6026,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://www.cognyte.com/careers/2B.B6B/backend-engineer-senior-ip-c-developer/?utm_source=freehire.me"
     },
     "https://en-id.whatjobs.com/pub_api__cpl__17544049__7105?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Engineer (Mid or Senior)",
@@ -5982,7 +6040,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-id.whatjobs.com/pub_api__cpl__17544049__7105?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://hh.ru/vacancy/138558224?utm_source=freehire.me": {
       "title": "Backend Engineer Senior Python",
@@ -6002,7 +6061,8 @@
         "Eligibility gate failure: explicit Kazakhstan citizenship/residency requirement excludes the candidate"
       ],
       "location_check": "FAIL",
-      "location_note": "Posting explicitly states 'Only for citizens/residents of Kazakhstan' - hard eligibility-gate exclusion for an Indian citizen"
+      "location_note": "Posting explicitly states 'Only for citizens/residents of Kazakhstan' - hard eligibility-gate exclusion for an Indian citizen",
+      "url": "https://hh.ru/vacancy/138558224?utm_source=freehire.me"
     },
     "https://en-sg.whatjobs.com/pub_api__cpl__93490878__7119?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Engineer - Global Search Architecture & Scale",
@@ -6015,7 +6075,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-sg.whatjobs.com/pub_api__cpl__93490878__7119?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://careers.textmagic.com/o/backend-engineer?utm_source=freehire.me": {
       "title": "Backend engineer (PHP/Symfony) – mid/senior",
@@ -6038,7 +6099,8 @@
         "Requires Estonian or Russian language proficiency"
       ],
       "location_check": "FLAG",
-      "location_note": "Tallinn, Estonia - remote possible from Estonia or office; Estonian/Russian language requirement is a practical barrier"
+      "location_note": "Tallinn, Estonia - remote possible from Estonia or office; Estonian/Russian language requirement is a practical barrier",
+      "url": "https://careers.textmagic.com/o/backend-engineer?utm_source=freehire.me"
     },
     "https://br.whatjobs.com/pub_api__cpl__464852894__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend engineer sr – node.js & aws",
@@ -6051,7 +6113,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://br.whatjobs.com/pub_api__cpl__464852894__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://jobs.ashbyhq.com/nord-security/a8f7480a-ce42-4e20-8132-a29030963f6c?utm_source=freehire.me": {
       "title": "Backend Engineer | Mid - Senior | Business Onboarding & Setup Team",
@@ -6064,7 +6127,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Page returned only a title/team line with no job description, requirements, or location - could not verify as a live, scoreable posting",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://jobs.ashbyhq.com/nord-security/a8f7480a-ce42-4e20-8132-a29030963f6c?utm_source=freehire.me"
     },
     "https://konfio.bamboohr.com/careers/1281?utm_source=freehire.me": {
       "title": "Backend Engineer Sr.",
@@ -6077,7 +6141,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://konfio.bamboohr.com/careers/1281?utm_source=freehire.me"
     },
     "https://himalayas.app/companies/spark-eighteen/jobs/backend-engineer-node-js-senior?utm_source=freehire.me": {
       "title": "Backend Engineer - Node.js - Senior",
@@ -6102,7 +6167,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Posting requires applicants to be physically located in the United States; no remote-from-abroad option or sponsorship stated",
-      "deadline": "2026-12-10"
+      "deadline": "2026-12-10",
+      "url": "https://himalayas.app/companies/spark-eighteen/jobs/backend-engineer-node-js-senior?utm_source=freehire.me"
     },
     "https://uk.whatjobs.com/pub_api__cpl__566726976__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "backend engineer for maps",
@@ -6115,7 +6181,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__566726976__7082?geoID=33&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__154926066__7103?geoID=4800&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer Robotics Data",
@@ -6128,7 +6195,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__154926066__7103?geoID=4800&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474?utm_source=freehire.me": {
       "title": "Backend Software Engineer (m/f/d), Rust – AI-first E-commerce Tech",
@@ -6152,7 +6220,8 @@
         "Core stack is Rust (TypeScript only a plus), not Node.js/TypeScript - significant upskilling needed"
       ],
       "location_check": "PASS",
-      "location_note": "Fully remote, anywhere in the EU"
+      "location_note": "Fully remote, anywhere in the EU",
+      "url": "https://www.arbeitnow.com/jobs/companies/adstrong/backend-software-engineer-rust-ai-first-e-commerce-tech-berlin-334474?utm_source=freehire.me"
     },
     "https://echojobs.io/job/light-wonder-back-end-software-engineer-olk21?utm_source=freehire.me": {
       "title": "Backend Software Engineer",
@@ -6165,7 +6234,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch returned HTTP 429 (rate-limited) on repeated attempts - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://echojobs.io/job/light-wonder-back-end-software-engineer-olk21?utm_source=freehire.me"
     },
     "https://echojobs.io/job/target-com-sr-engineer-nd1kv?utm_source=freehire.me": {
       "title": "Senior Backend Engineer",
@@ -6178,7 +6248,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch returned HTTP 429 (rate-limited) on repeated attempts - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://echojobs.io/job/target-com-sr-engineer-nd1kv?utm_source=freehire.me"
     },
     "https://en-sg.whatjobs.com/pub_api__cpl__93825707__7119?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior Backend Engineer - Payment Platform",
@@ -6191,7 +6262,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-sg.whatjobs.com/pub_api__cpl__93825707__7119?geoID=1&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__154124476__7103?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Platform Engineer - Real-Time Auth & Integrations",
@@ -6204,7 +6276,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__154124476__7103?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://jobs.cargill.com/job/Sao-Paulo-Backend-Senior-Engineer-S%C3%A3o-4711-130/1369529957/?utm_source=freehire.me": {
       "title": "Backend Senior Engineer",
@@ -6217,7 +6290,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://jobs.cargill.com/job/Sao-Paulo-Backend-Senior-Engineer-S%C3%A3o-4711-130/1369529957/?utm_source=freehire.me"
     },
     "https://en-za.whatjobs.com/pub_api__cpl__60365658__7122?geoID=521&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Backend Data Engineer - Azure Data & Analytics ETL",
@@ -6230,7 +6304,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-za.whatjobs.com/pub_api__cpl__60365658__7122?geoID=521&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://sg.jobstreet.com/job/95325040?utm_source=freehire.me": {
       "title": "Senior Backend Engineer - Payment Platform",
@@ -6243,7 +6318,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (jobstreet.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://sg.jobstreet.com/job/95325040?utm_source=freehire.me"
     },
     "https://www.careers-page.com/humanit/job/RYR5W976?utm_source=freehire.me": {
       "title": "Senior Full-Stack Engineer (NestJS/React Native) - Full Remote Portugal",
@@ -6266,7 +6342,8 @@
         "Travel sector client project, not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Fully remote only for candidates based in Portugal - candidate is India-based, no relocation/sponsorship path stated"
+      "location_note": "Fully remote only for candidates based in Portugal - candidate is India-based, no relocation/sponsorship path stated",
+      "url": "https://www.careers-page.com/humanit/job/RYR5W976?utm_source=freehire.me"
     },
     "https://hh.ru/vacancy/138789927?utm_source=freehire.me": {
       "title": "Backend-разработчик (TypeScript / NestJS / Kafka)",
@@ -6289,7 +6366,8 @@
         "Work arrangement (fully remote vs. office-linked) needs verification"
       ],
       "location_check": "FLAG",
-      "location_note": "Listed as remote but also references a St. Petersburg office/metro stations - ambiguous, verify before applying"
+      "location_note": "Listed as remote but also references a St. Petersburg office/metro stations - ambiguous, verify before applying",
+      "url": "https://hh.ru/vacancy/138789927?utm_source=freehire.me"
     },
     "https://hh.ru/vacancy/138755984?utm_source=freehire.me": {
       "title": "Senior Fullstack Engineer (NestJS + Next.js, LLM)",
@@ -6313,7 +6391,8 @@
         "Recruiting-agency posting on behalf of an unnamed end client"
       ],
       "location_check": "PASS",
-      "location_note": "Fully remote, no citizenship/visa restriction stated"
+      "location_note": "Fully remote, no citizenship/visa restriction stated",
+      "url": "https://hh.ru/vacancy/138755984?utm_source=freehire.me"
     },
     "https://himalayas.app/companies/draftboard/jobs/backend-engineer-nestjs-go?utm_source=freehire.me": {
       "title": "Backend Engineer (NestJS / Go)",
@@ -6339,7 +6418,8 @@
       ],
       "location_check": "PASS",
       "location_note": "Fully remote, open worldwide, no citizenship/visa restriction stated",
-      "deadline": "2026-12-13"
+      "deadline": "2026-12-13",
+      "url": "https://himalayas.app/companies/draftboard/jobs/backend-engineer-nestjs-go?utm_source=freehire.me"
     },
     "https://himalayas.app/companies/hivex/jobs/backend-developer-nestjs-8881375120?utm_source=freehire.me": {
       "title": "Backend Developer (NestJS)",
@@ -6363,7 +6443,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Remote restricted to United States only; candidate is India-based with no sponsorship/relocation path",
-      "deadline": "2026-12-10"
+      "deadline": "2026-12-10",
+      "url": "https://himalayas.app/companies/hivex/jobs/backend-developer-nestjs-8881375120?utm_source=freehire.me"
     },
     "https://www.getonbrd.com/jobs/back-end-engineer-nestjs-aws-witi-remote?utm_source=freehire.me": {
       "title": "Back-end Engineer – Node.js / NestJS",
@@ -6386,7 +6467,8 @@
         "E-commerce consultancy work, not a target sector"
       ],
       "location_check": "PASS",
-      "location_note": "Fully remote, open worldwide, no citizenship/visa restriction stated"
+      "location_note": "Fully remote, open worldwide, no citizenship/visa restriction stated",
+      "url": "https://www.getonbrd.com/jobs/back-end-engineer-nestjs-aws-witi-remote?utm_source=freehire.me"
     },
     "https://torre.ai/post/NwBnDY4w-ruzora-senior-nodejs-backend-engineer-nestjs?utm_source=freehire.me": {
       "title": "Senior Node.js Backend Engineer (NestJS)",
@@ -6410,7 +6492,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Remote restricted to residents of Peru, Colombia, Mexico, Argentina, Brazil, Chile, Uruguay, Costa Rica - candidate is India-based, excluded",
-      "injection_note": "Posting page contained embedded text attempting to instruct the triage process directly; it was ignored as untrusted data per the hard rules."
+      "injection_note": "Posting page contained embedded text attempting to instruct the triage process directly; it was ignored as untrusted data per the hard rules.",
+      "url": "https://torre.ai/post/NwBnDY4w-ruzora-senior-nodejs-backend-engineer-nestjs?utm_source=freehire.me"
     },
     "https://t.me/it_vakansii_jobs/3233?utm_source=freehire.me": {
       "title": "Junior+ Fullstack AI-Developer (TypeScript / React / NestJS)",
@@ -6423,7 +6506,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live, readable posting (EXPIRED_OR_UNAVAILABLE) - Telegram channel post not accessible to automated fetch",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://t.me/it_vakansii_jobs/3233?utm_source=freehire.me"
     },
     "https://t.me/juniors_rabota_jobs/3356?utm_source=freehire.me": {
       "title": "Fullstack AI-Developer (TypeScript / React / NestJS)",
@@ -6436,7 +6520,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live, readable posting (EXPIRED_OR_UNAVAILABLE) - Telegram channel post not accessible to automated fetch",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://t.me/juniors_rabota_jobs/3356?utm_source=freehire.me"
     },
     "https://nofluffjobs.com/job/fullstack-developer-node-js-nestjs-angular-react-aws-dcg-remote?utm_source=freehire.me": {
       "title": "Fullstack Developer (Node.js, NestJS, Angular/React, AWS )",
@@ -6449,7 +6534,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch tool reports it cannot fetch from nofluffjobs.com (unsupported domain) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://nofluffjobs.com/job/fullstack-developer-node-js-nestjs-angular-react-aws-dcg-remote?utm_source=freehire.me"
     },
     "https://jobs.wearestaffy.com/positions/senior-backend-engineer-node-js-nestjs-aws-2062?utm_source=freehire.me": {
       "title": "Senior Backend Engineer – Node.js, NestJS & AWS",
@@ -6472,7 +6558,8 @@
         "Employer identity on the posting itself is unclear/unconfirmed"
       ],
       "location_check": "FAIL",
-      "location_note": "Remote restricted to LATAM; some benefits Chile-specific - candidate is India-based, excluded"
+      "location_note": "Remote restricted to LATAM; some benefits Chile-specific - candidate is India-based, excluded",
+      "url": "https://jobs.wearestaffy.com/positions/senior-backend-engineer-node-js-nestjs-aws-2062?utm_source=freehire.me"
     },
     "https://itviec.com/it-jobs/remote-fullstack-developer-typescript-node-js-nestjs-orgscale-recruitment-4352?utm_source=freehire.me": {
       "title": "Remote-Fullstack Developer(TypeScript, Node.js, NestJS)",
@@ -6495,7 +6582,8 @@
         "On-call duty once a 24/7 SLA is introduced - verify PTO/boundaries"
       ],
       "location_check": "FLAG",
-      "location_note": "Remote but listed locations are Vietnam cities (Ho Chi Minh, Da Nang, Ha Noi); candidate work authorization/eligibility for this remote arrangement not addressed"
+      "location_note": "Remote but listed locations are Vietnam cities (Ho Chi Minh, Da Nang, Ha Noi); candidate work authorization/eligibility for this remote arrangement not addressed",
+      "url": "https://itviec.com/it-jobs/remote-fullstack-developer-typescript-node-js-nestjs-orgscale-recruitment-4352?utm_source=freehire.me"
     },
     "https://career.habr.com/vacancies/1000168930?utm_source=freehire.me": {
       "title": "FullStack Developer - CRM (FinTech)",
@@ -6518,7 +6606,8 @@
         "Effectively onsite/relocation-based in Armenia"
       ],
       "location_check": "FAIL",
-      "location_note": "Office in Yerevan, Armenia with relocation assistance offered; remote only for 'strong candidates' - effectively onsite-leaning, no clear sponsorship path for a remote India-based hire"
+      "location_note": "Office in Yerevan, Armenia with relocation assistance offered; remote only for 'strong candidates' - effectively onsite-leaning, no clear sponsorship path for a remote India-based hire",
+      "url": "https://career.habr.com/vacancies/1000168930?utm_source=freehire.me"
     },
     "https://mazzatech.inhire.app/vagas/c0d4ea2b-4502-4abb-9cea-e759e678c21f/3670-engenheiro-a-de-software-senior-backend?utm_source=freehire.me": {
       "title": "3670: Engenheiro(a) de Software Sênior Backend",
@@ -6531,7 +6620,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://mazzatech.inhire.app/vagas/c0d4ea2b-4502-4abb-9cea-e759e678c21f/3670-engenheiro-a-de-software-senior-backend?utm_source=freehire.me"
     },
     "https://marrinadecisions.bamboohr.com/careers/754?utm_source=freehire.me": {
       "title": "REMOTE (INDIA): Backend Engineer- SaaS platform",
@@ -6544,7 +6634,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://marrinadecisions.bamboohr.com/careers/754?utm_source=freehire.me"
     },
     "https://jobs.smartrecruiters.com/KMSTechnology1/744000156667379-senior-fullstack-software-engineer?utm_source=freehire.me": {
       "title": "Senior Fullstack Software Engineer",
@@ -6557,7 +6648,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://jobs.smartrecruiters.com/KMSTechnology1/744000156667379-senior-fullstack-software-engineer?utm_source=freehire.me"
     },
     "https://imagemaker.pinpointhq.com/en/postings/9197da2f-b40e-4b33-b5df-3a5184c16067?utm_source=freehire.me": {
       "title": "Desarrollador Full Stack Java / React - Remoto",
@@ -6580,7 +6672,8 @@
         "Posting has almost no detail (empty responsibilities/skills sections) - verify before investing time"
       ],
       "location_check": "PASS",
-      "location_note": "Fully remote (Chile-based company, no explicit residency restriction stated)"
+      "location_note": "Fully remote (Chile-based company, no explicit residency restriction stated)",
+      "url": "https://imagemaker.pinpointhq.com/en/postings/9197da2f-b40e-4b33-b5df-3a5184c16067?utm_source=freehire.me"
     },
     "https://solid.jobs/o/mu996yqm/freehire?utm_source=freehire.me": {
       "title": "Manualny Tester / Testerka Aplikacji Internetowych",
@@ -6603,7 +6696,8 @@
         "Requires advanced Polish language proficiency"
       ],
       "location_check": "FLAG",
-      "location_note": "Poznan, Poland; flexible (office/hybrid/remote) but B2B contract and advanced Polish required"
+      "location_note": "Poznan, Poland; flexible (office/hybrid/remote) but B2B contract and advanced Polish required",
+      "url": "https://solid.jobs/o/mu996yqm/freehire?utm_source=freehire.me"
     },
     "https://br.whatjobs.com/pub_api__cpl__465410301__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "B2B | Senior Full-Stack Developer | React Native & Node.js",
@@ -6616,7 +6710,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://br.whatjobs.com/pub_api__cpl__465410301__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://himalayas.app/companies/foundation-finance-company-careers/jobs/senior-full-stack-developer?utm_source=freehire.me": {
       "title": "Senior Full Stack Developer",
@@ -6640,7 +6735,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Remote restricted to specific US states only - candidate is India-based, excluded",
-      "deadline": "2026-12-22"
+      "deadline": "2026-12-22",
+      "url": "https://himalayas.app/companies/foundation-finance-company-careers/jobs/senior-full-stack-developer?utm_source=freehire.me"
     },
     "https://en-ca.whatjobs.com/pub_api__cpl__154687528__7103?geoID=6225&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
       "title": "Senior AI Full Stack Engineer",
@@ -6653,7 +6749,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch blocked with HTTP 403 (whatjobs.com blocks automated fetching) - could not retrieve posting content; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__154687528__7103?geoID=6225&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me"
     },
     "https://jobs.quickin.io/insightit/jobs/6ada4a95845ace001364ca99?utm_source=freehire.me": {
       "title": "Desenvolvedor(a) Full Stack Node.js e React Pleno/Sênior",
@@ -6676,7 +6773,8 @@
         "Not a target sector"
       ],
       "location_check": "PASS",
-      "location_note": "Remote, Sao Paulo Brazil listed as base but no explicit residency restriction stated"
+      "location_note": "Remote, Sao Paulo Brazil listed as base but no explicit residency restriction stated",
+      "url": "https://jobs.quickin.io/insightit/jobs/6ada4a95845ace001364ca99?utm_source=freehire.me"
     },
     "https://t.me/jtbl_vacancy/4804?utm_source=freehire.me": {
       "title": "Senior Python AI Engineer",
@@ -6689,7 +6787,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live, readable posting (EXPIRED_OR_UNAVAILABLE) - Telegram channel post not accessible to automated fetch",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://t.me/jtbl_vacancy/4804?utm_source=freehire.me"
     },
     "https://himalayas.app/companies/human-power-bg/jobs/mid-node-js-developer?utm_source=freehire.me": {
       "title": "MID Node.js Developer",
@@ -6713,7 +6812,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Remote restricted to United States only per posting, despite being a Bulgarian agency - ambiguous but stated restriction excludes a non-US candidate",
-      "deadline": "2026-11-20"
+      "deadline": "2026-11-20",
+      "url": "https://himalayas.app/companies/human-power-bg/jobs/mid-node-js-developer?utm_source=freehire.me"
     },
     "https://jobs.ashbyhq.com/clera/c0ef8b8d-8505-4131-ab57-9404cbebf962?utm_source=freehire.me": {
       "title": "Senior Fullstack Engineer",
@@ -6726,7 +6826,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "WebFetch reports page is not a live posting (EXPIRED_OR_UNAVAILABLE)",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://jobs.ashbyhq.com/clera/c0ef8b8d-8505-4131-ab57-9404cbebf962?utm_source=freehire.me"
     },
     "https://www.jobindex.dk/jobannonce/h1709680": {
       "title": "Full-stack Developer – Build a Platform from the Ground Up",
@@ -6750,7 +6851,8 @@
         "HR-tech marketplace, not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Kolding, Denmark; regular remote work explicitly not part of the role, no sponsorship stated"
+      "location_note": "Onsite Kolding, Denmark; regular remote work explicitly not part of the role, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/h1709680"
     },
     "https://www.jobindex.dk/jobannonce/h1709991": {
       "title": "Frontend Software Developer",
@@ -6773,7 +6875,8 @@
         "Requires security clearance, a de facto citizenship-linked restriction"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Aalborg, Denmark; security-clearance requirement for all employees (national security sector) effectively requires Danish/NATO-ally eligibility"
+      "location_note": "Onsite Aalborg, Denmark; security-clearance requirement for all employees (national security sector) effectively requires Danish/NATO-ally eligibility",
+      "url": "https://www.jobindex.dk/jobannonce/h1709991"
     },
     "https://www.jobindex.dk/jobannonce/h1708127": {
       "title": "Softwareudvikler med stærke SQL- og .NET-kompetencer",
@@ -6796,7 +6899,8 @@
         "IoT/building-tech maintenance work, not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Herlufmagle, Denmark with one home-office day/week; relocation implied, no sponsorship stated"
+      "location_note": "Onsite Herlufmagle, Denmark with one home-office day/week; relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/h1708127"
     },
     "https://www.jobindex.dk/jobannonce/h1710154": {
       "title": "Vil du være én af vores nye fullstack udviklere bag fundamentet til Danmarks digitale cyberforsvar?",
@@ -6833,7 +6937,8 @@
       ],
       "location_check": "FLAG",
       "location_note": "Gdansk, Poland office listed; work arrangement not explicitly stated",
-      "deadline": "2026-11-19"
+      "deadline": "2026-11-19",
+      "url": "https://www.jobindex.dk/jobannonce/r14052181"
     },
     "https://www.jobindex.dk/jobannonce/r14057136": {
       "title": "Fullstack Developer (PHP / Laravel Expert)",
@@ -6868,7 +6973,8 @@
         "Security-clearance requirement is a de facto citizenship/residency barrier"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Copenhagen; requires security clearance eligibility and Danish-language skills, effectively excluding a non-resident non-citizen"
+      "location_note": "Onsite Copenhagen; requires security clearance eligibility and Danish-language skills, effectively excluding a non-resident non-citizen",
+      "url": "https://www.jobindex.dk/jobannonce/r14056835"
     },
     "https://www.jobindex.dk/jobannonce/r14056896": {
       "title": "Integrationsudvikler",
@@ -6892,7 +6998,8 @@
         "Core integration work is Shopify-app-specific, narrower than general backend"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Vejle, Denmark with some WFH days; relocation implied, no sponsorship stated"
+      "location_note": "Onsite Vejle, Denmark with some WFH days; relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/r14056896"
     },
     "https://www.jobindex.dk/jobannonce/r14056895": {
       "title": "Backend- og infrastrukturudvikler til fintech-virksomhed",
@@ -6915,7 +7022,8 @@
         "Requires relocation to Denmark, no full-remote option"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Vejle, Denmark with some remote days; relocation implied, no sponsorship stated"
+      "location_note": "Onsite Vejle, Denmark with some remote days; relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/r14056895"
     },
     "https://www.jobindex.dk/jobannonce/r14050351": {
       "title": "Backend Intern: Improve the AI Engine That Catches Pay Errors",
@@ -6936,7 +7044,8 @@
         "Unpaid internship role - not paid employment, well below candidate's seniority"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Copenhagen office (perks mention remote allowed but arrangement unclear); unpaid internship"
+      "location_note": "Onsite Copenhagen office (perks mention remote allowed but arrangement unclear); unpaid internship",
+      "url": "https://www.jobindex.dk/jobannonce/r14050351"
     },
     "https://www.jobindex.dk/jobannonce/r14056723": {
       "title": "Java Engineer",
@@ -6959,7 +7068,8 @@
         "Requires relocation to Denmark with unclear remote policy"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Copenhagen; remote work \"not disclosed\", relocation implied, no sponsorship stated"
+      "location_note": "Onsite Copenhagen; remote work \"not disclosed\", relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/r14056723"
     },
     "https://www.jobindex.dk/jobannonce/h1708003": {
       "title": "Softwareudvikler med passion for AI og digitalisering",
@@ -6982,7 +7092,8 @@
         "Construction-sector generalist role, not a target sector"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite Stovring, Denmark; relocation implied, no remote/sponsorship stated"
+      "location_note": "Onsite Stovring, Denmark; relocation implied, no remote/sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/h1708003"
     },
     "https://www.jobindex.dk/jobannonce/h1706975": {
       "title": "Softwareudviklere – vær med til at bygge fremtidens digitale løsninger",
@@ -6995,7 +7106,8 @@
       "status": "skipped",
       "first_seen": "2026-10-24",
       "skip_reason": "Same posting as Patent- og Varemaerkestyrelsen's 'Softwareudviklere' listing (same role, same Nov 4 2026 deadline, same requirements) - the hiring agency sits under this ministry. Consolidated into https://www.jobindex.dk/jobannonce/r14046049 to avoid double-counting.",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://www.jobindex.dk/jobannonce/h1706975"
     },
     "https://www.jobindex.dk/jobannonce/h1708558": {
       "title": "R&D Hardware Ingeniør",
@@ -7015,7 +7127,8 @@
         "Role is electronics/embedded-hardware engineering, not software backend - fundamental role mismatch"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite, remote explicitly not offered; relocation implied, no sponsorship stated"
+      "location_note": "Onsite, remote explicitly not offered; relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/h1708558"
     },
     "https://www.jobindex.dk/jobannonce/h1709358": {
       "title": "Full Stack Udvikler til Koncern IT i Udlændingestyrelsen",
@@ -7039,7 +7152,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Copenhagen; requires HEMMELIGT-level security clearance (de facto citizenship/residency-linked), no remote option",
-      "deadline": "2026-11-04"
+      "deadline": "2026-11-04",
+      "url": "https://www.jobindex.dk/jobannonce/h1709358"
     },
     "https://www.jobindex.dk/jobannonce/h1710163": {
       "title": "DevOps & Automation Engineer",
@@ -7061,7 +7175,8 @@
         "Role is DevOps/embedded-firmware focused (Windows/.NET, Embedded C/C++), not Node.js/TypeScript backend"
       ],
       "location_check": "FAIL",
-      "location_note": "Onsite, remote/hybrid not stated, defence-sector compliance context; relocation implied, no sponsorship stated"
+      "location_note": "Onsite, remote/hybrid not stated, defence-sector compliance context; relocation implied, no sponsorship stated",
+      "url": "https://www.jobindex.dk/jobannonce/h1710163"
     },
     "https://www.jobindex.dk/jobannonce/r14046049": {
       "title": "Softwareudviklere – vær med til at bygge fremtidens digitale løsninger",
@@ -7086,7 +7201,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Copenhagen/Taastrup; requires security clearance and criminal-record check (de facto citizenship/residency-linked), limited hybrid at manager's discretion",
-      "deadline": "2026-11-04"
+      "deadline": "2026-11-04",
+      "url": "https://www.jobindex.dk/jobannonce/r14046049"
     },
     "https://www.jobindex.dk/jobannonce/r14056980": {
       "title": "Full-Stack .NET Software Developer",
@@ -7108,7 +7224,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Aarhus several times/week; relocation implied, no sponsorship stated; Danish language required",
-      "deadline": "2026-12-08"
+      "deadline": "2026-12-08",
+      "url": "https://www.jobindex.dk/jobannonce/r14056980"
     },
     "https://jobdanmark.dk/job/vil-du-vaere-en-af-vores-nye-fullstack-udviklere-bag-fundamentet-til-danmarks-digitale-cyberforsvar": {
       "title": "Vil du være én af vores nye fullstack udviklere bag fundamentet til Danmarks digitale cyberforsvar?",
@@ -7144,7 +7261,8 @@
       ],
       "location_check": "FLAG",
       "location_note": "Onsite Tonder, Denmark; hybrid/remote not explicitly ruled out but not confirmed",
-      "deadline": "2026-11-08"
+      "deadline": "2026-11-08",
+      "url": "https://jobdanmark.dk/job/vi-soeger-en-erfaren-webudvikler-full-stack-developer"
     },
     "https://jobdanmark.dk/job/bliv-vores-keycloak-specialist-og-saet-retningen-for-en-central-sikkerhedskomponent": {
       "title": "Bliv vores Keycloak-specialist – og sæt retningen for en central sikkerhedskomponent",
@@ -7168,7 +7286,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Frederiksberg, no remote/hybrid mentioned; relocation implied, no sponsorship stated; criminal-record check required for a tax-authority role",
-      "deadline": "2026-11-09"
+      "deadline": "2026-11-09",
+      "url": "https://jobdanmark.dk/job/bliv-vores-keycloak-specialist-og-saet-retningen-for-en-central-sikkerhedskomponent"
     },
     "https://jobdanmark.dk/job/full-stack-udvikler-til-koncern-it-i-udlaendingestyrelsen": {
       "title": "Full Stack Udvikler til Koncern IT i Udlændingestyrelsen",
@@ -7181,7 +7300,8 @@
       "status": "skipped",
       "first_seen": "2026-10-24",
       "skip_reason": "Same posting as the jobindex-sourced 'Full Stack Udvikler til Koncern IT i Udlaendingestyrelsen' listing (identical title, same hiring organization, same Nov 4 2026 deadline). Consolidated into https://www.jobindex.dk/jobannonce/h1709358 to avoid double-counting.",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://jobdanmark.dk/job/full-stack-udvikler-til-koncern-it-i-udlaendingestyrelsen"
     },
     "https://jobdanmark.dk/job/it-udvikler-soeges-til-dynamisk-udviklingsteam-i-rigsarkivet-tidsbegraenset": {
       "title": "IT-udvikler søges til dynamisk udviklingsteam i Rigsarkivet - tidsbegrænset",
@@ -7205,7 +7325,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Copenhagen; security screening required (de facto citizenship/residency-linked), fixed-term through Jan 2030; fluent Danish required",
-      "deadline": "2026-11-08"
+      "deadline": "2026-11-08",
+      "url": "https://jobdanmark.dk/job/it-udvikler-soeges-til-dynamisk-udviklingsteam-i-rigsarkivet-tidsbegraenset"
     },
     "https://jobdanmark.dk/job/rd-hardware-ingenioer-soeges": {
       "title": "R&D Hardware Ingeniør Søges",
@@ -7227,7 +7348,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite, no remote stated; relocation implied, no sponsorship stated",
-      "deadline": "2026-12-14"
+      "deadline": "2026-12-14",
+      "url": "https://jobdanmark.dk/job/rd-hardware-ingenioer-soeges"
     },
     "https://jobdanmark.dk/job/vil-du-vaere-underviser-og-vaere-med-til-at-uddanne-fremtidens-digitale-specialister": {
       "title": "Vil du være underviser og være med til at uddanne fremtidens digitale specialister?",
@@ -7250,7 +7372,8 @@
       ],
       "location_check": "FAIL",
       "location_note": "Onsite Roskilde, Denmark; relocation implied, no sponsorship stated",
-      "deadline": "2026-11-08"
+      "deadline": "2026-11-08",
+      "url": "https://jobdanmark.dk/job/vil-du-vaere-underviser-og-vaere-med-til-at-uddanne-fremtidens-digitale-specialister"
     },
     "https://jobdanmark.dk/job/softwareudviklere-vaer-med-til-at-bygge-fremtidens-digitale-loesninger": {
       "title": "Softwareudviklere – vær med til at bygge fremtidens digitale løsninger",
@@ -7275,7 +7398,8 @@
       "status": "skipped",
       "first_seen": "2026-10-24",
       "skip_reason": "Jobnet.dk's job-detail pages require authenticated login and cannot be fetched by automated tool. Same posting also captured via jobindex-search/jobdanmark-search (Forsvarets Efterretningstjeneste cyberdefence role), scored under the jobindex entry.",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/6c94bd50-5a45-4201-a947-160da678b04e"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/55e3e70b-d14d-496c-aff3-15262865e3d1": {
       "title": "Erfaren softwareudvikler til digitalisering og grøn omstilling",
@@ -7288,7 +7412,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/55e3e70b-d14d-496c-aff3-15262865e3d1"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/ddbb08ce-e1fc-4d2c-83f8-5bc08539f34c": {
       "title": ".NET Software Engineer (Backend)",
@@ -7301,7 +7426,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/ddbb08ce-e1fc-4d2c-83f8-5bc08539f34c"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/5f569dae-43a0-4516-9e38-84fe55e9452f": {
       "title": "Experienced Data Platform Engineer - Data Foundation - Aarhus or Gdansk",
@@ -7314,7 +7440,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/5f569dae-43a0-4516-9e38-84fe55e9452f"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/8f6776af-4a6c-4f07-9614-8ad5158bb70c": {
       "title": "Senior Software Engineer, Online",
@@ -7327,7 +7454,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/8f6776af-4a6c-4f07-9614-8ad5158bb70c"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/527d819d-ee22-4221-9bb9-1e8c67f2735d": {
       "title": "SAP Buisness Intelligence teknisk udvikler til Cyberdivisionen i Ballerup",
@@ -7340,7 +7468,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/527d819d-ee22-4221-9bb9-1e8c67f2735d"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/7c42da0e-a278-473f-a0bc-fa98f141b5b9": {
       "title": "AI Product Engineer",
@@ -7354,7 +7483,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/7c42da0e-a278-473f-a0bc-fa98f141b5b9"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/ee04c012-3856-4f6d-9c08-4ef252e6fcda": {
       "title": "AI Product Engineer",
@@ -7368,7 +7498,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/ee04c012-3856-4f6d-9c08-4ef252e6fcda"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/3df0b05b-21c7-44a7-8e61-fce09dec730a": {
       "title": "Career Opportunities: Junior Software Engineer (JAVA), Research & Development, Lystrup or Søborg",
@@ -7381,7 +7512,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/3df0b05b-21c7-44a7-8e61-fce09dec730a"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/5e431097-a7f9-4fa4-ab3c-c0e15c10a912": {
       "title": "Senior Software Engineer",
@@ -7394,7 +7526,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/5e431097-a7f9-4fa4-ab3c-c0e15c10a912"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/9853233b-2aae-486e-90cb-f6c9fb54d30a": {
       "title": "PhD scholarship in Atomistic Stabilization in Solid Oxide Electrolysis Cells - DTU Physics",
@@ -7407,7 +7540,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/9853233b-2aae-486e-90cb-f6c9fb54d30a"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/1d410d37-1764-41a1-b2dc-85f7d73ed656": {
       "title": "PhD in Safe Multi-Robot Planning and Control under Connectivity Constraints",
@@ -7420,7 +7554,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/1d410d37-1764-41a1-b2dc-85f7d73ed656"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/48d16b5c-ea28-4237-b39c-e144d8042b4e": {
       "title": "Fullstack Developer (PHP / Laravel Expert)",
@@ -7433,7 +7568,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/48d16b5c-ea28-4237-b39c-e144d8042b4e"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/ae4c1aee-4fb8-4820-a29e-a22b540ff18c": {
       "title": "Senior AI Engineer",
@@ -7446,7 +7582,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/ae4c1aee-4fb8-4820-a29e-a22b540ff18c"
     },
     "https://job.jobnet.dk/CV/FindWork/Details/45e4c533-aeea-41af-a5c3-fac09bce6b07": {
       "title": "Senior Full Stack Cloud Engineer",
@@ -7459,7 +7596,8 @@
       "status": "expired",
       "first_seen": "2026-10-24",
       "expired_reason": "Jobnet.dk's job-detail pages require an authenticated login (OAuth redirect) - could not retrieve posting content via automated fetch; verify manually",
-      "rank_date": "2026-10-24"
+      "rank_date": "2026-10-24",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/45e4c533-aeea-41af-a5c3-fac09bce6b07"
     }
   }
 }
