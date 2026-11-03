@@ -5912,6 +5912,469 @@
       "status": "skipped",
       "portal": "jobnet-search",
       "skip_reason": "Quick-fit low: stack/role doesn't match Node.js/NestJS/TypeScript/Express backend profile - not sent to full ranking."
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4483561417": {
+      "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)",
+      "company": "Atolls",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4483561417",
+      "location": "Paris, France",
+      "first_seen": "2026-11-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/technical-lead-at-nestl%c3%a9-nespresso-sa-4486861527": {
+      "title": "Technical Lead",
+      "company": "Nestlé Nespresso SA",
+      "url": "https://es.linkedin.com/jobs/view/technical-lead-at-nestl%C3%A9-nespresso-sa-4486861527",
+      "location": "Esplugues de Llobregat, Spain",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/mid-level-backend-developer-node-js-at-getnet-4482510820": {
+      "title": "Mid Level Backend Developer | Node.js",
+      "company": "Getnet",
+      "url": "https://br.linkedin.com/jobs/view/mid-level-backend-developer-node-js-at-getnet-4482510820",
+      "location": "São Paulo, Brazil",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://fr.linkedin.com/jobs/view/d%c3%a9veloppeur-nest-js-lille-france-h-f-at-astek-4416812792": {
+      "title": "Développeur Nest.js - Lille, France (H/F)",
+      "company": "Astek",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-nest-js-lille-france-h-f-at-astek-4416812792",
+      "location": "Lille, France",
+      "first_seen": "2026-11-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-platform-backend-at-sentilink-4459898569": {
+      "title": "Senior Software Engineer, Platform/Backend",
+      "company": "SentiLink",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-platform-backend-at-sentilink-4459898569",
+      "location": "Chicago, IL (also Seattle, WA)",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "posted in 2 cities (Chicago, Seattle)"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-robinhood-4414034567": {
+      "title": "Senior Software Engineer, Backend",
+      "company": "Robinhood",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-robinhood-4414034567",
+      "location": "Menlo Park, CA",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-plaid-4410272050": {
+      "title": "Senior Software Engineer, Backend",
+      "company": "Plaid",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-backend-at-plaid-4410272050",
+      "location": "New York City Metro Area",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/senior-backend-engineer-at-dealls-%e2%80%93-jobs-cv-mentoring-4482646731": {
+      "title": "Senior Backend Engineer",
+      "company": "Dealls – Jobs, CV & Mentoring",
+      "url": "https://id.linkedin.com/jobs/view/senior-backend-engineer-at-dealls-%E2%80%93-jobs-cv-mentoring-4482646731",
+      "location": "Surabaya, Indonesia",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://kr.linkedin.com/jobs/view/nhn-waplat-%ec%99%80%ed%94%8c%eb%9e%ab-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b0%b1%ec%97%94%eb%93%9c-%ea%b0%9c%eb%b0%9c-at-nhn-4483832974": {
+      "title": "[NHN waplat] 와플랫 서비스 백엔드 개발",
+      "company": "NHN",
+      "url": "https://kr.linkedin.com/jobs/view/nhn-waplat-%EC%99%80%ED%94%8C%EB%9E%AB-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-at-nhn-4483832974",
+      "location": "Bundang-dong, South Korea",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://cl.linkedin.com/jobs/view/backend-engineer-php-remote-work-at-bairesdev-4485749230": {
+      "title": "Backend Engineer (PHP) - Remote Work",
+      "company": "BairesDev",
+      "url": "https://cl.linkedin.com/jobs/view/backend-engineer-php-remote-work-at-bairesdev-4485749230",
+      "location": "Remote (Chile-based)",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://mx.linkedin.com/jobs/view/senior-golang-backend-software-engineer-at-atg-auction-technology-group-4469334250": {
+      "title": "Senior Golang Backend Software Engineer",
+      "company": "ATG (Auction Technology Group)",
+      "url": "https://mx.linkedin.com/jobs/view/senior-golang-backend-software-engineer-at-atg-auction-technology-group-4469334250",
+      "location": "Guadalajara, Mexico",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://lv.linkedin.com/jobs/view/back-end-software-engineer-at-scoro-4473750316": {
+      "title": "Back-End Software Engineer",
+      "company": "Scoro",
+      "url": "https://lv.linkedin.com/jobs/view/back-end-software-engineer-at-scoro-4473750316",
+      "location": "Riga, Latvia",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://it.linkedin.com/jobs/view/senior-backend-engineer-c%23-net-at-vivaticket-4484324479": {
+      "title": "Senior Backend Engineer C# / .NET",
+      "company": "Vivaticket",
+      "url": "https://it.linkedin.com/jobs/view/senior-backend-engineer-c%23-net-at-vivaticket-4484324479",
+      "location": "Milan, Italy",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/software-engineer-java-at-haventree-bank-4434013017": {
+      "title": "Software Engineer - Java",
+      "company": "Haventree Bank",
+      "url": "https://ca.linkedin.com/jobs/view/software-engineer-java-at-haventree-bank-4434013017",
+      "location": "Toronto, Canada",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/backend-engineer-payments-au-at-eatclub-4482053364": {
+      "title": "Backend Engineer (Payments, AU)",
+      "company": "EatClub",
+      "url": "https://au.linkedin.com/jobs/view/backend-engineer-payments-au-at-eatclub-4482053364",
+      "location": "Sydney, Australia",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/senior-software-engineer-backend-insurance-at-grab-4473746578": {
+      "title": "Senior Software Engineer, Backend - Insurance",
+      "company": "Grab",
+      "url": "https://id.linkedin.com/jobs/view/senior-software-engineer-backend-insurance-at-grab-4473746578",
+      "location": "Jakarta, Indonesia",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-software-developer-backend-at-robinhood-4471767510": {
+      "title": "Senior Software Developer, Backend",
+      "company": "Robinhood",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-developer-backend-at-robinhood-4471767510",
+      "location": "Toronto, Canada",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer": {
+      "title": "Backend Product Software Engineer",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
+      "location": "Remote",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer": {
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+      "location": "Remote",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://br.whatjobs.com/pub_api__cpl__465744542__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer - Senior - Bot",
+      "company": "Grupo Foxbit",
+      "url": "https://br.whatjobs.com/pub_api__cpl__465744542__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Brazil",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/inter-team-sp-z-o-o--backend-engineer-mid-senior--warszawa-javascript?utm_source=freehire.me": {
+      "title": "Backend Engineer (Mid / Senior)",
+      "company": "INTER-TEAM Sp. z o.o.",
+      "url": "https://justjoin.it/job-offer/inter-team-sp-z-o-o--backend-engineer-mid-senior--warszawa-javascript?utm_source=freehire.me",
+      "location": "Warszawa, Poland",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://foxbit.inhire.app/vagas/ca4e2470-dbcb-4a84-9612-8dfb187d7abd/backend-engineer-senior-bot?utm_source=freehire.me": {
+      "title": "Backend Engineer - Senior - Bot",
+      "company": "Foxbit",
+      "url": "https://foxbit.inhire.app/vagas/ca4e2470-dbcb-4a84-9612-8dfb187d7abd/backend-engineer-senior-bot?utm_source=freehire.me",
+      "location": "Brazil",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/rehire/bb057865-8c5d-4d52-8449-081adf709758?utm_source=freehire.me": {
+      "title": "Backend Engineering Senior",
+      "company": "Rehire",
+      "url": "https://jobs.ashbyhq.com/rehire/bb057865-8c5d-4d52-8449-081adf709758?utm_source=freehire.me",
+      "location": "Argentina",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/jobgether/29ad447d-a79a-44ad-a31f-0a180de9ef3c?utm_source=freehire.me": {
+      "title": "Backend Software Engineer Sênior",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/29ad447d-a79a-44ad-a31f-0a180de9ef3c?utm_source=freehire.me",
+      "location": "Brazil",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://wave-by-bemobi.gupy.io/jobs/12778297?utm_source=freehire.me": {
+      "title": "Backend Software Engineer Sênior",
+      "company": "Bemobi",
+      "url": "https://wave-by-bemobi.gupy.io/jobs/12778297?utm_source=freehire.me",
+      "location": "Brazil",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://script.google.com/macros/s/akfycbw7nqk0i90nejpr9e_e2xenn4vxezqrnokvfonrdmorakdrc-zveq6llskk_p8fjipy/exec?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "10mg Health",
+      "url": "https://script.google.com/macros/s/AKfycbw7NqK0i90nejpr9E_E2xEnn4VXeZqRnOkVfoNrdmOrAkdRC-ZVeQ6LLSkk_P8FJIpY/exec?utm_source=freehire.me",
+      "location": "Remote (Lagos preferred)",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/monzo/jobs/6635837?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer",
+      "company": "Monzo",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6635837?utm_source=freehire.me",
+      "location": "Cardiff, London or Remote (UK)",
+      "first_seen": "2026-11-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/monzo/jobs/6636147?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer",
+      "company": "Monzo",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6636147?utm_source=freehire.me",
+      "location": "Cardiff, London or Remote (UK)",
+      "first_seen": "2026-11-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://pl.whatjobs.com/pub_api__cpl__34610239__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Trusted Agentic Development",
+      "company": "Devconnectplatform",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34610239__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "location": "Poland",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/jobgether/4aba96fc-25a2-4e3b-b256-9abe03e565d3?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer, Operations",
+      "company": "Jobgether",
+      "url": "https://jobs.lever.co/jobgether/4aba96fc-25a2-4e3b-b256-9abe03e565d3?utm_source=freehire.me",
+      "location": "Romania (also IT/PT/NL/IE/CH/FR/DE/ES/UK)",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search",
+      "note": "posted identically across 10 European countries (RO, IT, PT, NL, IE, CH, FR, DE, ES, UK)"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712981": {
+      "title": "Umbraco Backend-udvikler til web-platform i Azure",
+      "company": "Udviklings- og Forenklingsstyrelsen",
+      "url": "https://www.jobindex.dk/jobannonce/h1712981",
+      "location": "Frederiksberg, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712999": {
+      "title": "Backend-udvikler med fokus på integrationer til web-platform i Azure og on-prem",
+      "company": "Udviklings- og Forenklingsstyrelsen",
+      "url": "https://www.jobindex.dk/jobannonce/h1712999",
+      "location": "Frederiksberg, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1711896": {
+      "title": "Softwareudvikler – byg digitale løsninger, der binder kundernes hverdag sammen",
+      "company": "Kredsløb",
+      "url": "https://www.jobindex.dk/jobannonce/h1711896",
+      "location": "Brabrand, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1704083": {
+      "title": "Senior UX Consultant",
+      "company": "Bankdata",
+      "url": "https://www.jobindex.dk/jobannonce/h1704083",
+      "location": "Aarhus N, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712172": {
+      "title": "Erfaren softwareudvikler til Det Danske Filminstitut",
+      "company": "Det Danske Filminstitut",
+      "url": "https://www.jobindex.dk/jobannonce/h1712172",
+      "location": "København K, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712353": {
+      "title": "Senior Full-Stack Engineer, Chartering Analytics",
+      "company": "Dampskibsselskabet NORDEN A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1712353",
+      "location": "Hellerup, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1711435": {
+      "title": "Software Developer til fremtidens automationsløsninger",
+      "company": "GIBOTECH A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1711435",
+      "location": "Odense SØ, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1710244": {
+      "title": "Software Engineer",
+      "company": "SAMSON AGRO A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1710244",
+      "location": "Viborg, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1711966": {
+      "title": "C#/.NET-udvikler til Energi Fyn",
+      "company": "Energi Fyn",
+      "url": "https://www.jobindex.dk/jobannonce/h1711966",
+      "location": "Odense SV, Denmark (hybrid)",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1709358": {
+      "title": "Full Stack Udvikler til Koncern IT i Udlændingestyrelsen",
+      "company": "Udlændinge- og Integrationsministeriet",
+      "url": "https://www.jobindex.dk/jobannonce/h1709358",
+      "location": "København K, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14068705": {
+      "title": "Fullstack Softwareudvikler (Aarhus)",
+      "company": "CyberPilot.io",
+      "url": "https://www.jobindex.dk/jobannonce/r14068705",
+      "location": "Aarhus, Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://jobdanmark.dk/job/it-udvikler-soeges-til-dynamisk-udviklingsteam-i-rigsarkivet-tidsbegraenset": {
+      "title": "IT-udvikler søges til dynamisk udviklingsteam i Rigsarkivet - tidsbegrænset",
+      "company": null,
+      "url": "https://jobdanmark.dk/job/it-udvikler-soeges-til-dynamisk-udviklingsteam-i-rigsarkivet-tidsbegraenset",
+      "location": "Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/rd-hardware-ingenioer-soeges": {
+      "title": "R&D Hardware Ingeniør Søges",
+      "company": null,
+      "url": "https://jobdanmark.dk/job/rd-hardware-ingenioer-soeges",
+      "location": "Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/vil-du-vaere-underviser-og-vaere-med-til-at-uddanne-fremtidens-digitale-specialister": {
+      "title": "Vil du være underviser og være med til at uddanne fremtidens digitale specialister?",
+      "company": null,
+      "url": "https://jobdanmark.dk/job/vil-du-vaere-underviser-og-vaere-med-til-at-uddanne-fremtidens-digitale-specialister",
+      "location": "Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/softwareudviklere-vaer-med-til-at-bygge-fremtidens-digitale-loesninger": {
+      "title": "Softwareudviklere – vær med til at bygge fremtidens digitale løsninger",
+      "company": null,
+      "url": "https://jobdanmark.dk/job/softwareudviklere-vaer-med-til-at-bygge-fremtidens-digitale-loesninger",
+      "location": "Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/overbioanalytiker-til-molekylaer-medicinsk-afdeling-moma-aarhus-universitetshospital": {
+      "title": "Overbioanalytiker til Molekylær Medicinsk Afdeling (MOMA), Aarhus Universitetshospital",
+      "company": null,
+      "url": "https://jobdanmark.dk/job/overbioanalytiker-til-molekylaer-medicinsk-afdeling-moma-aarhus-universitetshospital",
+      "location": "Denmark",
+      "first_seen": "2026-11-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobdanmark-search",
+      "note": "unrelated field (medical lab)"
     }
   }
 }
