@@ -3826,7 +3826,7 @@
       "fit": "medium",
       "status": "ranked",
       "portal": "linkedin-search",
-      "rank_score": 74.0,
+      "rank_score": 74,
       "rank_verdict": "Good Fit",
       "rank_date": "2026-10-21",
       "strengths": [
@@ -3874,7 +3874,7 @@
       "fit": "high",
       "status": "ranked",
       "portal": "linkedin-search",
-      "rank_score": 76.0,
+      "rank_score": 76,
       "rank_verdict": "Strong Fit",
       "rank_date": "2026-10-21",
       "strengths": [
@@ -4062,7 +4062,7 @@
       "fit": "medium",
       "status": "ranked",
       "portal": "remoteok-search",
-      "rank_score": 35.0,
+      "rank_score": 35,
       "rank_verdict": "Weak Fit",
       "rank_date": "2026-10-21",
       "strengths": [
@@ -5912,6 +5912,856 @@
       "status": "skipped",
       "portal": "jobnet-search",
       "skip_reason": "Quick-fit low: stack/role doesn't match Node.js/NestJS/TypeScript/Express backend profile - not sent to full ranking."
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4483561417": {
+      "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)",
+      "company": "Atolls",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4483561417",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/engenheiro-de-software-node-js-remote-work-ref%23308201-at-bairesdev-4487019401": {
+      "title": "Engenheiro de Software Node.js - Remote Work | REF#308201",
+      "company": "BairesDev",
+      "location": "Greater Curitiba",
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-de-software-node-js-remote-work-ref%23308201-at-bairesdev-4487019401",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/desenvolvedor-node-js-trabalho-remoto-ref%23307917-at-bairesdev-4487025234": {
+      "title": "Desenvolvedor Node.js - trabalho remoto | REF#307917",
+      "company": "BairesDev",
+      "location": "Greater Curitiba",
+      "url": "https://br.linkedin.com/jobs/view/desenvolvedor-node-js-trabalho-remoto-ref%23307917-at-bairesdev-4487025234",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226": {
+      "title": "Sénior Back End Developer Node.Js (H/F)",
+      "company": "MyUnisoft",
+      "location": "Rabat, Rabat-Salé-Kénitra, Morocco",
+      "url": "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/senior-software-developer-node-js-at-rebel-foods-4487227756": {
+      "title": "Senior Software Developer - Node.Js",
+      "company": "Rebel Foods",
+      "location": "Mumbai Metropolitan Region",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-developer-node-js-at-rebel-foods-4487227756",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/hiring-for-sr-backend-engineer-node-js-at-cognizant-4474293022": {
+      "title": "Hiring for Sr. Backend Engineer (Node Js)",
+      "company": "Cognizant",
+      "location": "Chennai, Tamil Nadu, India",
+      "url": "https://in.linkedin.com/jobs/view/hiring-for-sr-backend-engineer-node-js-at-cognizant-4474293022",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://vn.linkedin.com/jobs/view/senior-backend-engineer-node-js-nestjs-at-nh%C3%A0-thu%E1%BB%91c-fpt-long-ch%C3%A2u-4486336941": {
+      "title": "Senior Backend Engineer (Node.js/NestJS)",
+      "company": "Nhà Thuốc FPT Long Châu",
+      "location": "Ho Chi Minh City, Vietnam",
+      "url": "https://vn.linkedin.com/jobs/view/senior-backend-engineer-node-js-nestjs-at-nh%C3%A0-thu%E1%BB%91c-fpt-long-ch%C3%A2u-4486336941",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ma.linkedin.com/jobs/view/node-js-developer-senior-at-globant-4390991144": {
+      "title": "Node.js Developer, Senior",
+      "company": "Globant",
+      "location": "Casablanca, Casablanca-Settat, Morocco",
+      "url": "https://ma.linkedin.com/jobs/view/node-js-developer-senior-at-globant-4390991144",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-backend-node-js-typescript-at-jitbase-4484878098": {
+      "title": "Développeur Backend (Node.js / TypeScript)",
+      "company": "JITbase",
+      "location": "Montreal, Quebec, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-backend-node-js-typescript-at-jitbase-4484878098",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/founding-engineer-backend-typescript-at-assurenode-4485048973": {
+      "title": "Founding Engineer (Backend, TypeScript)",
+      "company": "AssureNode",
+      "location": "Mumbai, Maharashtra, India",
+      "url": "https://in.linkedin.com/jobs/view/founding-engineer-backend-typescript-at-assurenode-4485048973",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/backend-developer-node-js-nest-js-madrid-at-econocom-espa%C3%B1a-4478978838": {
+      "title": "Backend Developer (Node.js & Nest.JS) - Madrid",
+      "company": "Econocom España",
+      "location": "Madrid, Community of Madrid, Spain",
+      "url": "https://es.linkedin.com/jobs/view/backend-developer-node-js-nest-js-madrid-at-econocom-espa%C3%B1a-4478978838",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/mid-level-backend-developer-node-js-at-getnet-4482510820": {
+      "title": "Mid Level Backend Developer | Node.js",
+      "company": "Getnet",
+      "location": "São Paulo, Brazil",
+      "url": "https://br.linkedin.com/jobs/view/mid-level-backend-developer-node-js-at-getnet-4482510820",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-at-alpaca-4482820463": {
+      "title": "Senior Software Engineer - Payments",
+      "company": "Alpaca",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-payments-at-alpaca-4482820463",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-jeeves-4483214705": {
+      "title": "Senior Backend Engineer",
+      "company": "Jeeves",
+      "location": "Greater Montreal Metropolitan Area",
+      "url": "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-jeeves-4483214705",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ke.linkedin.com/jobs/view/senior-backend-engineer-go-at-afrisend-money-transfer-limited-4482041951": {
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Afrisend Money Transfer Limited",
+      "location": "Nairobi, Nairobi County, Kenya",
+      "url": "https://ke.linkedin.com/jobs/view/senior-backend-engineer-go-at-afrisend-money-transfer-limited-4482041951",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://hk.linkedin.com/jobs/view/backend-engineer-payment-at-redotpay-4486102777": {
+      "title": "Backend Engineer-Payment",
+      "company": "RedotPay",
+      "location": "Hong Kong, Hong Kong SAR",
+      "url": "https://hk.linkedin.com/jobs/view/backend-engineer-payment-at-redotpay-4486102777",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/staff-software-engineer-nodejs-typescript-at-commonwealth-bank-4484921101": {
+      "title": "Staff Software Engineer (Nodejs/Typescript)",
+      "company": "Commonwealth Bank",
+      "location": "Greater Melbourne Area",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-nodejs-typescript-at-commonwealth-bank-4484921101",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/staff-software-engineer-nodejs-typescript-at-commonwealth-bank-4484912565": {
+      "title": "Staff Software Engineer (Nodejs/Typescript)",
+      "company": "Commonwealth Bank",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://au.linkedin.com/jobs/view/staff-software-engineer-nodejs-typescript-at-commonwealth-bank-4484912565",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-trabalho-remoto-at-bairesdev-4486081712": {
+      "title": "Staff Software Engineer (Node.js, AWS) - Trabalho Remoto",
+      "company": "BairesDev",
+      "location": "Salvador, Bahia, Brazil",
+      "url": "https://br.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-trabalho-remoto-at-bairesdev-4486081712",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://co.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-trabajo-remoto-at-bairesdev-4486096505": {
+      "title": "Staff Software Engineer (Node.js, AWS) - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Santander, Colombia",
+      "url": "https://co.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-trabajo-remoto-at-bairesdev-4486096505",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-backend-at-lvt-liveview-technologies-4469923362": {
+      "title": "Staff Software Engineer - Backend",
+      "company": "LVT (LiveView Technologies)",
+      "location": "Seattle, WA",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-backend-at-lvt-liveview-technologies-4469923362",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-node-typescript-stable-sportstech-co-used-by-millions-at-high-country-search-group-4480179591": {
+      "title": "Staff Backend Engineer, Node & TypeScript, Stable SportsTech Co, Used by Millions",
+      "company": "High Country Search Group",
+      "location": "Denver Metropolitan Area",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-node-typescript-stable-sportstech-co-used-by-millions-at-high-country-search-group-4480179591",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer": {
+      "title": "Backend Product Software Engineer",
+      "company": "Dropbox",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer": {
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://jobs.smartrecruiters.com/HelloKindred/3743990016549077-backend-engineer?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "HelloKindred",
+      "location": "Sheffield, England, gb",
+      "url": "https://jobs.smartrecruiters.com/HelloKindred/3743990016549077-backend-engineer?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://app.dover.com/apply/smvsoft/cf6181ca-e449-46b2-9aee-7cf288cf928c?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "smvsoft",
+      "location": "Not stated",
+      "url": "https://app.dover.com/apply/smvsoft/cf6181ca-e449-46b2-9aee-7cf288cf928c?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.cognyte.com/careers/2B.B6B/backend-engineer-senior-ip-c-developer/?utm_source=freehire.me": {
+      "title": "Backend Engineer -Senior (IP C++ Developer)",
+      "company": "Cognyte",
+      "location": "Pune",
+      "url": "https://www.cognyte.com/careers/2B.B6B/backend-engineer-senior-ip-c-developer/?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/Wise/744000159127419-backend-engineer-send-core?utm_source=freehire.me": {
+      "title": "Backend Engineer - Send Core",
+      "company": "Wise",
+      "location": "London, England, gb",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000159127419-backend-engineer-send-core?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__596689338__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Backend engineer for lending APIs",
+      "company": "iwoca",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__596689338__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://br.whatjobs.com/pub_api__cpl__465744542__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer - Senior - Bot",
+      "company": "Grupo Foxbit",
+      "location": "Brazil",
+      "url": "https://br.whatjobs.com/pub_api__cpl__465744542__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__590073977__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Backend Engineer - Real-Time Ads Platform (Hybrid London)",
+      "company": "Bauer Media Outdoor UK",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__590073977__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__590070113__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Backend engineer for marketing platforms",
+      "company": "Publicis Media",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__590070113__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://th.jobsdb.com/job/95592944?utm_source=freehire.me": {
+      "title": "Backend Engineer (Java Spring Boot) : Mid to Senior Levels",
+      "company": "Bangkok Bank",
+      "location": "Bang Rak, Bangkok",
+      "url": "https://th.jobsdb.com/job/95592944?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://boards.greenhouse.io/wheely/jobs/7712071003?gh_jid=7712071003&utm_source=freehire.me": {
+      "title": "Backend Engineer (Mid/Senior), Maps",
+      "company": "Wheely",
+      "location": "Λευκωσία, Nicosia, Cyprus",
+      "url": "https://boards.greenhouse.io/wheely/jobs/7712071003?gh_jid=7712071003&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://boards.greenhouse.io/wheely/jobs/7712039003?gh_jid=7712039003&utm_source=freehire.me": {
+      "title": "Backend Engineer (Mid/Senior), Marketplace",
+      "company": "Wheely",
+      "location": "Λευκωσία, Nicosia, Cyprus",
+      "url": "https://boards.greenhouse.io/wheely/jobs/7712039003?gh_jid=7712039003&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/inter-team-sp-z-o-o--backend-engineer-mid-senior--warszawa-javascript?utm_source=freehire.me": {
+      "title": "Backend Engineer (Mid / Senior)",
+      "company": "INTER-TEAM Sp. z o.o.",
+      "location": "Warszawa",
+      "url": "https://justjoin.it/job-offer/inter-team-sp-z-o-o--backend-engineer-mid-senior--warszawa-javascript?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://foxbit.inhire.app/vagas/ca4e2470-dbcb-4a84-9612-8dfb187d7abd/backend-engineer-senior-bot?utm_source=freehire.me": {
+      "title": "Backend Engineer - Senior - Bot",
+      "company": "Foxbit",
+      "location": "BR",
+      "url": "https://foxbit.inhire.app/vagas/ca4e2470-dbcb-4a84-9612-8dfb187d7abd/backend-engineer-senior-bot?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ca.whatjobs.com/pub_api__cpl__155217310__7103?utm_campaign=publisher&utm_medium=api&geoID=4112&utm_source=freehire.me": {
+      "title": "Backend Engineer Co-Op (8 Months) – Typescript &",
+      "company": "A leading meal solutions company",
+      "location": "North York, Canada",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__155217310__7103?utm_campaign=publisher&utm_medium=api&geoID=4112&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ae.whatjobs.com/pub_api__cpl__94269209__7102?utm_campaign=publisher&utm_medium=api&geoID=1743&utm_source=freehire.me": {
+      "title": "Backend Engineer: APIs, Microservices & AI-Ready Systems",
+      "company": "Connect Tech+Talent",
+      "location": "Dubai, United Arab Emirates",
+      "url": "https://en-ae.whatjobs.com/pub_api__cpl__94269209__7102?utm_campaign=publisher&utm_medium=api&geoID=1743&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ca.whatjobs.com/pub_api__cpl__154871886__7103?utm_campaign=publisher&utm_medium=api&geoID=1679&utm_source=freehire.me": {
+      "title": "Backend Engineer Co-Op (8 Months) – Typescript &",
+      "company": "A leading meal solutions company",
+      "location": "East York, Canada",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__154871886__7103?utm_campaign=publisher&utm_medium=api&geoID=1679&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://itviec.com/it-jobs/backend-engineer-python-middle-senior-gon-tech-5224?utm_source=freehire.me": {
+      "title": "Backend Engineer (Python) - Middle/Senior",
+      "company": "GON TECH",
+      "location": "Hồ Chí Minh, Vietnam",
+      "url": "https://itviec.com/it-jobs/backend-engineer-python-middle-senior-gon-tech-5224?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/rehire/bb057865-8c5d-4d52-8449-081adf709758?utm_source=freehire.me": {
+      "title": "Backend Engineering Senior",
+      "company": "Rehire",
+      "location": "Argentina",
+      "url": "https://jobs.ashbyhq.com/rehire/bb057865-8c5d-4d52-8449-081adf709758?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-id.whatjobs.com/pub_api__cpl__17680170__7105?utm_campaign=publisher&utm_medium=api&geoID=1328&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Social Commerce Platform",
+      "company": "PLT engineering GmbH",
+      "location": "Tangerang, Indonesia",
+      "url": "https://en-id.whatjobs.com/pub_api__cpl__17680170__7105?utm_campaign=publisher&utm_medium=api&geoID=1328&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/jobgether/aec392cc-e5d0-40c6-9692-4dfdce01c960?utm_source=freehire.me": {
+      "title": "Backend NestJs Developer",
+      "company": "Jobgether",
+      "location": "Brazil",
+      "url": "https://jobs.lever.co/jobgether/aec392cc-e5d0-40c6-9692-4dfdce01c960?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/139080109?utm_source=freehire.me": {
+      "title": "Fullstack Developer (React / TypeScript / NestJS), Strong Middle",
+      "company": "МВС Телеком",
+      "location": "Москва",
+      "url": "https://hh.ru/vacancy/139080109?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://career.habr.com/vacancies/1000169540?utm_source=freehire.me": {
+      "title": "Full Stack Developer (Flutter+NestJS, Web + Mobile) в project ×",
+      "company": "Project ×",
+      "location": "Not stated",
+      "url": "https://career.habr.com/vacancies/1000169540?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.getonbrd.com/jobs/backend-engineer-ssr-nestjs-hexagonal-aws-witi-remote?utm_source=freehire.me": {
+      "title": "Back-end Engineer – NestJS & Hexagonal (AWS)",
+      "company": "WiTi",
+      "location": "Remote",
+      "url": "https://www.getonbrd.com/jobs/backend-engineer-ssr-nestjs-hexagonal-aws-witi-remote?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.careers-page.com/humanit/job/RYR5W976?utm_source=freehire.me": {
+      "title": "Senior Full-Stack Engineer (NestJS/React Native) - Full Remote Portugal",
+      "company": "HumanIT Digital Consulting",
+      "location": "Porto, Portugal",
+      "url": "https://www.careers-page.com/humanit/job/RYR5W976?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/138789927?utm_source=freehire.me": {
+      "title": "Backend-разработчик (TypeScript / NestJS / Kafka)",
+      "company": "Медиа Технолоджи",
+      "location": "Санкт-Петербург",
+      "url": "https://hh.ru/vacancy/138789927?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/794689-full-stack-developer-node-js-nestjs-angular/?utm_source=freehire.me": {
+      "title": "Full-Stack Developer (Node.js / NestJS, Angular)",
+      "company": "UAM",
+      "location": "Not stated",
+      "url": "https://djinni.co/jobs/794689-full-stack-developer-node-js-nestjs-angular/?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/dcg-fullstack-developer-node-js-nestjs-angular-react-aws--warszawa-javascript?utm_source=freehire.me": {
+      "title": "Fullstack Developer (Node.js, NestJS, Angular/React, AWS )",
+      "company": "DCG",
+      "location": "Warszawa",
+      "url": "https://justjoin.it/job-offer/dcg-fullstack-developer-node-js-nestjs-angular-react-aws--warszawa-javascript?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://ats.welcometothejungle.com/board/whering-UeJTyT/job/d431bb5c-7347-4e25-bc55-f3078bd979ae/apply?referrer=wttj&utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Loved wardrobes start here.)",
+      "company": "Whering",
+      "location": "United Kingdom; London, United Kingdom",
+      "url": "https://ats.welcometothejungle.com/board/whering-UeJTyT/job/d431bb5c-7347-4e25-bc55-f3078bd979ae/apply?referrer=wttj&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://career.habr.com/vacancies/1000168930?utm_source=freehire.me": {
+      "title": "FullStack Developer - CRM (FinTech)",
+      "company": "Sirius Capital",
+      "location": "Ереван",
+      "url": "https://career.habr.com/vacancies/1000168930?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/856533-node-js-developer/?utm_source=freehire.me": {
+      "title": "Node.js Developer",
+      "company": "Office.kh.ua",
+      "location": "UA",
+      "url": "https://djinni.co/jobs/856533-node-js-developer/?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/KMSTechnology1/744000159463127-senior-fullstack-software-engineer?utm_source=freehire.me": {
+      "title": "Senior Fullstack Software Engineer",
+      "company": "KMS Technology, Inc.",
+      "location": "Guadalajara, Jal., mx",
+      "url": "https://jobs.smartrecruiters.com/KMSTechnology1/744000159463127-senior-fullstack-software-engineer?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://t.me/youritjob/8561?utm_source=freehire.me": {
+      "title": "Fullstack Engineer | React Native + Backend",
+      "company": "Kelpie",
+      "location": "Remote",
+      "url": "https://t.me/youritjob/8561?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://es.whatjobs.com/pub_api__cpl__359910859__7107?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Node.js) - Remote & AWS",
+      "company": "remoteo",
+      "location": "Madrid, Spain",
+      "url": "https://es.whatjobs.com/pub_api__cpl__359910859__7107?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.naukri.com/job-listings-senior-backend-developer-tech-lead-ennovate-era-llp-noida-6-to-11-years-271026022237?utm_source=freehire.me": {
+      "title": "Senior Backend Developer/Tech Lead",
+      "company": "Ennovate Era Llp",
+      "location": "Noida",
+      "url": "https://www.naukri.com/job-listings-senior-backend-developer-tech-lead-ennovate-era-llp-noida-6-to-11-years-271026022237?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/844740-senior-golang-backend-developer/?utm_source=freehire.me": {
+      "title": "Senior Golang Backend Developer",
+      "company": "Hanna Robulets Company",
+      "location": "Europe",
+      "url": "https://djinni.co/jobs/844740-senior-golang-backend-developer/?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.careers-page.com/altametrics/job/8XR79VYV?utm_source=freehire.me": {
+      "title": "Full Stack Engineer ( Remote - Romania )",
+      "company": "Altametrics",
+      "location": "Bucharest, Romania",
+      "url": "https://www.careers-page.com/altametrics/job/8XR79VYV?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://t.me/jtbl_vacancy/4917?utm_source=freehire.me": {
+      "title": "Senior FullStack Developer",
+      "company": "Unknown",
+      "location": "Удалённо, GMT+3",
+      "url": "https://t.me/jtbl_vacancy/4917?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://become-1-gmbh.jobs.personio.com/job/2873694?utm_source=freehire.me": {
+      "title": "Senior DevOps / Cloud Engineer (m/w/d)",
+      "company": "become-1-gmbh",
+      "location": "Remote",
+      "url": "https://become-1-gmbh.jobs.personio.com/job/2873694?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://torre.ai/post/PrlM6opW-niuro-senior-full-stack-ai-engineer-health-tech?utm_source=freehire.me": {
+      "title": "Senior Full-Stack AI Engineer (Health Tech)",
+      "company": "Niuro",
+      "location": "Remote, Argentina; Bolivia; Brazil; Chile; Colombia; Costa Rica; Cuba; Dominican Republic; Ecuador; El Salvador; Guatemala; Honduras; Mexico; Nicaragua; Panama; Paraguay; Peru; Uruguay; Venezuela",
+      "url": "https://torre.ai/post/PrlM6opW-niuro-senior-full-stack-ai-engineer-health-tech?utm_source=freehire.me",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1713178": {
+      "title": "Full Stack Developer – Modern Backend & Frontend",
+      "company": "twoday A/S",
+      "location": "Nordhavn",
+      "url": "https://www.jobindex.dk/jobannonce/h1713178",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1713068": {
+      "title": "Manager for Backend Development",
+      "company": "GLS Denmark A/S",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/h1713068",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712974": {
+      "title": "Odoo Developer (CRM and ERP system developer)",
+      "company": "Bixter ApS",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/h1712974",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1713408": {
+      "title": "Business Central Developer",
+      "company": "DILLING A/S",
+      "location": "Herning",
+      "url": "https://www.jobindex.dk/jobannonce/h1713408",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712981": {
+      "title": "Umbraco Backend-udvikler til web-platform i Azure",
+      "company": "Udviklings- og Forenklingsstyrelsen",
+      "location": "Frederiksberg",
+      "url": "https://www.jobindex.dk/jobannonce/h1712981",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712357": {
+      "title": "AI Developer til Customer Success",
+      "company": "Visma DataLøn",
+      "location": "København V og mulighed for hjemmearbejde",
+      "url": "https://www.jobindex.dk/jobannonce/h1712357",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712999": {
+      "title": "Backend-udvikler med fokus på integrationer til web-platform i Azure og on-prem",
+      "company": "Udviklings- og Forenklingsstyrelsen",
+      "location": "Frederiksberg",
+      "url": "https://www.jobindex.dk/jobannonce/h1712999",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1712308": {
+      "title": "Chemical Engineer",
+      "company": "Svendborg Brakes ApS",
+      "location": "Vejstrup",
+      "url": "https://www.jobindex.dk/jobannonce/h1712308",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1709680": {
+      "title": "Full-stack Developer – Build a Platform from the Ground Up",
+      "company": "Bixter ApS",
+      "location": "Kolding",
+      "url": "https://www.jobindex.dk/jobannonce/h1709680",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1711435": {
+      "title": "Software Developer til fremtidens automationsløsninger",
+      "company": "GIBOTECH A/S",
+      "location": "Odense SØ",
+      "url": "https://www.jobindex.dk/jobannonce/h1711435",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1709243": {
+      "title": "Product Developer - Lighting",
+      "company": "HAY ApS",
+      "location": "København K",
+      "url": "https://www.jobindex.dk/jobannonce/h1709243",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14082073": {
+      "title": "Business Developer (København)",
+      "company": "BrightAnalytics",
+      "location": "København",
+      "url": "https://www.jobindex.dk/jobannonce/r14082073",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/9b06e559-57aa-4d7f-a7eb-20fe229a42fa": {
+      "title": "Erfaren C#/.NET-udvikler med flair for arkitektur",
+      "company": "DIVISO ApS",
+      "location": "Viborg",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/9b06e559-57aa-4d7f-a7eb-20fe229a42fa",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/b84b97ba-4d08-4e97-99fa-d8c553f86e3e": {
+      "title": "Backend-udvikler med fokus på integrationer til web-platform i Azure og on-prem",
+      "company": "Skatteforvaltningen, Frederiksberg OHV",
+      "location": "Frederiksberg",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/b84b97ba-4d08-4e97-99fa-d8c553f86e3e",
+      "first_seen": "2026-11-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/c2fbddba-a120-4677-859e-efb949a0e0d0": {
+      "title": "Umbraco Backend-udvikler til web-platform i Azure",
+      "company": "Skatteforvaltningen, Frederiksberg OHV",
+      "location": "Frederiksberg",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/c2fbddba-a120-4677-859e-efb949a0e0d0",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/588b861e-236b-4fe7-8d6a-b8a1c47a0f22": {
+      "title": "Senior Software Engineer",
+      "company": "Sedna",
+      "location": "Not stated",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/588b861e-236b-4fe7-8d6a-b8a1c47a0f22",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/eff25ac2-4ec6-4774-8978-5634f01b474f": {
+      "title": "AI Engineer",
+      "company": "Board Intelligence",
+      "location": "Not stated",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/eff25ac2-4ec6-4774-8978-5634f01b474f",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/5ea69c88-bf2d-4afc-aa3b-bc24da85e8dd": {
+      "title": "Fullstack TypeScript Engineer",
+      "company": "Responsibly",
+      "location": "Not stated",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/5ea69c88-bf2d-4afc-aa3b-bc24da85e8dd",
+      "first_seen": "2026-11-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/ab9b310c-065a-45cd-acb6-2a56ef4a8940": {
+      "title": "Senior Software Engineer - C#/.NET",
+      "company": "Danske Bank",
+      "location": "Aarhus",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/ab9b310c-065a-45cd-acb6-2a56ef4a8940",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/bddc4440-1b43-4e3d-9380-daa98b5a1cbe": {
+      "title": "AI Engineer",
+      "company": "Board Intelligence",
+      "location": "Not stated",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/bddc4440-1b43-4e3d-9380-daa98b5a1cbe",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/7e21bc1b-d32e-4c2c-bfdb-60b626fd0f5f": {
+      "title": "Software Engineer til Channel Assembly & Distribution i TV 2",
+      "company": "TV 2 Danmark",
+      "location": "Odense",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/7e21bc1b-d32e-4c2c-bfdb-60b626fd0f5f",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://job.jobnet.dk/CV/FindWork/Details/22a65689-6baa-4437-88ba-f721dd4785f7": {
+      "title": "AI Engineer",
+      "company": "Boyum IT Solutions",
+      "location": "Aarhus",
+      "url": "https://job.jobnet.dk/CV/FindWork/Details/22a65689-6baa-4437-88ba-f721dd4785f7",
+      "first_seen": "2026-11-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
     }
   }
 }
