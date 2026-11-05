@@ -5912,6 +5912,366 @@
       "status": "skipped",
       "portal": "jobnet-search",
       "skip_reason": "Quick-fit low: stack/role doesn't match Node.js/NestJS/TypeScript/Express backend profile - not sent to full ranking."
+    },
+    "https://pe.linkedin.com/jobs/view/senior-backend-engineer-go-remote-work-ref%23302481-at-bairesdev-4487022631": {
+      "title": "Senior Backend Engineer (Go) - Remote Work | REF#302481",
+      "company": "BairesDev",
+      "location": "Cajamarca, Peru",
+      "url": "https://pe.linkedin.com/jobs/view/senior-backend-engineer-go-remote-work-ref%23302481-at-bairesdev-4487022631",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/senior-backend-engineer-i-platform-at-ajaib-4487207111": {
+      "title": "Senior Backend Engineer I - Platform",
+      "company": "Ajaib",
+      "location": "Jakarta, Jakarta, Indonesia",
+      "url": "https://id.linkedin.com/jobs/view/senior-backend-engineer-i-platform-at-ajaib-4487207111",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/backend-engineer-golang-remote-work-ref%23308500-at-bairesdev-4487020400": {
+      "title": "Backend Engineer (Golang) - Remote Work | REF#308500",
+      "company": "BairesDev",
+      "location": "São Paulo, São Paulo, Brazil",
+      "url": "https://br.linkedin.com/jobs/view/backend-engineer-golang-remote-work-ref%23308500-at-bairesdev-4487020400",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/software-engineer-ii-growth-analytics-discovery-at-tiket-com-4478870465": {
+      "title": "Software Engineer II (Growth, Analytics & Discovery)",
+      "company": "tiket.com",
+      "location": "Jakarta, Indonesia",
+      "url": "https://id.linkedin.com/jobs/view/software-engineer-ii-growth-analytics-discovery-at-tiket-com-4478870465",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/senior-backend-engineer-ii-platform-at-ajaib-4487225584": {
+      "title": "Senior Backend Engineer II - Platform",
+      "company": "Ajaib",
+      "location": "Jakarta, Jakarta, Indonesia",
+      "url": "https://id.linkedin.com/jobs/view/senior-backend-engineer-ii-platform-at-ajaib-4487225584",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-quo-4486490216": {
+      "title": "Senior Backend Engineer",
+      "company": "Quo",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-quo-4486490216",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-nodejs-nestjs-engineer-with-experience-on-fintech-projects-at-fintech-core-4484679244": {
+      "title": "SENIOR NODEJS/NESTJS ENGINEER (WITH EXPERIENCE ON FINTECH PROJECTS)",
+      "company": "Fintech Core",
+      "location": "Wilmington, NC",
+      "url": "https://www.linkedin.com/jobs/view/senior-nodejs-nestjs-engineer-with-experience-on-fintech-projects-at-fintech-core-4484679244",
+      "first_seen": "2026-11-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-typescript-node-js-remote-ecommerce-platform-at-motion-recruitment-4484761047": {
+      "title": "Senior Software Engineer // Typescript/Node.js // Remote Ecommerce platform",
+      "company": "Motion Recruitment",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-typescript-node-js-remote-ecommerce-platform-at-motion-recruitment-4484761047",
+      "first_seen": "2026-11-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-development-engineer-at-cvs-health-4484782176": {
+      "title": "Senior Software Development Engineer",
+      "company": "CVS Health",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-development-engineer-at-cvs-health-4484782176",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-development-engineer-at-cvs-health-4485222562": {
+      "title": "Staff Software Development Engineer",
+      "company": "CVS Health",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-development-engineer-at-cvs-health-4485222562",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572": {
+      "title": "Senior Software Engineer LATAM",
+      "company": "Wagmo",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571": {
+      "title": "Senior Software Engineer",
+      "company": "Klardaten",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Phoenix-AZ-USA/Backend-Engineer_R-70457?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Kyndryl",
+      "location": "Phoenix, AZ, USA",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Phoenix-AZ-USA/Backend-Engineer_R-70457?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__601831505__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Alfa AI",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__601831505__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.eu.greenhouse.io/saasgroup/jobs/5020634101?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "saas.group",
+      "location": "Remote",
+      "url": "https://job-boards.eu.greenhouse.io/saasgroup/jobs/5020634101?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://platform9.pinpointhq.com/en/postings/9b0ebf4c-5fa8-4d3e-a4b3-e9470577af63?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Platform9",
+      "location": "New York",
+      "url": "https://platform9.pinpointhq.com/en/postings/9b0ebf4c-5fa8-4d3e-a4b3-e9470577af63?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.adzuna.co.uk/jobs/details/5951006354?utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Anson Mccade",
+      "location": "South West London, London",
+      "url": "https://www.adzuna.co.uk/jobs/details/5951006354?utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://career.deploja.se/jobs/8648963-backend-engineer?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Deploja AB",
+      "location": null,
+      "url": "https://career.deploja.se/jobs/8648963-backend-engineer?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://arc.dev/remote-jobs/j/taskverse-backend-engineer-ptstncvnjh?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "TaskVerse",
+      "location": null,
+      "url": "https://arc.dev/remote-jobs/j/taskverse-backend-engineer-ptstncvnjh?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/gitlab/jobs/8771512002?utm_source=freehire.me": {
+      "title": "Backend Engineer, GitLab Orbit",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002?utm_source=freehire.me",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobnet.dk/job/9b06e559-57aa-4d7f-a7eb-20fe229a42fa": {
+      "title": "Erfaren C#/.NET-udvikler med flair for arkitektur",
+      "company": "DIVISO ApS",
+      "location": "Viborg",
+      "url": "https://jobnet.dk/job/9b06e559-57aa-4d7f-a7eb-20fe229a42fa",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/b84b97ba-4d08-4e97-99fa-d8c553f86e3e": {
+      "title": "Backend-udvikler med fokus på integrationer til web-platform i Azure og on-prem",
+      "company": "Skatteforvaltningen, Frederiksberg OHV",
+      "location": "Frederiksberg",
+      "url": "https://jobnet.dk/job/b84b97ba-4d08-4e97-99fa-d8c553f86e3e",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/c2fbddba-a120-4677-859e-efb949a0e0d0": {
+      "title": "Umbraco Backend-udvikler til web-platform i Azure",
+      "company": "Skatteforvaltningen, Frederiksberg OHV",
+      "location": "Frederiksberg",
+      "url": "https://jobnet.dk/job/c2fbddba-a120-4677-859e-efb949a0e0d0",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/eff25ac2-4ec6-4774-8978-5634f01b474f": {
+      "title": "AI Engineer",
+      "company": "Board Intelligence",
+      "location": null,
+      "url": "https://jobnet.dk/job/eff25ac2-4ec6-4774-8978-5634f01b474f",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/5ea69c88-bf2d-4afc-aa3b-bc24da85e8dd": {
+      "title": "Fullstack TypeScript Engineer",
+      "company": "Responsibly",
+      "location": null,
+      "url": "https://jobnet.dk/job/5ea69c88-bf2d-4afc-aa3b-bc24da85e8dd",
+      "first_seen": "2026-11-05",
+      "fit": "high",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/7e21bc1b-d32e-4c2c-bfdb-60b626fd0f5f": {
+      "title": "Software Engineer til Channel Assembly & Distribution i TV 2",
+      "company": "TV 2 Danmark",
+      "location": "Odense",
+      "url": "https://jobnet.dk/job/7e21bc1b-d32e-4c2c-bfdb-60b626fd0f5f",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/22a65689-6baa-4437-88ba-f721dd4785f7": {
+      "title": "AI Engineer",
+      "company": "Boyum IT Solutions",
+      "location": "Aarhus",
+      "url": "https://jobnet.dk/job/22a65689-6baa-4437-88ba-f721dd4785f7",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/939384da-bc2c-4473-8df7-1ec4e913116f": {
+      "title": "Founding Engineer",
+      "company": "Impact Market",
+      "location": null,
+      "url": "https://jobnet.dk/job/939384da-bc2c-4473-8df7-1ec4e913116f",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/b0a1b2de-6ad8-42c3-83e5-5f5071795152": {
+      "title": "Senior Full-Stack Software Engineer",
+      "company": "Veo Technologies",
+      "location": null,
+      "url": "https://jobnet.dk/job/b0a1b2de-6ad8-42c3-83e5-5f5071795152",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/b2258509-ed2b-445d-a8fa-9bfa828016f3": {
+      "title": "Praktikplads: udvikler søges til Holdsport.dk",
+      "company": "Holdsport.dk ApS",
+      "location": "Aarhus",
+      "url": "https://jobnet.dk/job/b2258509-ed2b-445d-a8fa-9bfa828016f3",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/27a908c4-1782-45f6-8bbb-e7ce7a09dd93": {
+      "title": "Full Stack Engineer",
+      "company": "Envira",
+      "location": null,
+      "url": "https://jobnet.dk/job/27a908c4-1782-45f6-8bbb-e7ce7a09dd93",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/453e9ddc-a45c-4893-a598-d1f41be94474": {
+      "title": "Senior Python/Django Engineer (AI-Native)",
+      "company": "Plecto",
+      "location": "Aarhus",
+      "url": "https://jobnet.dk/job/453e9ddc-a45c-4893-a598-d1f41be94474",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/499f515f-616e-44b5-af0b-110ec2c33cb4": {
+      "title": "Udviklere til national sundheds it",
+      "company": "Edora A/S",
+      "location": null,
+      "url": "https://jobnet.dk/job/499f515f-616e-44b5-af0b-110ec2c33cb4",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobdanmark.dk/job/platform-engineer-til-statens-it-udvikling-og-drift-af-stoerre-it-loesninger": {
+      "title": "Platform engineer til Statens IT – udvikling og drift af større IT-løsninger",
+      "company": "Statens It",
+      "location": "Lautruphøj 2, 2750 Ballerup",
+      "url": "https://jobdanmark.dk/job/platform-engineer-til-statens-it-udvikling-og-drift-af-stoerre-it-loesninger",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/ai-udvikler-byg-ai-loesninger-der-goer-en-forskel-for-mange": {
+      "title": "AI-udvikler – Byg AI-løsninger der gør en forskel for mange",
+      "company": "Odense Kommune",
+      "location": "Egeparken 2a, 5240 Odense",
+      "url": "https://jobdanmark.dk/job/ai-udvikler-byg-ai-loesninger-der-goer-en-forskel-for-mange",
+      "first_seen": "2026-11-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/bliv-vores-keycloak-specialist-og-saet-retningen-for-en-central-sikkerhedskomponent": {
+      "title": "Bliv vores Keycloak-specialist – og sæt retningen for en central sikkerhedskomponent",
+      "company": "Skatteforvaltningen, Frederiksberg OHV",
+      "location": "Osvald Helmuths Vej 4, 2000 Frederiksberg",
+      "url": "https://jobdanmark.dk/job/bliv-vores-keycloak-specialist-og-saet-retningen-for-en-central-sikkerhedskomponent",
+      "first_seen": "2026-11-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobdanmark-search"
     }
   }
 }
