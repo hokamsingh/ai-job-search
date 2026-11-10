@@ -8717,6 +8717,400 @@
       ],
       "rank_location": "FLAG",
       "rank_deadline": "2026-12-16"
+    },
+    "https://de.linkedin.com/jobs/view/senior-software-engineer-node-js-typescript-x-f-m-at-doctolib-4485399952": {
+      "title": "Senior Software Engineer - Node.js/TypeScript (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Germany",
+      "url": "https://de.linkedin.com/jobs/view/senior-software-engineer-node-js-typescript-x-f-m-at-doctolib-4485399952",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 47.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "5+ years backend Node.js/TypeScript requirement matches primary stack",
+        "Kubernetes/AWS/GCP and PostgreSQL tuning preferred skills align with secondary skills",
+        "Offers relocation support for international mobility, 28+ vacation days"
+      ],
+      "gaps": [
+        "Role centers on LLM voice/AI features (ASR/TTS/telephony) - no equivalent experience",
+        "Hybrid on-site Berlin falls short of remote preference",
+        "Healthcare-tech domain has no overlap with target sectors"
+      ],
+      "location_verdict": "FLAG",
+      "location_note": "Hybrid Berlin (up to 2 remote days/week); mentions relocation support but no explicit visa-sponsorship language for India-based candidate.",
+      "deadline": null
+    },
+    "https://pt.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-at-talentco-4486039366": {
+      "title": "Senior Backend Engineer (Node.js / Typescript)",
+      "company": "TalentCo",
+      "location": "Portugal",
+      "url": "https://pt.linkedin.com/jobs/view/senior-backend-engineer-node-js-typescript-at-talentco-4486039366",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 57.2,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Node.js/TypeScript with AWS/GCP/Azure matches core+secondary skills",
+        "Fully remote within Portugal, strong comp (EUR 100-150k) + equity",
+        "LLM/RAG integration aligns with AI-first/agentic dev background"
+      ],
+      "gaps": [
+        "Location scoped to Portugal residents only, not India-based candidates",
+        "No fintech/iGaming/crypto domain overlap - generic enterprise AI SaaS",
+        "PTO policy not mentioned"
+      ],
+      "location_verdict": "FAIL",
+      "location_note": "Requires fully-remote-within-Portugal; not open to India-based candidates, no sponsorship language.",
+      "deadline": null
+    },
+    "https://gr.linkedin.com/jobs/view/senior-backend-engineer-node-js-%2B-aws-at-deel-4465240987": {
+      "title": "Senior Backend Engineer Node.js + AWS",
+      "company": "Deel",
+      "location": "Greece",
+      "url": "https://gr.linkedin.com/jobs/view/senior-backend-engineer-node-js-%2B-aws-at-deel-4465240987",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 62.5,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Strong Node.js/TypeScript/PostgreSQL/AWS serverless stack mirrors payment-stack hardening work",
+        "Deel is payroll/fintech-adjacent HR tech, aligning with fintech/payments target sector",
+        "Remote-first culture matches preference for flexible environments"
+      ],
+      "gaps": [
+        "Requires 8+ years experience vs. candidate's ~2-3 years - significant seniority gap",
+        "Unclear if remote hiring extends to India or includes visa/relocation support",
+        "No PTO/time-off details given"
+      ],
+      "location_verdict": "FLAG",
+      "location_note": "Described only as 'remote-first'; doesn't state if hiring extends to India or includes visa/relocation support.",
+      "deadline": null
+    },
+    "https://kz.linkedin.com/jobs/view/senior-backend-engineer-nestjs-typescript-at-leadwinner-ai-4487684090": {
+      "title": "Senior Backend Engineer (NestJS / TypeScript)",
+      "company": "LeadWinner.ai",
+      "location": "Kazakhstan",
+      "url": "https://kz.linkedin.com/jobs/view/senior-backend-engineer-nestjs-typescript-at-leadwinner-ai-4487684090",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 64.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Explicitly requires advanced AI coding tool experience (Cursor/Claude Code/Copilot) - direct match",
+        "NestJS/TypeScript/PostgreSQL/Redis/BullMQ/AWS/Docker near-exact stack match",
+        "Fully remote, flexible hours, direct founder collaboration suits autonomy preference"
+      ],
+      "gaps": [
+        "Salary $3,000-5,000/mo well below US-market/USD senior comp preference",
+        "Very early-stage sole-founder startup - disorganization/stability risk",
+        "No PTO stated; no fintech/iGaming/crypto domain overlap"
+      ],
+      "location_verdict": "PASS",
+      "location_note": "Explicitly 'Location: Remote', fully remote/flexible hours, no country restriction.",
+      "deadline": null
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-quo-4486490216": {
+      "title": "Senior Backend Engineer",
+      "company": "Quo",
+      "location": "Austin, TX",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-quo-4486490216",
+      "first_seen": "2026-11-10",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 72.2,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Near-exact stack match: Node.js/TypeScript, Postgres, MongoDB, Redis, RabbitMQ, Kubernetes on AWS, Datadog",
+        "Culture built on trust/autonomy/action, flexible PTO, encourages AI tool use",
+        "Senior IC role fits Staff/Principal IC track, not management"
+      ],
+      "gaps": [
+        "General business-communications SaaS, not fintech/iGaming/crypto - moderate domain match",
+        "Silent on remote eligibility outside US/Canada and visa sponsorship - the main blocker",
+        "Mentions possibly leading a small team - mild mismatch with IC-only preference"
+      ],
+      "location_verdict": "FAIL",
+      "location_note": "'Remote-first' but hiring explicitly scoped to US/Canada only with USD/CAD salary bands; no visa sponsorship mentioned for India-based candidates.",
+      "deadline": null
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__177387595__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer - Node.js/TypeScript, Serverless AWS",
+      "company": "Talpa",
+      "location": "Netherlands",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__177387595__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://fr.whatjobs.com/pub_api__cpl__161521002__7079?utm_campaign=publisher&utm_medium=api&geoID=2030&utm_source=freehire.me": {
+      "title": "Développeur Node.js/TypeScript — API & Backend d'Excellence",
+      "company": "eXalt",
+      "location": "Lyon, France",
+      "url": "https://fr.whatjobs.com/pub_api__cpl__161521002__7079?utm_campaign=publisher&utm_medium=api&geoID=2030&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__175282924__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer - Node.js/TypeScript, Serverless AWS",
+      "company": "Talpa",
+      "location": "Netherlands",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__175282924__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://t.me/jtbl_vacancy/4850?utm_source=freehire.me": {
+      "title": "Backend Developer (Node.js / TypeScript) — Payment Integrations",
+      "company": null,
+      "location": null,
+      "url": "https://t.me/jtbl_vacancy/4850?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__177392648__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer – Streaming Platform (Node.js/TypeScript)",
+      "company": "Doghouse Recruitment",
+      "location": "Netherlands",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__177392648__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/bytamic-solutions-backend-developer-with-german---node-js-typescript--warszawa-admin?utm_source=freehire.me": {
+      "title": "Backend Developer with German - Node.js / TypeScript",
+      "company": "Bytamic Solutions",
+      "location": "Warszawa",
+      "url": "https://justjoin.it/job-offer/bytamic-solutions-backend-developer-with-german---node-js-typescript--warszawa-admin?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 66.8,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Core stack direct match: strong TypeScript/Node.js, NestJS 'strongly preferred'",
+        "Explicitly fully remote, matching top location preference",
+        "Kafka/RabbitMQ/event-driven architecture, PostgreSQL optimization, Kubernetes nice-to-haves align"
+      ],
+      "gaps": [
+        "Requires German B1+ for stakeholder communication - not in candidate's language profile",
+        "B2B contract with no PTO/leave terms mentioned",
+        "Generic enterprise/consulting client work, not a target sector"
+      ],
+      "location_verdict": "PASS",
+      "location_note": "Posting explicitly states 'Fully remote work'; no onsite requirement.",
+      "deadline": "2026-11-28"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__175286333__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Backend Engineer – Streaming Platform (Node.js/TypeScript)",
+      "company": "Doghouse Recruitment",
+      "location": "Netherlands",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__175286333__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__616877291__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Node.js/TypeScript) — Scale a FinTech API",
+      "company": "Emma - we are hiring!",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__616877291__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__610015732__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Node.js / Typescript)",
+      "company": "TalentCo",
+      "location": "United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__610015732__7082?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://pt.whatjobs.com/pub_api__cpl__16876050__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Desenvolvedor Backend IoT Sênior (Node.js/TypeScript)",
+      "company": "Balancas Marques",
+      "location": "Portugal",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16876050__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/856970-senior-backend-engineer-node-js-typescript/?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Node.js / TypeScript)",
+      "company": "RecruitGarden",
+      "location": "Europe",
+      "url": "https://djinni.co/jobs/856970-senior-backend-engineer-node-js-typescript/?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 78.2,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Strong Node.js/TypeScript requirement matches primary stack directly",
+        "iGaming/regulated-product domain aligns closely with TrueIgTech background",
+        "Fully remote with unlimited PTO/sick leave, private medical, dev budget"
+      ],
+      "gaps": [
+        "Role is actually Compliance Engineering (certification/audit/ISO27001/SOC2) - narrower niche than core payments/concurrency focus",
+        "No direct experience with certification labs (GLI/BMM/eCOGRA) or RNG/RTP statistical certification",
+        "Posting's talent-pool framing suggests Europe/Ukraine intended region - soft fit signal, not a hard bar"
+      ],
+      "location_verdict": "PASS",
+      "location_note": "Fully remote, open to candidates in countries of Europe or Ukraine; no citizenship/clearance requirement stated.",
+      "deadline": null
+    },
+    "https://pl.whatjobs.com/pub_api__cpl__35035321__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Node.js/ TypeScript) Gdańsk Hybrid, Remote B2B",
+      "company": "Jit",
+      "location": "Poland",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__35035321__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__176256611__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Node.js/TypeScript, AWS",
+      "company": "Doghouse Recruitment",
+      "location": "Netherlands",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__176256611__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://recruiterflow.com/licornesociety/jobs/17730?utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Node.js / TypeScript) — Healthtech",
+      "company": "licornesociety",
+      "location": "Saint-Ouen-sur-Seine, France",
+      "url": "https://recruiterflow.com/licornesociety/jobs/17730?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://justjoin.it/job-offer/devsdata-llc-staff-backend-engineer-node-js-typescript--warszawa-javascript?utm_source=freehire.me": {
+      "title": "Staff Backend Engineer (Node.js/TypeScript)",
+      "company": "DevsData LLC",
+      "location": "Warszawa",
+      "url": "https://justjoin.it/job-offer/devsdata-llc-staff-backend-engineer-node-js-typescript--warszawa-javascript?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 79.5,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Strong Node.js/TypeScript/PostgreSQL match with payments/audit-trail systems experience, mirrors TrueIgTech payment-stack work",
+        "Explicitly values daily AI coding tool use (candidate uses Claude Code/Codex daily)",
+        "Staff-level IC ownership role (no people management) matches career track"
+      ],
+      "gaps": [
+        "Domain is logistics/workforce-management/HR-tech, not a target sector",
+        "8+ years backend experience requested vs. candidate's ~3 years",
+        "Unclear if remote is open globally or restricted to Poland/EU B2B"
+      ],
+      "location_verdict": "FLAG",
+      "location_note": "Listed as 'Remote' but is a Warsaw-based B2B contract with no explicit worldwide-remote or visa language for non-EU candidates.",
+      "deadline": "2026-11-20"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__588839695__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Node.js/TypeScript | Remote",
+      "company": "Reperio Human Capital Ltd",
+      "location": "Northern Ireland, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__588839695__7082?utm_campaign=publisher&utm_medium=api&geoID=7&utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/855706-senior-backend-developer-node-js-typescript/?utm_source=freehire.me": {
+      "title": "Senior BackEnd Developer (Node.js / TypeScript)",
+      "company": "Loza Studio",
+      "location": "UA",
+      "url": "https://djinni.co/jobs/855706-senior-backend-developer-node-js-typescript/?utm_source=freehire.me",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "freehire-search",
+      "rank_score": 57.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-11-10",
+      "strengths": [
+        "Strong direct stack match: Node.js/TypeScript/NestJS/Express/PostgreSQL/RabbitMQ/Redis/Docker/Prisma",
+        "Microservices/async messaging/API design aligns with backend-ownership experience",
+        "WebSocket/real-time nice-to-have matches real-time systems background (poker platform)"
+      ],
+      "gaps": [
+        "Requires native-level Ukrainian - candidate speaks only English/Hindi",
+        "Hybrid on-site Kyiv, hiring limited to Ukraine, no sponsorship - fails location eligibility",
+        "Generic 'Other' domain, not aligned with target sectors"
+      ],
+      "location_verdict": "FAIL",
+      "location_note": "Hybrid-remote based in Kyiv, Ukraine; hiring restricted to Ukraine; no visa sponsorship/relocation support; requires native-level Ukrainian.",
+      "deadline": null
+    },
+    "https://jobnet.dk/job/660e5f4b-0c8b-4213-ab61-df3e55c5c14a": {
+      "title": "Staff Engineer - Backend & Architecture",
+      "company": "MapsPeople",
+      "location": "Aalborg, Denmark",
+      "url": "https://jobnet.dk/job/660e5f4b-0c8b-4213-ab61-df3e55c5c14a",
+      "first_seen": "2026-11-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/d4b115f5-ec9a-4eb8-b78c-721c478f2cdf": {
+      "title": "Software Engineer til People & Talent Solutions i TV 2",
+      "company": "TV 2 Danmark A/S",
+      "location": "Odense, Denmark",
+      "url": "https://jobnet.dk/job/d4b115f5-ec9a-4eb8-b78c-721c478f2cdf",
+      "first_seen": "2026-11-10",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/76afdcab-65b6-4308-954e-d55bfa3c2698": {
+      "title": "Senior Android SDK Developer (AI-Native Engineering)",
+      "company": "MapsPeople",
+      "location": "Aalborg, Denmark",
+      "url": "https://jobnet.dk/job/76afdcab-65b6-4308-954e-d55bfa3c2698",
+      "first_seen": "2026-11-10",
+      "fit": "low",
+      "status": "expired",
+      "portal": "jobnet-search"
     }
   }
 }
