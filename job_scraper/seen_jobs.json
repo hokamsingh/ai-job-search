@@ -8717,6 +8717,816 @@
       ],
       "rank_location": "FLAG",
       "rank_deadline": "2026-12-16"
+    },
+    "https://my.linkedin.com/jobs/view/senior-backend-developer-nodejs-%2B-typescript-at-robert-walters-4491504021": {
+      "title": "Senior Backend Developer (Nodejs + Typescript)",
+      "company": "Robert Walters",
+      "url": "https://my.linkedin.com/jobs/view/senior-backend-developer-nodejs-%2B-typescript-at-robert-walters-4491504021",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/node-js-lead-i-software-engineering-at-ust-4488539374": {
+      "title": "Node JS Lead I - Software Engineering",
+      "company": "UST",
+      "url": "https://in.linkedin.com/jobs/view/node-js-lead-i-software-engineering-at-ust-4488539374",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-developer-node-js-typescript-%E2%80%94-healthtech-at-leonar-4491499169": {
+      "title": "Senior Backend Developer (Node.js / TypeScript) — Healthtech",
+      "company": "Leonar",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-developer-node-js-typescript-%E2%80%94-healthtech-at-leonar-4491499169",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226": {
+      "title": "Sénior Back End Developer Node.Js (H/F)",
+      "company": "MyUnisoft",
+      "url": "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/back-end-engineer-node-js-typescript-at-michael-page-4491396538": {
+      "title": "Back end Engineer Node.js/TypeScript",
+      "company": "Michael Page",
+      "url": "https://es.linkedin.com/jobs/view/back-end-engineer-node-js-typescript-at-michael-page-4491396538",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217": {
+      "title": "Software Engineer, Backend (Node.js)",
+      "company": "Anthill",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://au.linkedin.com/jobs/view/backend-typescript-engineer-at-codi-recruitment-4492132243": {
+      "title": "Backend TypeScript Engineer",
+      "company": "Codi Recruitment",
+      "url": "https://au.linkedin.com/jobs/view/backend-typescript-engineer-at-codi-recruitment-4492132243",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://gr.linkedin.com/jobs/view/senior-back-end-developer-nodejs-%40-thessaloniki-patra-ioannina-crete-at-deloitte-4486760307": {
+      "title": "Senior Back-End Developer (NodeJS) @ Thessaloniki, Patra, Ioannina & Crete",
+      "company": "Deloitte",
+      "url": "https://gr.linkedin.com/jobs/view/senior-back-end-developer-nodejs-%40-thessaloniki-patra-ioannina-crete-at-deloitte-4486760307",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://se.linkedin.com/jobs/view/backend-engineer-api-at-quartr-4487368071": {
+      "title": "Backend Engineer - API",
+      "company": "Quartr",
+      "url": "https://se.linkedin.com/jobs/view/backend-engineer-api-at-quartr-4487368071",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/sde-2-backend-at-baazi-games-4490411257": {
+      "title": "SDE-2 (Backend)",
+      "company": "Baazi Games",
+      "url": "https://in.linkedin.com/jobs/view/sde-2-backend-at-baazi-games-4490411257",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/nodejs-developer-at-adani-enterprises-limited-4489202769": {
+      "title": "NodeJS Developer",
+      "company": "Adani Enterprises Limited",
+      "url": "https://in.linkedin.com/jobs/view/nodejs-developer-at-adani-enterprises-limited-4489202769",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-brazil-at-kake-4490829022": {
+      "title": "Senior Backend (NodeJS) Engineer - Remote - Brazil",
+      "company": "Kake",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-brazil-at-kake-4490829022",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/lead-software-engineer-node-js-%2B-graphql-at-epam-systems-4487647158": {
+      "title": "Lead Software Engineer - Node.js + GraphQL",
+      "company": "EPAM Systems",
+      "url": "https://in.linkedin.com/jobs/view/lead-software-engineer-node-js-%2B-graphql-at-epam-systems-4487647158",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://co.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-colombia-at-kake-4490808992": {
+      "title": "Senior Backend (NodeJS) Engineer - Remote - Colombia",
+      "company": "Kake",
+      "url": "https://co.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-colombia-at-kake-4490808992",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857": {
+      "title": "Software Engineer, Bridge",
+      "company": "Stripe",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://tr.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4487933792": {
+      "title": "Senior Payments Engineer — Acquiring & Payment Processing",
+      "company": "Sezzle",
+      "url": "https://tr.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4487933792",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294": {
+      "title": "(Senior) Backend Engineer (Golang) - Bank",
+      "company": "SumUp",
+      "url": "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4487950475": {
+      "title": "Senior Payments Engineer — Acquiring & Payment Processing",
+      "company": "Sezzle",
+      "url": "https://br.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4487950475",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-expeience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4492424375": {
+      "title": "Senior Backend Engineer | B2B AI Payments, Card Expeience, Start-Up | London | Hybrid 2 Days | Up to £130,000 +Benefits & Equity",
+      "company": "Owen Thomas | B Corp™",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-expeience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4492424375",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-payments-and-cards-at-bits-4489920391": {
+      "title": "Senior Backend Engineer, payments and cards",
+      "company": "Bits",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-payments-and-cards-at-bits-4489920391",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://be.linkedin.com/jobs/view/backend-engineer-sports-betting-ghent-belgium-at-gaming1-4488710563": {
+      "title": "BACKEND ENGINEER - SPORTS BETTING (GHENT - BELGIUM)",
+      "company": "GAMING1",
+      "url": "https://be.linkedin.com/jobs/view/backend-engineer-sports-betting-ghent-belgium-at-gaming1-4488710563",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-calialfa-previously-alfabet-4488219961": {
+      "title": "Senior Backend Engineer",
+      "company": "CaliAlfa (Previously Alfabet)",
+      "url": "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-calialfa-previously-alfabet-4488219961",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-punt-4479586579": {
+      "title": "Senior Backend Engineer",
+      "company": "Punt",
+      "url": "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-punt-4479586579",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-software-engineer-backend-at-draftkings-inc-4467556994": {
+      "title": "Senior Software Engineer. Backend",
+      "company": "DraftKings Inc.",
+      "url": "https://ie.linkedin.com/jobs/view/senior-software-engineer-backend-at-draftkings-inc-4467556994",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-gamification-at-prizepicks-4461912068": {
+      "title": "Senior Software Engineer (Gamification)",
+      "company": "PrizePicks",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-gamification-at-prizepicks-4461912068",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026": {
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Block Labs",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-back-end-engineer-ruby-on-rails-go-at-prizepicks-4427188083": {
+      "title": "Senior Back End Engineer (Ruby on Rails & GO)",
+      "company": "PrizePicks",
+      "url": "https://www.linkedin.com/jobs/view/senior-back-end-engineer-ruby-on-rails-go-at-prizepicks-4427188083",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://se.linkedin.com/jobs/view/backend-programmer-apex-connect-at-avalanche-studios-group-4470976212": {
+      "title": "Backend Programmer (Apex connect)",
+      "company": "Avalanche Studios Group",
+      "url": "https://se.linkedin.com/jobs/view/backend-programmer-apex-connect-at-avalanche-studios-group-4470976212",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/senior-software-engineer-backend-at-skillz-4490312716": {
+      "title": "Senior Software Engineer - Backend",
+      "company": "Skillz",
+      "url": "https://in.linkedin.com/jobs/view/senior-software-engineer-backend-at-skillz-4490312716",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351186898": {
+      "title": "Senior Software Engineer",
+      "company": "Circle",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351186898",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351156757": {
+      "title": "Senior Software Engineer",
+      "company": "Circle",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-circle-4351156757",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ru.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324979717": {
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Block Labs",
+      "url": "https://ru.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324979717",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-software-engineer-web3-backend-at-robinhood-4474441521": {
+      "title": "Senior Software Engineer, Web3 Backend",
+      "company": "Robinhood",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-web3-backend-at-robinhood-4474441521",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://nl.linkedin.com/jobs/view/senior-backend-engineer-securities-trading-at-bitvavo-4483111539": {
+      "title": "Senior Backend Engineer - Securities Trading",
+      "company": "Bitvavo",
+      "url": "https://nl.linkedin.com/jobs/view/senior-backend-engineer-securities-trading-at-bitvavo-4483111539",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/senior-backend-engineer-at-delta6labs-4489453531": {
+      "title": "Senior Backend Engineer",
+      "company": "Delta6Labs",
+      "url": "https://in.linkedin.com/jobs/view/senior-backend-engineer-at-delta6labs-4489453531",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://nl.linkedin.com/jobs/view/senior-backend-engineer-low-latency-at-bitvavo-4483102667": {
+      "title": "Senior Backend Engineer - Low Latency",
+      "company": "Bitvavo",
+      "url": "https://nl.linkedin.com/jobs/view/senior-backend-engineer-low-latency-at-bitvavo-4483102667",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/backend-engineer-blockchain-assistant-vice-president-at-icapital-4411414524": {
+      "title": "Backend Engineer, Blockchain - Assistant Vice President",
+      "company": "iCapital",
+      "url": "https://www.linkedin.com/jobs/view/backend-engineer-blockchain-assistant-vice-president-at-icapital-4411414524",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://gr.linkedin.com/jobs/view/senior-software-engineer-ccip-at-chainlink-labs-4445979725": {
+      "title": "Senior Software Engineer CCIP",
+      "company": "Chainlink Labs",
+      "url": "https://gr.linkedin.com/jobs/view/senior-software-engineer-ccip-at-chainlink-labs-4445979725",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ve.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-remote-work-ref%23310862-at-bairesdev-4491718140": {
+      "title": "Staff Software Engineer (Node.js, AWS) - Remote Work | REF#310862",
+      "company": "BairesDev",
+      "url": "https://ve.linkedin.com/jobs/view/staff-software-engineer-node-js-aws-remote-work-ref%23310862-at-bairesdev-4491718140",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/nodejs-specialist-i-software-engineering-at-ust-4490477190": {
+      "title": "NodeJS Specialist I - Software Engineering",
+      "company": "UST",
+      "url": "https://in.linkedin.com/jobs/view/nodejs-specialist-i-software-engineering-at-ust-4490477190",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793": {
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "remoteok-search"
+    },
+    "https://www.linkedin.com/jobs/view/4488996014/?utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer | 100% Remote | Full-Time W2 | No C2C",
+      "company": "Redolent, Inc",
+      "url": "https://www.linkedin.com/jobs/view/4488996014/?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__634307067__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer (Hybrid) – AWS, Serverless & TypeScript",
+      "company": "Opus Recruitment Solutions Limited",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__634307067__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.naukri.com/job-listings-node-js-backend-developer-infinite-gurugram-bengaluru-3-to-6-years-181126036510?utm_source=freehire.me": {
+      "title": "Node Js Backend Developer",
+      "company": "Infinite",
+      "url": "https://www.naukri.com/job-listings-node-js-backend-developer-infinite-gurugram-bengaluru-3-to-6-years-181126036510?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4491500085/?utm_source=freehire.me": {
+      "title": "Node.js Backend Developer",
+      "company": "AiLogic Neural Network Pvt Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4491500085/?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://es-mx.whatjobs.com/pub_api__cpl__258712646__7108?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me": {
+      "title": "Node.js BackEnd Developer AWS",
+      "company": "Softtek",
+      "url": "https://es-mx.whatjobs.com/pub_api__cpl__258712646__7108?utm_campaign=publisher&utm_medium=api&geoID=15&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://pl.whatjobs.com/pub_api__cpl__35737764__7143?utm_campaign=publisher&utm_medium=api&geoID=43714&utm_source=freehire.me": {
+      "title": "Node.js Backend Developer",
+      "company": "Greenminds",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__35737764__7143?utm_campaign=publisher&utm_medium=api&geoID=43714&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ph.whatjobs.com/pub_api__cpl__66828508__7115?utm_campaign=publisher&utm_medium=api&geoID=41773&utm_source=freehire.me": {
+      "title": "Node.js Backend & API Engineer",
+      "company": "Questronix Corporation",
+      "url": "https://en-ph.whatjobs.com/pub_api__cpl__66828508__7115?utm_campaign=publisher&utm_medium=api&geoID=41773&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__175839837__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer — Scalable Systems & R&D",
+      "company": "Evoke",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__175839837__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__173766776__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Node.js Backend Developer | tot €6.312",
+      "company": "Evoke",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__173766776__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nl.whatjobs.com/pub_api__cpl__175841433__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Node.js Backend Developer",
+      "company": "Evoke",
+      "url": "https://nl.whatjobs.com/pub_api__cpl__175841433__7137?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ca.whatjobs.com/pub_api__cpl__162215376__7103?utm_campaign=publisher&utm_medium=api&geoID=6399&utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer React",
+      "company": "Electronic Arts",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__162215376__7103?utm_campaign=publisher&utm_medium=api&geoID=6399&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.shine.com/jobs/node-js-backend-developer/tekskills-inc/20089764?utm_source=freehire.me": {
+      "title": "Node Js Backend Developer",
+      "company": "Tekskills Inc.",
+      "url": "https://www.shine.com/jobs/node-js-backend-developer/tekskills-inc/20089764?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/gb/job/node-js-backend-engineer-hybrid-aws-serverless-typescript--newcastle-upon-tyne--e54130470cd208a3e6a518454352da13c?utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer (Hybrid) – AWS, Serverless & TypeScript",
+      "company": "Opus RS",
+      "url": "https://www.jobleads.com/gb/job/node-js-backend-engineer-hybrid-aws-serverless-typescript--newcastle-upon-tyne--e54130470cd208a3e6a518454352da13c?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://brightvisiontechnologies.applytojob.com/apply/B2ZBXOAx9P/Nodejs-Backend-Developer?utm_source=freehire.me": {
+      "title": "Node.js Backend Developer",
+      "company": "Bright Vision Technologies",
+      "url": "https://brightvisiontechnologies.applytojob.com/apply/B2ZBXOAx9P/Nodejs-Backend-Developer?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__627993443__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer — Remote, 25 Days Leave, Pension",
+      "company": "Stealth IT Consulting",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__627993443__7082?utm_campaign=publisher&utm_medium=api&geoID=328&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.shine.com/jobs/nodejs-backend-architect-aws-serverless/naveera-technology-llc/20074362?utm_source=freehire.me": {
+      "title": "Node.js Backend Architect & AWS Serverless",
+      "company": "Naveera Technology LLC",
+      "url": "https://www.shine.com/jobs/nodejs-backend-architect-aws-serverless/naveera-technology-llc/20074362?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ca.whatjobs.com/pub_api__cpl__160494424__7103?utm_campaign=publisher&utm_medium=api&geoID=6399&utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer React",
+      "company": "Electronic Arts (EA)",
+      "url": "https://en-ca.whatjobs.com/pub_api__cpl__160494424__7103?utm_campaign=publisher&utm_medium=api&geoID=6399&utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.shine.com/jobs/nodejs-backend-engineer-trainee/giri-consultancy/20041544?utm_source=freehire.me": {
+      "title": "Node.js Backend Engineer Trainee",
+      "company": "GIRI CONSULTANCY",
+      "url": "https://www.shine.com/jobs/nodejs-backend-engineer-trainee/giri-consultancy/20041544?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.shine.com/jobs/nodejs-backend-developer/tymblhub/20037627?utm_source=freehire.me": {
+      "title": "Node.js Backend Developer",
+      "company": "TymblHub",
+      "url": "https://www.shine.com/jobs/nodejs-backend-developer/tymblhub/20037627?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.shine.com/jobs/nodejs-developerbackend-apisai-llm-for-us-based-product-co-in-pune/uplers/20072074?utm_source=freehire.me": {
+      "title": "Node.js Developer(Backend APIs,AI/LLM) For US based Product Co in Pune",
+      "company": "Uplers",
+      "url": "https://www.shine.com/jobs/nodejs-developerbackend-apisai-llm-for-us-based-product-co-in-pune/uplers/20072074?utm_source=freehire.me",
+      "first_seen": "2026-11-19",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1718009": {
+      "title": "Backend Developer - FOSS IQX",
+      "company": "FOSS",
+      "url": "https://www.jobindex.dk/jobannonce/h1718009",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1700188": {
+      "title": "Business Developer, OT/IT Software & Manufacturing IT Solutions",
+      "company": "Eltronic A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1700188",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1717887": {
+      "title": "Embedded Software Developer – R&D",
+      "company": "Scanvaegt Systems A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1717887",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716135": {
+      "title": "Senior SAP Developer",
+      "company": "Grundfos A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1716135",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716781": {
+      "title": "Senior Azure Application Developer",
+      "company": "twoday A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1716781",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716771": {
+      "title": "Lead Developer with AI Experience",
+      "company": "twoday A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1716771",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716196": {
+      "title": "Senior Backend Developer til it-systemerne bag SU",
+      "company": "ATP",
+      "url": "https://www.jobindex.dk/jobannonce/h1716196",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716197": {
+      "title": "Junior Backend Developer til it-systemerne bag SU",
+      "company": "ATP",
+      "url": "https://www.jobindex.dk/jobannonce/h1716197",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716490": {
+      "title": "Full stack developer",
+      "company": "Nic. Christiansen Gruppen",
+      "url": "https://www.jobindex.dk/jobannonce/h1716490",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716496": {
+      "title": "Frontend Developer til SU-systemerne",
+      "company": "ATP",
+      "url": "https://www.jobindex.dk/jobannonce/h1716496",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1708221": {
+      "title": "Senior developer til Forsvarets AI Center",
+      "company": "Forsvaret",
+      "url": "https://www.jobindex.dk/jobannonce/h1708221",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1713220": {
+      "title": "HMI & Industrial Systems Developer",
+      "company": "Dynelectro ApS",
+      "url": "https://www.jobindex.dk/jobannonce/h1713220",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14110744": {
+      "title": "Software Engineer(Backend)",
+      "company": "Teton.ai ApS",
+      "url": "https://www.jobindex.dk/jobannonce/r14110744",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14110745": {
+      "title": "Software Engineer(Product Backend)",
+      "company": "Teton.ai ApS",
+      "url": "https://www.jobindex.dk/jobannonce/r14110745",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14102225": {
+      "title": "Senior Backend Engineer",
+      "company": "Spirii Aps",
+      "url": "https://www.jobindex.dk/jobannonce/r14102225",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14106123": {
+      "title": "Full-stack Developer",
+      "company": "Aiomic ApS",
+      "url": "https://www.jobindex.dk/jobannonce/r14106123",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14109687": {
+      "title": "AI-native Full-stack Developer with ML (part-time/student)",
+      "company": "Anemo Robotics",
+      "url": "https://www.jobindex.dk/jobannonce/r14109687",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14107479": {
+      "title": "Business Developer",
+      "company": "Mover Systems ApS",
+      "url": "https://www.jobindex.dk/jobannonce/r14107479",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/r14107481": {
+      "title": "Mid Level Backend Engineer - Roaming",
+      "company": "Monta ApS",
+      "url": "https://www.jobindex.dk/jobannonce/r14107481",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://jobdanmark.dk/job/it-udvikler-stilling-i-nyoprettet-team-hos-brdr-ao-johansen-as": {
+      "title": "IT-Udvikler stilling i nyoprettet team hos Brdr A&O Johansen A/S",
+      "company": "Krüger Search",
+      "url": "https://jobdanmark.dk/job/it-udvikler-stilling-i-nyoprettet-team-hos-brdr-ao-johansen-as",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/dygtig-teamleder-til-it-udviklingsteam-tilbydes-spaendende-stilling-hos-brdr-ao-johansen-as": {
+      "title": "Dygtig Teamleder til IT-Udviklingsteam tilbydes spændende stilling hos Brdr A&O Johansen A/S",
+      "company": "Krüger Search",
+      "url": "https://jobdanmark.dk/job/dygtig-teamleder-til-it-udviklingsteam-tilbydes-spaendende-stilling-hos-brdr-ao-johansen-as",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobdanmark.dk/job/dygtig-it-udvikler-tilbydes-spaendende-stilling-hos-brdr-ao-johansen-as": {
+      "title": "Dygtig IT-Udvikler tilbydes spændende stilling hos Brdr A&O Johansen A/S",
+      "company": "Krüger Search",
+      "url": "https://jobdanmark.dk/job/dygtig-it-udvikler-tilbydes-spaendende-stilling-hos-brdr-ao-johansen-as",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobdanmark-search"
+    },
+    "https://jobnet.dk/job/018e950c-6f69-457d-b239-8d5957333881": {
+      "title": "Senior Software Engineer",
+      "company": "Celvivo",
+      "url": "https://jobnet.dk/job/018e950c-6f69-457d-b239-8d5957333881",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/33e89e19-07cd-4ddd-83ac-cb3305e0b20f": {
+      "title": "AI & Cloud Software Engineer",
+      "company": "Demant",
+      "url": "https://jobnet.dk/job/33e89e19-07cd-4ddd-83ac-cb3305e0b20f",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/3cfd47df-4ecc-43c1-8a85-a0b104a7d305": {
+      "title": "AI Engineer",
+      "company": "Board Intelligence",
+      "url": "https://jobnet.dk/job/3cfd47df-4ecc-43c1-8a85-a0b104a7d305",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/a94c5764-330d-4f45-a362-06e35f90d753": {
+      "title": "Backend Software Developer - Team Sports Applications",
+      "company": "Trackman",
+      "url": "https://jobnet.dk/job/a94c5764-330d-4f45-a362-06e35f90d753",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/ab5dd518-fdbc-4f86-8499-d85c8665ba32": {
+      "title": "Senior Software Engineer – Payments",
+      "company": "OrderYOYO",
+      "url": "https://jobnet.dk/job/ab5dd518-fdbc-4f86-8499-d85c8665ba32",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/e6b5d31b-6d8f-417b-83c9-fc42b9584bb9": {
+      "title": "Software Engineer - Integrations",
+      "company": "Trackunit",
+      "url": "https://jobnet.dk/job/e6b5d31b-6d8f-417b-83c9-fc42b9584bb9",
+      "first_seen": "2026-11-19",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/b33de4e9-69cb-47ef-9a26-c631ad276bdd": {
+      "title": "Senior Software Developer (blind recruitment)",
+      "company": "DEIF",
+      "url": "https://jobnet.dk/job/b33de4e9-69cb-47ef-9a26-c631ad276bdd",
+      "first_seen": "2026-11-19",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "jobnet-search"
     }
   }
 }
