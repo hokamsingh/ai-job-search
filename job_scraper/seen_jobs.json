@@ -8717,6 +8717,627 @@
       ],
       "rank_location": "FLAG",
       "rank_deadline": "2026-12-16"
+    },
+    "https://my.linkedin.com/jobs/view/senior-backend-developer-nodejs-%2B-typescript-at-robert-walters-4491504021": {
+      "title": "Senior Backend Developer (Nodejs + Typescript)",
+      "company": "Robert Walters",
+      "url": "https://my.linkedin.com/jobs/view/senior-backend-developer-nodejs-%2B-typescript-at-robert-walters-4491504021",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4490730002": {
+      "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x) - London",
+      "company": "Atolls",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4490730002",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4490709879": {
+      "title": "Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x) - Paris",
+      "company": "Atolls",
+      "url": "https://fr.linkedin.com/jobs/view/senior-backend-software-engineer-typescript-nestjs-node-js-m-f-x-at-atolls-4490709879",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/node-js-lead-i-software-engineering-at-ust-4488539374": {
+      "title": "Node JS Lead I - Software Engineering",
+      "company": "UST",
+      "url": "https://in.linkedin.com/jobs/view/node-js-lead-i-software-engineering-at-ust-4488539374",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217": {
+      "title": "Software Engineer, Backend (Node.js)",
+      "company": "Anthill",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226": {
+      "title": "Sénior Back End Developer Node.Js (H/F)",
+      "company": "MyUnisoft",
+      "url": "https://ma.linkedin.com/jobs/view/s%C3%A9nior-back-end-developer-node-js-h-f-at-myunisoft-4483727226",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/back-end-engineer-node-js-typescript-at-michael-page-4491396538": {
+      "title": "Back end Engineer Node.js/TypeScript",
+      "company": "Michael Page",
+      "url": "https://es.linkedin.com/jobs/view/back-end-engineer-node-js-typescript-at-michael-page-4491396538",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/engenheiro-a-de-software-back-end%E2%80%AFnode-js-investment-products-at-btg-pactual-4467237835": {
+      "title": "Engenheiro(a) de Software (Back-end Node.js) - INVESTMENT PRODUCTS",
+      "company": "BTG Pactual",
+      "url": "https://br.linkedin.com/jobs/view/engenheiro-a-de-software-back-end%E2%80%AFnode-js-investment-products-at-btg-pactual-4467237835",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://eg.linkedin.com/jobs/view/mid-level-backend-engineer-node-js-nestjs-remote-egypt-at-fullstack-4489168624": {
+      "title": "Mid-level Backend Engineer - Node.js & NestJS - Remote - Egypt",
+      "company": "FullStack",
+      "url": "https://eg.linkedin.com/jobs/view/mid-level-backend-engineer-node-js-nestjs-remote-egypt-at-fullstack-4489168624",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/senior-node-js-backend-engineer-at-enterprise-bot-4491932342": {
+      "title": "Senior Node.js Backend Engineer",
+      "company": "Enterprise Bot",
+      "url": "https://in.linkedin.com/jobs/view/senior-node-js-backend-engineer-at-enterprise-bot-4491932342",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-backend-engineer-100%25-remote-full-time-w2-no-c2c-at-redolent-inc-4488996014": {
+      "title": "Node.js Backend Engineer | 100% Remote | Full-Time W2 | No C2C",
+      "company": "Redolent, Inc",
+      "url": "https://www.linkedin.com/jobs/view/node-js-backend-engineer-100%25-remote-full-time-w2-no-c2c-at-redolent-inc-4488996014",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-nodejs-typescript-engineer-at-talent-software-services-4487172175": {
+      "title": "Senior Backend Nodejs-TypeScript Engineer",
+      "company": "TALENT Software Services",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-nodejs-typescript-engineer-at-talent-software-services-4487172175",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/forward-deployed-engineer-typescript-%2B-ai-remote-usa-at-fullstack-4482187068": {
+      "title": "Forward Deployed Engineer (TypeScript + AI) - Remote - USA",
+      "company": "FullStack",
+      "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-typescript-%2B-ai-remote-usa-at-fullstack-4482187068",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__634267446__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Senior Payments Backend Engineer - Node.js & FinTech",
+      "company": "Transak",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__634267446__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-my.whatjobs.com/pub_api__cpl__27100405__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me": {
+      "title": "Senior Fintech Backend Engineer - Payments & Ledger",
+      "company": "Gsfbanking",
+      "url": "https://en-my.whatjobs.com/pub_api__cpl__27100405__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ae/job/remote-backend-node-js-engineer-fintech-crypto-payments--united-arab-emirates--e94650d7bb046a1dda6e3756b7214efcf?utm_source=freehire.me": {
+      "title": "Remote Backend Node.js Engineer — Fintech & Crypto Payments",
+      "company": "StairwaySoft Ltd",
+      "url": "https://www.jobleads.com/ae/job/remote-backend-node-js-engineer-fintech-crypto-payments--united-arab-emirates--e94650d7bb046a1dda6e3756b7214efcf?utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobbank.dk/en/job/2692090/spirii/backend-software-developer": {
+      "title": "Backend Software Developer",
+      "company": "Spirii",
+      "url": "https://jobbank.dk/en/job/2692090/spirii/backend-software-developer",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://jobbank.dk/en/job/2708518/pandektes-aps/senior-staff-backend-engineer": {
+      "title": "Senior Staff Backend Engineer",
+      "company": "Pandektes",
+      "url": "https://jobbank.dk/en/job/2708518/pandektes-aps/senior-staff-backend-engineer",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://jobbank.dk/en/job/3108775/lunar-aps/backend-engineer/": {
+      "title": "Backend Engineer",
+      "company": "Lunar",
+      "url": "https://jobbank.dk/en/job/3108775/lunar-aps/backend-engineer/",
+      "first_seen": "2026-11-21",
+      "fit": "high",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-foundations-at-quo-4488082704": {
+      "title": "Staff Backend Engineer, Foundations - New York",
+      "company": "Quo",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-foundations-at-quo-4488082704",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-at-teamsnap-4458795251": {
+      "title": "Staff Backend Engineer",
+      "company": "TeamSnap",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-at-teamsnap-4458795251",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857": {
+      "title": "Software Engineer, Bridge",
+      "company": "Stripe",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294": {
+      "title": "(Senior) Backend Engineer (Golang) - Bank",
+      "company": "SumUp",
+      "url": "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-expeience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4492424375": {
+      "title": "Senior Backend Engineer | B2B AI Payments, Card Experience, Start-Up | London",
+      "company": "Owen Thomas | B Corp™",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-expeience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4492424375",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-payments-and-cards-at-bits-4489920391": {
+      "title": "Senior Backend Engineer, payments and cards",
+      "company": "Bits",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-payments-and-cards-at-bits-4489920391",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/backend-api-engineer-money-as-a-service-at-stripe-4477865570": {
+      "title": "Backend/API Engineer, Money as a Service",
+      "company": "Stripe",
+      "url": "https://www.linkedin.com/jobs/view/backend-api-engineer-money-as-a-service-at-stripe-4477865570",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://sg.linkedin.com/jobs/view/senior-software-engineer-global-payments-engineering-at-payermax-4469597004": {
+      "title": "Senior Software Engineer, Global Payments Engineering",
+      "company": "PayerMax",
+      "url": "https://sg.linkedin.com/jobs/view/senior-software-engineer-global-payments-engineering-at-payermax-4469597004",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://it.linkedin.com/jobs/view/software-engineer-iii-backend-consumer-payment-services-domain-at-satispay-4397629412": {
+      "title": "Software Engineer III, Backend - Consumer Payment & Services Domain",
+      "company": "Satispay",
+      "url": "https://it.linkedin.com/jobs/view/software-engineer-iii-backend-consumer-payment-services-domain-at-satispay-4397629412",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-at-monzo-4386844250": {
+      "title": "Senior Backend Engineer",
+      "company": "Monzo",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-at-monzo-4386844250",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/staff-backend-engineer-at-monzo-4386833571": {
+      "title": "Staff Backend Engineer",
+      "company": "Monzo",
+      "url": "https://uk.linkedin.com/jobs/view/staff-backend-engineer-at-monzo-4386833571",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://en-sa.whatjobs.com/pub_api__cpl__11005993__7118?utm_campaign=publisher&utm_medium=api&geoID=18992&utm_source=freehire.me": {
+      "title": "Senior Fintech Backend Engineer - Payments & Checkout",
+      "company": "Salla",
+      "url": "https://en-sa.whatjobs.com/pub_api__cpl__11005993__7118?utm_campaign=publisher&utm_medium=api&geoID=18992&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__636358032__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Senior Blockchain & Backend Engineer – Fintech & Payments",
+      "company": "HCLTech",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__636358032__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/cl/job/senior-net-backend-engineer-fintech-payments-platform--santiago--eacc5176b0b8f01c2ea4a21e7f2795f36?utm_source=freehire.me": {
+      "title": "Senior .NET Backend Engineer - FinTech Payments Platform",
+      "company": "BairesDev",
+      "url": "https://www.jobleads.com/cl/job/senior-net-backend-engineer-fintech-payments-platform--santiago--eacc5176b0b8f01c2ea4a21e7f2795f36?utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-my.whatjobs.com/pub_api__cpl__26994364__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me": {
+      "title": "Lead Senior Backend Engineer — Fintech & Payments",
+      "company": "Finexus Group",
+      "url": "https://en-my.whatjobs.com/pub_api__cpl__26994364__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-pk.whatjobs.com/pub_api__cpl__5488843__7116?utm_campaign=publisher&utm_medium=api&geoID=165&utm_source=freehire.me": {
+      "title": "Remote Laravel Backend Engineer - FinTech & Payments",
+      "company": "PayOn",
+      "url": "https://en-pk.whatjobs.com/pub_api__cpl__5488843__7116?utm_campaign=publisher&utm_medium=api&geoID=165&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/id/job/senior-backend-engineer-fintech-payments-remote--jakarta-pusat--e1740a6037cd1e1ad7a6506c9027376c6?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Fintech Payments (Remote)",
+      "company": "Ajaib",
+      "url": "https://www.jobleads.com/id/job/senior-backend-engineer-fintech-payments-remote--jakarta-pusat--e1740a6037cd1e1ad7a6506c9027376c6?utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nz.whatjobs.com/pub_api__cpl__16431077__7139?utm_campaign=publisher&utm_medium=api&geoID=114&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer — Fintech Payments Platform (posted identically across 3 NZ listings)",
+      "company": "Arvion Services",
+      "url": "https://nz.whatjobs.com/pub_api__cpl__16431077__7139?utm_campaign=publisher&utm_medium=api&geoID=114&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nz.whatjobs.com/pub_api__cpl__16303373__7139?utm_campaign=publisher&utm_medium=api&geoID=114&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Fintech Payments Platform (dup posting, Christchurch)",
+      "company": "Arvion Services",
+      "url": "https://nz.whatjobs.com/pub_api__cpl__16303373__7139?utm_campaign=publisher&utm_medium=api&geoID=114&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nz.whatjobs.com/pub_api__cpl__16230572__7139?utm_campaign=publisher&utm_medium=api&geoID=1&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Fintech Payments Platform (dup posting, Auckland)",
+      "company": "Arvion Services",
+      "url": "https://nz.whatjobs.com/pub_api__cpl__16230572__7139?utm_campaign=publisher&utm_medium=api&geoID=1&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://pl.whatjobs.com/pub_api__cpl__36963643__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me": {
+      "title": "Java Backend Engineer - Fintech Payments",
+      "company": "Payair Technologies",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__36963643__7143?utm_campaign=publisher&utm_medium=api&geoID=3277&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://pl.whatjobs.com/pub_api__cpl__34443503__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Java Backend Engineer — FinTech Payments & Settlements",
+      "company": "Flix",
+      "url": "https://pl.whatjobs.com/pub_api__cpl__34443503__7143?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.careers-page.com/maxit-consulting-jobs/job/638R8R65?utm_source=freehire.me": {
+      "title": "Senior Payments Engineer – Ledger & Backend Systems (Fintech)",
+      "company": "MaxIT Consulting - Max Corporate Group",
+      "url": "https://www.careers-page.com/maxit-consulting-jobs/job/638R8R65?utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://pt.whatjobs.com/pub_api__cpl__16842663__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Payments Tech Lead (Go) - Backend Leader in FinTech",
+      "company": "UMO",
+      "url": "https://pt.whatjobs.com/pub_api__cpl__16842663__7145?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-my.whatjobs.com/pub_api__cpl__27089050__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me": {
+      "title": "Backend Engineer - AI-Driven FinTech & Payments",
+      "company": "Bybit Limited",
+      "url": "https://en-my.whatjobs.com/pub_api__cpl__27089050__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-za.whatjobs.com/pub_api__cpl__64456428__7122?utm_campaign=publisher&utm_medium=api&geoID=1405&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - FinTech, Cloud & Payments",
+      "company": "iKhokha",
+      "url": "https://en-za.whatjobs.com/pub_api__cpl__64456428__7122?utm_campaign=publisher&utm_medium=api&geoID=1405&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://en-ph.whatjobs.com/pub_api__cpl__67527030__7115?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Django | FinTech AI & Payments",
+      "company": "Teamified",
+      "url": "https://en-ph.whatjobs.com/pub_api__cpl__67527030__7115?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://placer.ai/company/we-are-hiring/?gh_jid=7853136003&utm_source=freehire.me": {
+      "title": "Backend Engineer - Mobile Platform",
+      "company": "Placer.ai",
+      "url": "https://placer.ai/company/we-are-hiring/?gh_jid=7853136003&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716196": {
+      "title": "Senior Backend Developer til it-systemerne bag SU",
+      "company": "ATP",
+      "url": "https://www.jobindex.dk/jobannonce/h1716196",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716771": {
+      "title": "Lead Developer with AI Experience",
+      "company": "twoday A/S",
+      "url": "https://www.jobindex.dk/jobannonce/h1716771",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1718009": {
+      "title": "Backend Developer - FOSS IQX",
+      "company": "FOSS",
+      "url": "https://www.jobindex.dk/jobannonce/h1718009",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://jobnet.dk/job/fdf04329-7a08-4a63-a0c0-7d7407673e0e": {
+      "title": "Senior Backend Software Engineer (posted identically in Aalborg/Aarhus/unspecified)",
+      "company": "Trackunit",
+      "url": "https://jobnet.dk/job/fdf04329-7a08-4a63-a0c0-7d7407673e0e",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/e591888e-3936-4c98-af52-3e60178ef02a": {
+      "title": "Senior Backend Software Engineer (dup posting)",
+      "company": "Trackunit",
+      "url": "https://jobnet.dk/job/e591888e-3936-4c98-af52-3e60178ef02a",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/6120d26f-d396-40bb-8846-232c3597f4c5": {
+      "title": "Senior Backend Software Engineer (dup posting, Aarhus)",
+      "company": "Trackunit",
+      "url": "https://jobnet.dk/job/6120d26f-d396-40bb-8846-232c3597f4c5",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/99d34bda-a64c-44fe-a4d8-703e4db22c60": {
+      "title": "Senior Backend Engineer",
+      "company": "Pandektes",
+      "url": "https://jobnet.dk/job/99d34bda-a64c-44fe-a4d8-703e4db22c60",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://jobnet.dk/job/40838438-e9b2-45f8-9c88-a3977e293cb7": {
+      "title": "Senior Software Engineer — Wealth Management Systems",
+      "company": "Performativ",
+      "url": "https://jobnet.dk/job/40838438-e9b2-45f8-9c88-a3977e293cb7",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobnet-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805": {
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793": {
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://jobbank.dk/en/job/3081715/freetrailer-as/senior-software-developer/": {
+      "title": "Senior Software Developer",
+      "company": "Freetrailer",
+      "url": "https://jobbank.dk/en/job/3081715/freetrailer-as/senior-software-developer/",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://jobbank.dk/en/job/3091610/danfoss-as/senior-backend-developer-edge-platform-mfd": {
+      "title": "Senior Backend Developer Edge Platform",
+      "company": "Danfoss",
+      "url": "https://jobbank.dk/en/job/3091610/danfoss-as/senior-backend-developer-edge-platform-mfd",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://jobbank.dk/en/job/2620789/danske-bank/back-end-specialist-for-developer-journey-automation": {
+      "title": "Back-end Specialist for Developer Journey Automation",
+      "company": "Danske Bank",
+      "url": "https://jobbank.dk/en/job/2620789/danske-bank/back-end-specialist-for-developer-journey-automation",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://jobbank.dk/en/job/2671411/kanpla/senior-backend-developer": {
+      "title": "Senior Backend Developer",
+      "company": "Kanpla",
+      "url": "https://jobbank.dk/en/job/2671411/kanpla/senior-backend-developer",
+      "first_seen": "2026-11-21",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobbank-search"
+    },
+    "https://weworkremotely.com/remote-jobs/tebra-staff-software-engineer-ai-engineering": {
+      "title": "Staff Software Engineer, AI Engineering",
+      "company": "Tebra",
+      "url": "https://weworkremotely.com/remote-jobs/tebra-staff-software-engineer-ai-engineering",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/checkr-solutions-architect": {
+      "title": "Solutions Architect",
+      "company": "Checkr",
+      "url": "https://weworkremotely.com/remote-jobs/checkr-solutions-architect",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media": {
+      "title": "AI Creative Engineer (Social Media)",
+      "company": "Elvoro",
+      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer": {
+      "title": "Senior Magento Developer",
+      "company": "Lemon.io",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://en-my.whatjobs.com/pub_api__cpl__27051718__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me": {
+      "title": "Junior Backend Engineer - FinTech & Payments",
+      "company": "Finexus Group",
+      "url": "https://en-my.whatjobs.com/pub_api__cpl__27051718__7112?utm_campaign=publisher&utm_medium=api&geoID=4&utm_source=freehire.me",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobindex.dk/jobannonce/h1716197": {
+      "title": "Junior Backend Developer til it-systemerne bag SU",
+      "company": "ATP",
+      "url": "https://www.jobindex.dk/jobannonce/h1716197",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobindex-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865": {
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://jobbank.dk/en/job/2933261/discreadis-dansk-ingeniorservice-as/full-stack-engineer-backend-focused": {
+      "title": "Full Stack Engineer (Backend-Focused)",
+      "company": "DIS/CREADIS Dansk Ingeniørservice",
+      "url": "https://jobbank.dk/en/job/2933261/discreadis-dansk-ingeniorservice-as/full-stack-engineer-backend-focused",
+      "first_seen": "2026-11-21",
+      "fit": "low",
+      "status": "new",
+      "portal": "jobbank-search"
     }
   }
 }
