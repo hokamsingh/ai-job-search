@@ -8717,6 +8717,936 @@
       ],
       "rank_location": "FLAG",
       "rank_deadline": "2026-12-16"
+    },
+    "https://in.linkedin.com/jobs/view/sde-2-backend-at-baazi-games-4490411257": {
+      "title": "SDE-2 (Backend)",
+      "company": "Baazi Games",
+      "location": "Delhi, India",
+      "url": "https://in.linkedin.com/jobs/view/sde-2-backend-at-baazi-games-4490411257",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-brazil-at-kake-4490829022": {
+      "title": "Senior Backend (NodeJS) Engineer - Remote - Brazil",
+      "company": "Kake",
+      "location": "Brazil",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-brazil-at-kake-4490829022",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/nodejs-developer-at-adani-enterprises-limited-4489202769": {
+      "title": "NodeJS Developer",
+      "company": "Adani Enterprises Limited",
+      "location": "Ahmedabad, Gujarat, India",
+      "url": "https://in.linkedin.com/jobs/view/nodejs-developer-at-adani-enterprises-limited-4489202769",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://fr.linkedin.com/jobs/view/lead-d%C3%A9veloppeur-backend-node-js-nestjs-%E2%80%93-microservices-h-f-at-citech-4492606823": {
+      "title": "Lead Développeur Backend Node.js / NestJS – Microservices (H/F)",
+      "company": "CITECH",
+      "location": "Évry, Île-de-France, France",
+      "url": "https://fr.linkedin.com/jobs/view/lead-d%C3%A9veloppeur-backend-node-js-nestjs-%E2%80%93-microservices-h-f-at-citech-4492606823",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217": {
+      "title": "Software Engineer, Backend (Node.js)",
+      "company": "Anthill",
+      "location": "Copenhagen, Capital Region of Denmark, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-backend-node-js-at-anthill-4490014217",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://co.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-colombia-at-kake-4490808992": {
+      "title": "Senior Backend (NodeJS) Engineer - Remote - Colombia",
+      "company": "Kake",
+      "location": "Colombia",
+      "url": "https://co.linkedin.com/jobs/view/senior-backend-nodejs-engineer-remote-colombia-at-kake-4490808992",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/backend-developer-node-js-nest-js-at-econocom-espa%C3%B1a-4488204647": {
+      "title": "Backend Developer (Node.js & Nest.JS)",
+      "company": "Econocom España",
+      "location": "Madrid, Community of Madrid, Spain",
+      "url": "https://es.linkedin.com/jobs/view/backend-developer-node-js-nest-js-at-econocom-espa%C3%B1a-4488204647",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-faye-4288912418": {
+      "title": "Senior Backend Engineer",
+      "company": "Faye",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "url": "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-faye-4288912418",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-developer-backend-senior-at-bigbear-ai-4484897297": {
+      "title": "Software Developer (Backend) Senior",
+      "company": "BigBear.ai",
+      "location": "Washington, DC",
+      "url": "https://www.linkedin.com/jobs/view/software-developer-backend-senior-at-bigbear-ai-4484897297",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-software-engineer-hybrid-newark-nj-nyc-or-edgewood-ny-at-broadridge-4466327745": {
+      "title": "Sr Software Engineer (Hybrid - Newark, NJ, NYC or Edgewood, NY)",
+      "company": "Broadridge",
+      "location": "Newark, NJ",
+      "url": "https://www.linkedin.com/jobs/view/sr-software-engineer-hybrid-newark-nj-nyc-or-edgewood-ny-at-broadridge-4466327745",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-backend-developer-at-bright-vision-technologies-4492722754": {
+      "title": "Node.js Backend Developer",
+      "company": "Bright Vision Technologies",
+      "location": "Frisco, TX",
+      "url": "https://www.linkedin.com/jobs/view/node-js-backend-developer-at-bright-vision-technologies-4492722754",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-backend-engineer-100%25-remote-full-time-w2-no-c2c-at-redolent-inc-4488996014": {
+      "title": "Node.js Backend Engineer | 100% Remote | Full-Time W2 | No C2C",
+      "company": "Redolent, Inc",
+      "location": "California, United States",
+      "url": "https://www.linkedin.com/jobs/view/node-js-backend-engineer-100%25-remote-full-time-w2-no-c2c-at-redolent-inc-4488996014",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-software-engineer-at-search-partner-group-llc-4492458534": {
+      "title": "Senior Backend Software Engineer",
+      "company": "Search Partner Group, LLC",
+      "location": "Arlington, TX",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-software-engineer-at-search-partner-group-llc-4492458534",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-pansophic-learning-4489982336": {
+      "title": "Senior Backend Engineer",
+      "company": "Pansophic Learning",
+      "location": "Tysons Corner, VA",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-pansophic-learning-4489982336",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-developer-at-bright-vision-technologies-4492715892": {
+      "title": "Node.js Developer",
+      "company": "Bright Vision Technologies",
+      "location": "Middlesex County, NJ",
+      "url": "https://www.linkedin.com/jobs/view/node-js-developer-at-bright-vision-technologies-4492715892",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/node-js-engieer-node-js-typescript-graphql-no-c2c-h1b-opt-at-redolent-inc-4488238450": {
+      "title": "Node.js Engieer (Node.Js, TypeScript, GraphQL) - NO c2c & H1B & OPT",
+      "company": "Redolent, Inc",
+      "location": "Bentonville, AR",
+      "url": "https://www.linkedin.com/jobs/view/node-js-engieer-node-js-typescript-graphql-no-c2c-h1b-opt-at-redolent-inc-4488238450",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://id.linkedin.com/jobs/view/sr-backend-engineer-ii-payment-at-ajaib-4493973328": {
+      "title": "Sr. Backend Engineer II - Payment",
+      "company": "Ajaib",
+      "location": "Jakarta, Jakarta, Indonesia",
+      "url": "https://id.linkedin.com/jobs/view/sr-backend-engineer-ii-payment-at-ajaib-4493973328",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://th.linkedin.com/jobs/view/sr-backend-engineer-ii-payment-at-ajaib-4493978145": {
+      "title": "Sr. Backend Engineer II - Payment",
+      "company": "Ajaib",
+      "location": "Thailand",
+      "url": "https://th.linkedin.com/jobs/view/sr-backend-engineer-ii-payment-at-ajaib-4493978145",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857": {
+      "title": "Software Engineer, Bridge",
+      "company": "Stripe",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-bridge-at-stripe-4492211857",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://tr.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4493657661": {
+      "title": "Senior Payments Engineer — Acquiring & Payment Processing",
+      "company": "Sezzle",
+      "location": "Istanbul, Istanbul, Türkiye",
+      "url": "https://tr.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4493657661",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://dk.linkedin.com/jobs/view/software-engineer-transactions-at-flatpay-4494130261": {
+      "title": "Software Engineer, Transactions",
+      "company": "Flatpay",
+      "location": "Herlev, Capital Region of Denmark, Denmark",
+      "url": "https://dk.linkedin.com/jobs/view/software-engineer-transactions-at-flatpay-4494130261",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294": {
+      "title": "(Senior) Backend Engineer (Golang) - Bank",
+      "company": "SumUp",
+      "location": "Vilnius, Vilniaus, Lithuania",
+      "url": "https://lt.linkedin.com/jobs/view/senior-backend-engineer-golang-bank-at-sumup-4462247294",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-experience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4493994926": {
+      "title": "Senior Backend Engineer | B2B AI Payments, Card Experience, Start-Up | London | Hybrid 2 Days | Up to £130,000 +Benefits & Equity",
+      "company": "Owen Thomas | B Corp™",
+      "location": "London Area, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/senior-backend-engineer-b2b-ai-payments-card-experience-start-up-london-hybrid-2-days-up-to-%C2%A3130-000-%2Bbenefits-equity-at-owen-thomas-b-corp%E2%84%A2-4493994926",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4493645842": {
+      "title": "Senior Payments Engineer — Acquiring & Payment Processing",
+      "company": "Sezzle",
+      "location": "Brasília de Minas, Minas Gerais, Brazil",
+      "url": "https://br.linkedin.com/jobs/view/senior-payments-engineer-%E2%80%94-acquiring-payment-processing-at-sezzle-4493645842",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-calialfa-previously-alfabet-4488219961": {
+      "title": "Senior Backend Engineer",
+      "company": "CaliAlfa (Previously Alfabet)",
+      "location": "Herzliya, Tel Aviv District, Israel",
+      "url": "https://il.linkedin.com/jobs/view/senior-backend-engineer-at-calialfa-previously-alfabet-4488219961",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4489786308": {
+      "title": "Backend Engineer",
+      "company": "kwiff",
+      "location": "London, England, United Kingdom",
+      "url": "https://uk.linkedin.com/jobs/view/backend-engineer-at-kwiff-4489786308",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://mt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324693013": {
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Block Labs",
+      "location": "Malta",
+      "url": "https://mt.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324693013",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://es.linkedin.com/jobs/view/senior-backend-engineer-sports-at-leovegas-group-4449126170": {
+      "title": "Senior Backend Engineer - Sports",
+      "company": "LeoVegas Group",
+      "location": "Málaga, Andalusia, Spain",
+      "url": "https://es.linkedin.com/jobs/view/senior-backend-engineer-sports-at-leovegas-group-4449126170",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://pl.linkedin.com/jobs/view/backend-software-engineer-igaming-at-igt-4481087823": {
+      "title": "Backend Software Engineer (iGaming)",
+      "company": "IGT",
+      "location": "Warsaw, Mazowieckie, Poland",
+      "url": "https://pl.linkedin.com/jobs/view/backend-software-engineer-igaming-at-igt-4481087823",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-software-engineer-sportsbook-platform-at-penn-interactive-4487489835": {
+      "title": "Senior Software Engineer, Sportsbook Platform",
+      "company": "PENN Interactive",
+      "location": "Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-software-engineer-sportsbook-platform-at-penn-interactive-4487489835",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-punt-4479586579": {
+      "title": "Senior Backend Engineer",
+      "company": "Punt",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://ca.linkedin.com/jobs/view/senior-backend-engineer-at-punt-4479586579",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-back-end-senior-h-f-%E2%80%93-syst%C3%A8mes-distribu%C3%A9s-paris-75-at-mindrh-formation-4492484156": {
+      "title": "Développeur Back-End Senior H/F – Systèmes Distribués | Paris(75)",
+      "company": "MindRH Formation",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-back-end-senior-h-f-%E2%80%93-syst%C3%A8mes-distribu%C3%A9s-paris-75-at-mindrh-formation-4492484156",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026": {
+      "title": "Senior Backend Engineer (Go)",
+      "company": "Block Labs",
+      "location": "Montenegro, Rio Grande do Sul, Brazil",
+      "url": "https://br.linkedin.com/jobs/view/senior-backend-engineer-go-at-block-labs-4324999026",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-backend-engineer-foundations-at-quo-4488082704": {
+      "title": "Staff Backend Engineer, Foundations",
+      "company": "Quo",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/staff-backend-engineer-foundations-at-quo-4488082704",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-addable-4491040974": {
+      "title": "Staff Software Engineer",
+      "company": "Addable",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-addable-4491040974",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-software-development-engineer-medicare-technology-at-cvs-health-4490975533": {
+      "title": "Principal Software Development Engineer - Medicare Technology",
+      "company": "CVS Health",
+      "location": "Hartford, CT",
+      "url": "https://www.linkedin.com/jobs/view/principal-software-development-engineer-medicare-technology-at-cvs-health-4490975533",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4401105780": {
+      "title": "Staff Software Engineer",
+      "company": "Thomson Reuters",
+      "location": "Eagan, MN",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4401105780",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-staff-product-engineer-backend-at-radar-4473803341": {
+      "title": "Senior / Staff Product Engineer, Backend",
+      "company": "Radar",
+      "location": "New York, NY",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-product-engineer-backend-at-radar-4473803341",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-full-stack-engineer-node-js-angular-rest-apis-at-fidelity-investments-4472655464": {
+      "title": "Principal Full Stack Engineer (Node.js, Angular, REST APIs)",
+      "company": "Fidelity Investments",
+      "location": "Covington, KY",
+      "url": "https://www.linkedin.com/jobs/view/principal-full-stack-engineer-node-js-angular-rest-apis-at-fidelity-investments-4472655464",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4401109776": {
+      "title": "Staff Software Engineer",
+      "company": "Thomson Reuters",
+      "location": "Ann Arbor, MI",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-thomson-reuters-4401109776",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-software-engineer-at-floqast-4476399459": {
+      "title": "Staff Software Engineer",
+      "company": "FloQast",
+      "location": "Los Angeles, CA",
+      "url": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-floqast-4476399459",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-principal-fullstack-software-engineer-at-witnessai-4489580470": {
+      "title": "Staff/Principal Fullstack Software Engineer",
+      "company": "WitnessAI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/staff-principal-fullstack-software-engineer-at-witnessai-4489580470",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-at-chg-healthcare-4490796809": {
+      "title": "Senior Staff Software Engineer",
+      "company": "CHG Healthcare",
+      "location": "Salt Lake City, UT",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-software-engineer-at-chg-healthcare-4490796809",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.careers-page.com/pradeepit/job/L75V5673?utm_source=freehire.me": {
+      "title": "Backend Engineer-NodeJS",
+      "company": "PradeepIT Consulting Services Pvt Ltd",
+      "location": "Bengaluru, KA, India",
+      "url": "https://www.careers-page.com/pradeepit/job/L75V5673?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/de/job/backend-engineer-m-f-d--germany--ea48c4cb7193f25f670d959bce51e5423?utm_source=freehire.me": {
+      "title": "Backend Engineer (all) - TypeScript / NodeJS",
+      "company": "XO Life",
+      "location": ",",
+      "url": "https://www.jobleads.com/de/job/backend-engineer-m-f-d--germany--ea48c4cb7193f25f670d959bce51e5423?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://medvidi.com/careers/co/remote-eu/C7.475/senior-backend-nodejs-engineer/all?utm_source=freehire.me": {
+      "title": "Senior Backend (NodeJS) Engineer",
+      "company": "Medvidi",
+      "location": "Warsaw, Warsaw",
+      "url": "https://medvidi.com/careers/co/remote-eu/C7.475/senior-backend-nodejs-engineer/all?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://br.whatjobs.com/pub_api__cpl__467234203__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Backend (NodeJS) Engineer - Remote - Brazil",
+      "company": "Kake",
+      "location": "Brazil",
+      "url": "https://br.whatjobs.com/pub_api__cpl__467234203__7076?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4478636305/?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - NodeJS",
+      "company": "Air Apps",
+      "location": "United Kingdom",
+      "url": "https://www.linkedin.com/jobs/view/4478636305/?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://apply.workable.com/j/F536966544?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer: NodeJS",
+      "company": "Fabulous",
+      "location": "Paris, Île-de-France, France",
+      "url": "https://apply.workable.com/j/F536966544?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.whatjobs.com/pub_api__cpl__3273589262__7065?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me": {
+      "title": "Senior Software Engineer - (Backend Focused - NodeJS, AWS) - W2 Role",
+      "company": "Kellton",
+      "location": "United States",
+      "url": "https://www.whatjobs.com/pub_api__cpl__3273589262__7065?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://remote.com/jobs/bluelight-consulting-c1kyiip4/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-latin-america-remote-j1f5quoy?utm_source=freehire.me": {
+      "title": "Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Latin America, Remote",
+      "company": "Bluelight Consulting",
+      "location": "Latin America",
+      "url": "https://remote.com/jobs/bluelight-consulting-c1kyiip4/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-latin-america-remote-j1f5quoy?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/cl/job/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-remote-latin-america--punta-arenas--eec77a9a7bbcd1f0457bd3bc96843c395?utm_source=freehire.me": {
+      "title": "Full Stack And Backend Nodejs Typescript/Javascript Engineer (Senior) - Remote, Latin America",
+      "company": "Bluelight Consulting, Llc",
+      "location": "Punta Arenas, Región de Magallanes y de la Antártica Chilena",
+      "url": "https://www.jobleads.com/cl/job/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-remote-latin-america--punta-arenas--eec77a9a7bbcd1f0457bd3bc96843c395?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/br/job/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-remote-latin-america--sao-paulo--e91bd781a4ae555e67ab49218cc4626e2?utm_source=freehire.me": {
+      "title": "Full Stack And Backend Nodejs Typescript/Javascript Engineer (Senior) - Remote, Latin America",
+      "company": "Bluelight Consulting LLC",
+      "location": "São Paulo, São Paulo",
+      "url": "https://www.jobleads.com/br/job/full-stack-and-backend-nodejs-typescript-javascript-engineer-senior-remote-latin-america--sao-paulo--e91bd781a4ae555e67ab49218cc4626e2?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/se/job/remote-senior-backend-engineer-scalable-secure-nodejs--stockholms-kommun--e2f08b44420081db203a23cf45148f6c9?utm_source=freehire.me": {
+      "title": "Remote Senior Backend Engineer - Scalable, Secure NodeJS",
+      "company": "Tether Operations Limited",
+      "location": "Stockholms kommun, Stockholms län",
+      "url": "https://www.jobleads.com/se/job/remote-senior-backend-engineer-scalable-secure-nodejs--stockholms-kommun--e2f08b44420081db203a23cf45148f6c9?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.careers-page.com/unitalentconsultancy/job/L49X4XV5?utm_source=freehire.me": {
+      "title": "Sr. Backend Engineer (Nodejs)",
+      "company": "Unitalent Consultancy OÜ",
+      "location": null,
+      "url": "https://www.careers-page.com/unitalentconsultancy/job/L49X4XV5?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://careers.reap.global/jobs/7862808-senior-software-engineer-card-solutions-backend-focused-nodejs-typescript?utm_source=freehire.me": {
+      "title": "Senior Software Engineer, Card Solutions (Backend-Focused, NodeJS/TypeScript)",
+      "company": "Reap",
+      "location": "Malaysia, MY",
+      "url": "https://careers.reap.global/jobs/7862808-senior-software-engineer-card-solutions-backend-focused-nodejs-typescript?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/it/job/software-engineer-back-end-nodejs--italy--e159efa09a9c95955dd5b532738b3fbc6?utm_source=freehire.me": {
+      "title": "Software Engineer (Back End – NodeJs)",
+      "company": "CUTOWL s.r.l",
+      "location": ",",
+      "url": "https://www.jobleads.com/it/job/software-engineer-back-end-nodejs--italy--e159efa09a9c95955dd5b532738b3fbc6?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ph/job/backend-engineer--manila--ecc6add011d895c23c52dbde4284aada4?utm_source=freehire.me": {
+      "title": "Backend Engineer",
+      "company": "Stranger Soccer",
+      "location": "Manila, Metro Manila",
+      "url": "https://www.jobleads.com/ph/job/backend-engineer--manila--ecc6add011d895c23c52dbde4284aada4?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.foundit.in/job/full-stack-engineer-node-js-react-next-js-jobgether-india-69895276?utm_source=freehire.me": {
+      "title": "Full-Stack Engineer -Nodejs React-Nextjs",
+      "company": "Jobgether",
+      "location": "India",
+      "url": "https://www.foundit.in/job/full-stack-engineer-node-js-react-next-js-jobgether-india-69895276?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://builtin.com/job/senior-nodejs-engineer/12182506?utm_source=freehire.me": {
+      "title": "Senior Nodejs Engineer",
+      "company": "Shuru",
+      "location": "Gurgaon, Haryana, IND",
+      "url": "https://builtin.com/job/senior-nodejs-engineer/12182506?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://shurutech.zohorecruit.in/jobs/Careers/156977000028332212?utm_source=freehire.me": {
+      "title": "Senior Nodejs Engineer",
+      "company": "Shuru Technologies",
+      "location": null,
+      "url": "https://shurutech.zohorecruit.in/jobs/Careers/156977000028332212?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ar/job/senior-backend-engineer-java-cloud-native-aws-remote--buenos-aires--eca7a79d51ef25be3fd60fa6cca267eb5?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Java | Cloud-Native, AWS, Remote",
+      "company": "Coderio",
+      "location": "Buenos Aires, Ciudad Autónoma de Buenos Aires",
+      "url": "https://www.jobleads.com/ar/job/senior-backend-engineer-java-cloud-native-aws-remote--buenos-aires--eca7a79d51ef25be3fd60fa6cca267eb5?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ph/job/remote-backend-engineer-aws-php-node-js--manila--e19db3cc480655dcf2527587e5dc7e1a8?utm_source=freehire.me": {
+      "title": "Remote Backend Engineer — AWS, PHP & Node.js",
+      "company": "Stranger Soccer",
+      "location": "Manila, Metro Manila",
+      "url": "https://www.jobleads.com/ph/job/remote-backend-engineer-aws-php-node-js--manila--e19db3cc480655dcf2527587e5dc7e1a8?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/pk/job/remote-lead-backend-architect-nestjs-typescript-graphql--islamabad--e56e54a1a4d22f3d0fd4e0ce78f8427b4?utm_source=freehire.me": {
+      "title": "Remote Lead Backend Architect — NestJS/TypeScript, GraphQL",
+      "company": "Wizdaa",
+      "location": "Islamabad, Islamabad Capital Territory",
+      "url": "https://www.jobleads.com/pk/job/remote-lead-backend-architect-nestjs-typescript-graphql--islamabad--e56e54a1a4d22f3d0fd4e0ce78f8427b4?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://hh.ru/vacancy/138789927?utm_source=freehire.me": {
+      "title": "Backend-разработчик (TypeScript / NestJS / Kafka)",
+      "company": "Медиа Технолоджи",
+      "location": "Санкт-Петербург",
+      "url": "https://hh.ru/vacancy/138789927?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://wantapply.com/senior-backend-developer-typescript-nestjs-aws-at-qulix?utm_source=freehire.me": {
+      "title": "Senior Backend Developer (TypeScript + NestJS + AWS)",
+      "company": "Qulix",
+      "location": "Poland",
+      "url": "https://wantapply.com/senior-backend-developer-typescript-nestjs-aws-at-qulix?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/be/job/engenheiro-backend-senior-typescript-node-js-nestjs--belgium--ea3ae54138222705fa644df7fd699c0d8?utm_source=freehire.me": {
+      "title": "Engenheiro Backend Sênior - TypeScript, Node.js & NestJS",
+      "company": "Bluesix",
+      "location": ",",
+      "url": "https://www.jobleads.com/be/job/engenheiro-backend-senior-typescript-node-js-nestjs--belgium--ea3ae54138222705fa644df7fd699c0d8?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://uk.whatjobs.com/pub_api__cpl__574374252__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me": {
+      "title": "Senior TypeScript Backend Engineer – Remote, AI-Powered",
+      "company": "Darwin Recruitment",
+      "location": "London, United Kingdom",
+      "url": "https://uk.whatjobs.com/pub_api__cpl__574374252__7082?utm_campaign=publisher&utm_medium=api&geoID=33&utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/co/job/remote-senior-backend-engineer-node-js-nestjs--colombia--e7bb9c06b52da53ad027b6fe4c6405b52?utm_source=freehire.me": {
+      "title": "Remote Senior Backend Engineer (Node.js/NestJS)",
+      "company": "Kake",
+      "location": ",",
+      "url": "https://www.jobleads.com/co/job/remote-senior-backend-engineer-node-js-nestjs--colombia--e7bb9c06b52da53ad027b6fe4c6405b52?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4491611694/?utm_source=freehire.me": {
+      "title": "Senior Backend Developer (Node.js / TypeScript)",
+      "company": "PLAN A",
+      "location": "Sofia, Sofia City, Bulgaria",
+      "url": "https://www.linkedin.com/jobs/view/4491611694/?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/es/job/senior-backend-engineer-remote-node-js-nestjs-aws--spain--eb6d1a192d8d05d5dd11a97a33cd3470e?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Remote) - Node.js/NestJS/AWS",
+      "company": "Jobgether",
+      "location": ",",
+      "url": "https://www.jobleads.com/es/job/senior-backend-engineer-remote-node-js-nestjs-aws--spain--eb6d1a192d8d05d5dd11a97a33cd3470e?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://nofluffjobs.com/job/regular-senior-backend-developer-node-js-typescript-hubquest-remote?utm_source=freehire.me": {
+      "title": "Regular / Senior Backend Developer (Node.js / TypeScript)",
+      "company": "hubQuest",
+      "location": "Warsaw, Poland",
+      "url": "https://nofluffjobs.com/job/regular-senior-backend-developer-node-js-typescript-hubquest-remote?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://wuzzuf.net/jobs/p/vrn3xoqjkp3g-mid-level-backend-engineer-nodejs-nestjs-confidential-company-cairo-egypt?utm_source=freehire.me": {
+      "title": "Mid-level Backend Engineer (Node.js & NestJS)",
+      "company": "confidential Company",
+      "location": "Cairo, Egypt",
+      "url": "https://wuzzuf.net/jobs/p/vrn3xoqjkp3g-mid-level-backend-engineer-nodejs-nestjs-confidential-company-cairo-egypt?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.hirist.tech/j/backend-developer-typescript-node-js-1652636?utm_source=freehire.me": {
+      "title": "Backend Developer - TypeScript/Node.js",
+      "company": "Ionixx Technologies",
+      "location": "Chennai; Remote",
+      "url": "https://www.hirist.tech/j/backend-developer-typescript-node-js-1652636?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/pk/job/senior-backend-engineer-node-js-nestjs-for-real-time-platform--pakistan--e4910dbdd72032e59bac0115250a6c0db?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Node.js/NestJS) for Real-Time Platform",
+      "company": "Flatgigs",
+      "location": ",",
+      "url": "https://www.jobleads.com/pk/job/senior-backend-engineer-node-js-nestjs-for-real-time-platform--pakistan--e4910dbdd72032e59bac0115250a6c0db?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ch/job/senior-backend-engineer-remote-node-js-nestjs-aws--switzerland--e4d5bc59e0ef981341dff8fb09051e686?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer — Remote (Node.js/NestJS/AWS)",
+      "company": "Jobgether",
+      "location": ",",
+      "url": "https://www.jobleads.com/ch/job/senior-backend-engineer-remote-node-js-nestjs-aws--switzerland--e4d5bc59e0ef981341dff8fb09051e686?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/ar/job/senior-backend-engineer-node-js-nestjs-remote--argentina--e6086aeb63f0788ee75979503dc510be2?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer: Node.js & NestJS, Remote",
+      "company": "Bowery Creative LLC",
+      "location": ",",
+      "url": "https://www.jobleads.com/ar/job/senior-backend-engineer-node-js-nestjs-remote--argentina--e6086aeb63f0788ee75979503dc510be2?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://djinni.co/jobs/857601-senior-backend-engineer-node-js-nestjs-postgr/?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer (Node.js / NestJS, PostgreSQL)",
+      "company": "Agroplace LTD",
+      "location": "UA",
+      "url": "https://djinni.co/jobs/857601-senior-backend-engineer-node-js-nestjs-postgr/?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.jobleads.com/co/job/senior-backend-engineer-remote-node-js-nestjs-ts--colombia--e8673571cc87c9e36b9e042ca954a424f?utm_source=freehire.me": {
+      "title": "Senior Backend Engineer - Remote (Node.js, NestJS, TS)",
+      "company": "Kake Group",
+      "location": ",",
+      "url": "https://www.jobleads.com/co/job/senior-backend-engineer-remote-node-js-nestjs-ts--colombia--e8673571cc87c9e36b9e042ca954a424f?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://itviec.com/it-jobs/remote-fullstack-developer-typescript-node-js-nestjs-orgscale-recruitment-4352?utm_source=freehire.me": {
+      "title": "Remote-Fullstack Developer(TypeScript, Node.js, NestJS)",
+      "company": "OrgScale Recruitment",
+      "location": "Hồ Chí Minh, Đà Nẵng, Vietnam",
+      "url": "https://itviec.com/it-jobs/remote-fullstack-developer-typescript-node-js-nestjs-orgscale-recruitment-4352?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote-f21f?utm_source=freehire.me": {
+      "title": "Back-end Software Engineer – NestJS | Cloud Native | AWS",
+      "company": "WiTi",
+      "location": "Remote",
+      "url": "https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote-f21f?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "high",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.smartrecruiters.com/LilHorseLab/743999994334375-senior-backend-developer?utm_source=freehire.me": {
+      "title": "Senior Backend Developer",
+      "company": "Lil Horse Lab",
+      "location": "Buenos Aires, Cdad. Autónoma de Buenos Aires, ar",
+      "url": "https://jobs.smartrecruiters.com/LilHorseLab/743999994334375-senior-backend-developer?utm_source=freehire.me",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform": {
+      "title": "Backend Engineer, Developer & End-user Experience Platform",
+      "company": "Stripe",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-developer-end-user-experience-platform",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development": {
+      "title": "Backend Engineer, Trusted Agentic Development",
+      "company": "GitLab",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-trusted-agentic-development",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development-1": {
+      "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+      "company": "GitLab",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development-1",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development": {
+      "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+      "company": "GitLab",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-plan-spec-driven-development",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog": {
+      "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+      "company": "GitLab",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations": {
+      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+      "company": "GitLab",
+      "location": null,
+      "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-python-ai-engineering-agent-foundations",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "weworkremotely-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835": {
+      "title": "Technical Lead Norm Compliance",
+      "company": "Norm",
+      "location": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
+      "first_seen": "2026-11-24",
+      "fit": "low",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808": {
+      "title": "Software Engineer AI Coding Tasks",
+      "company": "Askable",
+      "location": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805": {
+      "title": "SEO Full Stack Engineer",
+      "company": "Treatwell",
+      "location": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793": {
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "location": null,
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "remoteok-search"
+    },
+    "https://jobdanmark.dk/job/ai-software-developer": {
+      "title": "AI Software Developer",
+      "company": null,
+      "location": null,
+      "url": "https://jobdanmark.dk/job/ai-software-developer",
+      "first_seen": "2026-11-24",
+      "fit": "medium",
+      "status": "new",
+      "portal": "jobdanmark-search"
     }
   }
 }
